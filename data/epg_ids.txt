@@ -99,6 +99,7 @@
 6ter.fr@SD
 7.info
 7080TV.it@SD
+70sCinema.us
 7Gold.it@SD
 7News.pk@SD
 7RadioVisione.it@HD
@@ -122,6 +123,7 @@ A24.ar@SD
 A2TV.tr@SD
 A2iTV.it@SD
 ABCAustralia.au@SD
+ABCNewsLive.us
 ABN.kr@SD
 ABTVBariloche.ar@SD
 ACISportTV.it@SD
@@ -189,6 +191,7 @@ AlArabiyaEnglish.sa@SD
 AlEkhbariya.sa@SD
 AlGhadTV.eg@SD
 AlHadath.sa@SD
+AlJazeera.qa
 AlJazeera.qa@Arabic
 AlJazeeraEnglish.id
 AlMashhad.ae@SD
@@ -264,11 +267,15 @@ AztecaUno.mx@SD
 AzzurraTV.it@SD
 BBC News
 BBCAlba.uk@SD
+BBCDrama.uk
+BBCEarth.uk
 BBCFirst.uk@Turkiye
 BBCFour.uk@UK
 BBCFourCBeebies.uk@HD
 BBSTV.kr@SD
 BCSStarCrossTV.ng@SD
+BETClassicsPlutoTV.us
+BETPlutoTV.us
 BFMAlsace.fr@SD
 BFMBusiness.fr@SD
 BFMCotedAzur.fr@SD
@@ -293,11 +300,14 @@ BeJoykids.it@HD
 BendicionChannel.co@HD
 BenguturkTV.tr@SD
 BergamoTV.it@SD
+BeverlyHills90210.us
 BigTimePlus.sa@SD
 BilyonaryoNewsChannel.ph@SD
 BinhThuanTV.vn@SD
 BirTV.tr@SD
 BloombergTV.id
+BloombergTV.us
+BlueBloods.us
 BoishakhiTV.bd@SD
 BomChannel.it@SD
 Boomerang.th@SD
@@ -305,11 +315,15 @@ BoonniyomTV.th@SD
 BrideTV.ng@SD
 BuddyStar.id
 BuenisimaRadioTV.co@SD
+CBSNews247.us
+CBSSportsHQ.us
 CBeebies.id
 CCM.id
 CGEntertainment.it@SD
 CGNTVJapan.jp@SD
 CGTN
+CGTN.cn
+CGTNDocumentary.cn
 CGTNDocumentary.id
 CJOnStyle.kr@SD
 CJOnStylePlus.kr@SD
@@ -319,7 +333,9 @@ CNBCArabiya.ae@SD
 CNBCIndonesia.id
 CNBCIndonesia.id@SD
 CNNIndonesia.id
+CNNInternational.us
 CNNNews18.in@SD
+CSI.us
 CaMauTV.vn@SD
 CafeTV24.it@SD
 CalabriaTV.it@SD
@@ -347,11 +363,19 @@ ChannelA.kr@SD
 Channels24.ng@SD
 ChannelsTV.ng@SD
 CharoenCable37TV.th@SD
+Cheers.us
 CineEdge.id
 CinemachiXtra.uk@SD
+ClassicMoviesChannel.us
+Classica.us
+ColdCaseFiles.us
+ComedyCentralPlutoTV.us
+ComedyCentralSouthPark.us
 CompanyTV.it@SD
 CoolChannel.th@SD
+CourtTV.us
 CozaTV.ng@SD
+CricketGold.au
 CrimeInvestigation.id
 CrimeandEvidence.za@SD
 CusanoItaliaTV.it@SD
@@ -367,16 +391,20 @@ Deluxe139.it@SD
 Dens Food Channel
 Dens ShowBiz
 DienBienTV.vn@SD
+DoctorWhoClassic.us
 DragonTV.cn@SD
 DreamWorks.id
 DubaiTVInternational.ae@SD
 EBSPlus1.kr@SD
 EBSPlus2.kr@SD
+ESPN8TheOcho.us
 Ent.id
 EsperiaTV.it@SD
 EtnaEspressoChannel.it@SD
 Euronews.id
+EuronewsEnglish.fr
 FGTV.kr@SD
+FIFAPlus.uk
 FIFAPlus.uk@English
 FMITALIA.it@SD
 FOX SPORTS 2.mx
@@ -386,9 +414,12 @@ FOX SPORTS.mx
 FOXNews.id
 FTV.tw@SD
 Fairuz.sa@HD
+FamilyTies.us
+Farscape.us
 FilAmTVNetwork.us@HD
 FoodTravel.id
 FoxSports.us@SD
+France24.fr
 France24English.id
 GALAXYPremium.id
 GCN.kr@SD
@@ -406,16 +437,20 @@ GiornaleRadioTV.it@SD
 GoLive
 GongyoungHomeShopping.kr@SD
 GoodTV.kr@SD
+GravitasMovies.us
 GreatCommissionTV.ke@SD
 GugakTV.kr@SD
+Gunsmoke.us
 HGTV.id
 HITS Now.id
 HITS.sg@SD
 HLCNDTV.kr@SD
 HLCXDTV.kr@SD
 HLDEDTV.kr@SD
+HallmarkMoviesMore.us
 HanacarakaTV.id
 History.id
+HistoryHit.uk
 HitsMovies.id
 HomebaseTV.za@SD
 HopeChannelPhilippines.ph@SD
@@ -427,6 +462,7 @@ IDXChannel.id@SD
 IMC.id
 INCTV.ph@SD
 INTRAVEL.nl@Philippines
+IONTV.us
 Indonesiana TV
 Indosiar.id
 InooroTV.ke@SD
@@ -446,6 +482,7 @@ JogjaIstimewaTV.id@SD
 Juwelo.it@SD
 KBS.World.id
 KIX.id
+KartoonChannel.us
 KawanuaTV.id@SD
 KidsTV.id
 KilisuciTV.id@SD
@@ -470,9 +507,12 @@ MBCMood.sa@HD
 MBCPersia.ae@SD
 MBGTV.id@FHD
 MDTV.id
+MLB.us
 MMoonbugKids.uk@SD
 MNBWorld.mn@SD
 MNCTV.id
+MTVBiggestPop.us
+MTVSpankinNew.us
 MadaniTV.id@SD
 MagnaChannel.id
 MajidAlMohandis.sa@SD
@@ -481,28 +521,36 @@ Maraya.sa@HD
 MatrixTVYogyakarta.id@HD
 Mazzika.eg@SD
 MetroTV.id
+MidsomerMurders.us
 MindanowNetworkTV.ph@HD
 MohammedAbdo.sa@SD
 Moji.id
 Moji.id@SD
+MoonbugKids.uk
 Motorvision
 MoviesAction.sa@SD
 MoviesThriller.sa@SD
 MyCinemaEurope.ch@SD
 NAT_GEO_SHARKS
+NBCComedyVault.us
+NBCNewsNOW.us
+NBCSportsNOW.us
 NHKGeneralTV.jp@JOJGDTV
 NHKWorldJapan.id
 NHKWorldPremium.id
+NOWRock.uk
 Nickelodeon.id
 NipponTV.jp@JOAXDTV
 NourTV.ae@SD
 NusantaraTV.id
 Originals.id
+PGATour.us
 PKTV.id@SD
 PONTV.id@SD
 PanoramaFM.sa@SD
 PeaceTVChinese.ae@SD
 PlusMaisUm.br@HD
+PlutoTVScience.us
 PlutoTVSport.de@IT
 PremierSports.ph@SD
 PremierSports2.ph@SD
@@ -516,6 +564,8 @@ ROCKEntertainment.id
 RRINet.id@SD
 RTV.id
 RabehSaqer.sa@HD
+RedBullTV.at
+RugbyPassTV.uk
 Russia Today
 SCTV.id
 SMTV.id@SD
@@ -524,9 +574,13 @@ SPOTV2.id
 SalamTV.id@SD
 SanMarinoRTVSport.sm@SD
 SangajiTV.id@SD
+ScrippsNews.us
 Sharjah2.ae@SD
 SinPoTV.id@HD
 SindoNewsTV.id
+SmithsonianChannelPlutoTV.us
+Stadium.us
+StarTrek.us
 StaraTV.id@Bandung
 StaraTV.id@Bojonegoro
 StaraTV.id@Cianjur
@@ -552,12 +606,14 @@ TVRI.id
 TVTokyo.jp@JOTXDTV
 TVUYamagata.jp@JOWIDTV
 TeleArena.it@SD
+TennisChannel.us
 TheIndonesiaChannel.id@SD
 Thrill.hk@SD
 Trans7.id
 TransTV.id
 UChannel.id@SD
 UGTV.id@SD
+VICETV.us
 VTV.id@HD
 Vasantham
 VisionPrime.id
@@ -810,6 +866,7 @@ balapan.international
 bbc.earth
 bbc.earth.czechia
 bbc.earth.hungary
+beINSPORTSXTRA.us
 beINSPORTSXTRA.us@SD
 beINSPORTSXTRAenEspanol.us@SD
 beINSports1Turk.tr@SD
