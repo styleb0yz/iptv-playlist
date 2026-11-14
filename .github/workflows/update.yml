@@ -1,0 +1,77 @@
+name: update-playlist
+
+on:
+  schedule:
+    - cron: '30 20 * * *'   # 03:30 WIB (UTC+7) setiap hari
+  workflow_dispatch:
+
+permissions:
+  contents: write     # commit data/ (salinan sumber, cache radio, status)
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-playlist
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install pyyaml
+
+      - name: Tarik sumber (fallback ke versi kemarin)
+        run: python fetch_sources.py data
+
+      - name: Radio Browser (fallback cache, gagal kalau nol)
+        run: python fetch_radio.py data
+
+      - name: Build tahap 1 (daftar kandidat)
+        run: python build.py --index data/index.m3u --dhany data/dhanytv.m3u --draft draft_esensial.csv --dir data --out out
+
+      - name: EPG (mjh + gabung sumber di rules.yml; fallback ke epg_ids.txt kemarin)
+        continue-on-error: true
+        run: |
+          mkdir -p site
+          python epg_mjh.py --playlist out/playlist.m3u --out /tmp/epg_mjh.xml || echo "epg_mjh gagal, EPG tanpa sumber mjh"
+          python epg_merge.py --rules rules.yml --out site/epg.xml \
+            && python epg_check.py --epg site/epg.xml --out data/epg_ids.new \
+            && python epg_guard.py data/epg_ids.new data/epg_ids.txt \
+            && [ -s data/epg_ids.new ] && mv data/epg_ids.new data/epg_ids.txt \
+            || echo "EPG gagal, pakai epg_ids.txt kemarin (kalau ada)"
+          rm -f data/epg_ids.new
+
+      - name: Cek stream dari GitHub (tidak memblokir publish)
+        continue-on-error: true
+        run: python check_local.py out/kandidat_semua.json -o data/status_github.json --skip-exempt --workers 48 --per-host 4 --timeout 8 --retries 2 --max-age-hours 20 --max-minutes 150 --max-fail-rate 0.7
+
+      - name: Build tahap 2 (final)
+        run: python build.py --index data/index.m3u --dhany data/dhanytv.m3u --draft draft_esensial.csv --dir data --out out --require-radio
+
+      - name: Simpan data hari ini
+        run: |
+          git config user.name "playlist-bot"
+          git config user.email "playlist-bot@users.noreply.github.com"
+          date -u +%FT%TZ > data/last_run.txt   # aktivitas harian, menjaga jadwal tidak dimatikan GitHub
+          git add data
+          git diff --cached --quiet || git commit -m "data $(date -u +%F)"
+          git push || echo "push dilewati"
+
+      - name: Siapkan situs
+        run: |
+          mkdir -p site
+          cp out/playlist.m3u out/laporan.md site/
+          echo '<meta charset="utf-8"><title>playlist</title><a href="playlist.m3u">playlist.m3u</a> · <a href="laporan.md">laporan.md</a>' > site/index.html
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: site}
+      - id: deploy
+        uses: actions/deploy-pages@v4
