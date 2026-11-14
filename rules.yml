@@ -9,7 +9,7 @@ files:
 # EPG: off = header '#EXTM3U' polos, tvg-id asli. single = url-tvg + remap tvg-id ke id yang ada di epg_ids.txt
 epg:
   mode: single
-  url: https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml   # yang ditulis ke header url-tvg playlist
+  url: https://styleb0yz.github.io/iptv-playlist/epg.xml   # header url-tvg playlist = hasil gabungan dhanytv + mjh
   # Sumber EPG untuk epg_merge.py (dipakai workflow GitHub). Urutan = prioritas: kalau satu id ada di dua sumber, sumber pertama menang.
   # Kalau sumber > 1, ganti 'url' di atas ke https://USER.github.io/iptv-playlist/epg.xml (hasil gabungan) setelah Pages hidup.
   sources:
