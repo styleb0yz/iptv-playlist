@@ -1,0 +1,191 @@
+{
+ "Foxtel/epg": {
+  "AJE": "AlJazeera.qa",
+  "BLM": "BloombergTV.us",
+  "CCC": "CGTN.cn",
+  "CNN": "CNNInternational.us",
+  "NHK": "NHKWorldJapan.jp",
+  "NNN": "NBCNewsNOW.us"
+ },
+ "Plex/au": {
+  "697140a85d851f5e69414688-5f74cf83ffbe690040689f50": "HistoryHit.uk",
+  "697140a85d851f5e69414688-60089d90f682a3002c348299": "EuronewsEnglish.fr",
+  "697140a85d851f5e69414688-61d73ab0a7b7c7f703418516": "BloombergTV.us",
+  "697140a85d851f5e69414688-65e0c8c6d899afe817b9d224": "CricketGold.au",
+  "697140a85d851f5e69414688-669994d717c9985deeb74e3b": "beINSPORTSXTRA.us",
+  "697140a85d851f5e69414688-678fe7959407a53556d3e8eb": "France24.fr",
+  "697140a85d851f5e69414688-68017ed20268b77d02a5f4bd": "PGATour.us"
+ },
+ "Plex/ca": {
+  "647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e": "GravitasMovies.us",
+  "647f8d22a2fc3fadb4721685-5f74cf83ffbe690040689f50": "HistoryHit.uk",
+  "647f8d22a2fc3fadb4721685-5fc70600dd53a6002d8f93ca": "NBCNewsNOW.us",
+  "647f8d22a2fc3fadb4721685-635195e9ccee3e1547a8831a": "Farscape.us",
+  "647f8d22a2fc3fadb4721685-63d6fc71a9e88ee909e7ee23": "MidsomerMurders.us",
+  "647f8d22a2fc3fadb4721685-6598baa010cb8b7793c6b3f8": "BloombergTV.us",
+  "647f8d22a2fc3fadb4721685-65e0c8c6d899afe817b9d224": "CricketGold.au",
+  "647f8d22a2fc3fadb4721685-678fe7959407a53556d3e8eb": "France24.fr",
+  "647f8d22a2fc3fadb4721685-68017ed20268b77d02a5f4bd": "PGATour.us"
+ },
+ "Plex/es": {
+  "643054b1fc3be59477853717-61d73ab0a7b7c7f703418516": "BloombergTV.us"
+ },
+ "Plex/fr": {
+  "6430aa45fc3be5947780904e-60089d90f682a3002c348299": "EuronewsEnglish.fr",
+  "6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516": "BloombergTV.us",
+  "6430aa45fc3be5947780904e-635195e9ccee3e1547a8831a": "Farscape.us",
+  "6430aa45fc3be5947780904e-65e0c8c6d899afe817b9d224": "CricketGold.au",
+  "6430aa45fc3be5947780904e-666340ce76ca410aa18e705b": "FIFAPlus.uk",
+  "6430aa45fc3be5947780904e-678fe7959407a53556d3e8eb": "France24.fr"
+ },
+ "Plex/gb": {
+  "64305451fc3be5947773c339-5f74cf83ffbe690040689f50": "HistoryHit.uk",
+  "64305451fc3be5947773c339-60089d90f682a3002c348299": "EuronewsEnglish.fr",
+  "64305451fc3be5947773c339-61d73ab0a7b7c7f703418516": "BloombergTV.us",
+  "64305451fc3be5947773c339-635195e9ccee3e1547a8831a": "Farscape.us",
+  "64305451fc3be5947773c339-65e0c8c6d899afe817b9d224": "CricketGold.au",
+  "64305451fc3be5947773c339-66628c68346b86608532dbcf": "FIFAPlus.uk",
+  "64305451fc3be5947773c339-678fe7959407a53556d3e8eb": "France24.fr",
+  "64305451fc3be5947773c339-68017ed20268b77d02a5f4bd": "PGATour.us"
+ },
+ "Plex/mx": {
+  "608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299": "EuronewsEnglish.fr",
+  "608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516": "BloombergTV.us",
+  "608049aefa2b8ae93c2c3a63-635195e9ccee3e1547a8831a": "Farscape.us",
+  "608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224": "CricketGold.au",
+  "608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c": "FIFAPlus.uk",
+  "608049aefa2b8ae93c2c3a63-678fe7959407a53556d3e8eb": "France24.fr",
+  "608049aefa2b8ae93c2c3a63-68017ed20268b77d02a5f4bd": "PGATour.us"
+ },
+ "Plex/nz": {
+  "5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50": "HistoryHit.uk",
+  "5e20b730f2f8d5003d739db7-60089d90f682a3002c348299": "EuronewsEnglish.fr",
+  "5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224": "CricketGold.au",
+  "5e20b730f2f8d5003d739db7-678fe7959407a53556d3e8eb": "France24.fr",
+  "5e20b730f2f8d5003d739db7-68017ed20268b77d02a5f4bd": "PGATour.us"
+ },
+ "Plex/us": {},
+ "PlutoTV/ar": {
+  "5ec5761aabe4690007f6e047": "StarTrek.us",
+  "5ffcc21a432945000762d06b": "ComedyCentralPlutoTV.us",
+  "63a084934734f30007457b2c": "SmithsonianChannelPlutoTV.us"
+ },
+ "PlutoTV/br": {
+  "5f357e91b18f0b00073583d2": "ComedyCentralPlutoTV.us",
+  "5f99ac4fded33000078f29ab": "StarTrek.us",
+  "5ff768b6a4c8b80008498610": "BETPlutoTV.us",
+  "6047fbdbbb776a0007e7f2ff": "MTVBiggestPop.us",
+  "609ae66b359b270007869ff1": "ComedyCentralSouthPark.us",
+  "6298bd10d88ef000073f16b7": "SmithsonianChannelPlutoTV.us"
+ },
+ "PlutoTV/cl": {},
+ "PlutoTV/de": {
+  "5e7cb84a172a0f0007da69e4": "RedBullTV.at",
+  "60afb576053df900076fa2f0": "BeverlyHills90210.us",
+  "60c716084d842c00085f6e64": "ComedyCentralSouthPark.us",
+  "611e7f224676bf00076a4d8d": "Cheers.us",
+  "66c45b1803e3b20008d8c200": "CNNInternational.us",
+  "6870c9333ffa5e0c914e9205": "TennisChannel.us"
+ },
+ "PlutoTV/es": {
+  "60dafb9a0df1ba000758d37b": "BBCDrama.uk"
+ },
+ "PlutoTV/fr": {
+  "60d35a74c63c3c0008df6a90": "BBCDrama.uk"
+ },
+ "PlutoTV/gb": {
+  "5ca1da6c593a5d78f0e7edce": "EuronewsEnglish.fr",
+  "61559552dd585f0007321eca": "BloombergTV.us",
+  "6231eb3865be650007f59595": "CBSNews247.us",
+  "63d91d2560bc8f0008a225e4": "FIFAPlus.uk",
+  "6568a78d635c3c0008765f41": "NOWRock.uk",
+  "6627621d56fc840008e47c90": "TennisChannel.us",
+  "66d885aef0f17500084b6750": "PGATour.us",
+  "66f137cb483d460008ece053": "RugbyPassTV.uk",
+  "680bb31c56ff83bcd685d64e": "Farscape.us"
+ },
+ "PlutoTV/mx": {
+  "5ec5761aabe4690007f6e047": "StarTrek.us",
+  "5ffcc21a432945000762d06b": "ComedyCentralPlutoTV.us",
+  "63a084934734f30007457b2c": "SmithsonianChannelPlutoTV.us"
+ },
+ "PlutoTV/us": {
+  "5459795fc9f133a519bc0bef": "ScrippsNews.us",
+  "54ff7ba69222cb1c2624c584": "BloombergTV.us",
+  "561c5b0dada51f8004c4d855": "ClassicMoviesChannel.us",
+  "563a970aa1a1f7fe7c9daad7": "PlutoTVScience.us",
+  "5a6b92f6e22a617379789618": "CBSNews247.us",
+  "5c37d6712de254456f7ec340": "ColdCaseFiles.us",
+  "5ca670f6593a5d78f0e85aed": "BETPlutoTV.us",
+  "5ca671f215a62078d2ec0abf": "ComedyCentralPlutoTV.us",
+  "5cbf6a868a1bce4a3d52a5e9": "MidsomerMurders.us",
+  "5ce4475cd43850831ca91ce7": "DoctorWhoClassic.us",
+  "5d14fd1a252d35decbc4080c": "MTVBiggestPop.us",
+  "5d14fdb8ca91eedee1633117": "MTVSpankinNew.us",
+  "5dae0b4841a7d0000938ddbd": "CourtTV.us",
+  "5de94dacb394a300099fa22a": "PGATour.us",
+  "5df97894467dfa00091c873c": "NBCNewsNOW.us",
+  "5e66968a70f34c0007d050be": "MLB.us",
+  "5e9f2c05172a0f0007db4786": "CBSSportsHQ.us",
+  "5efbd29e4aa26700076c0d06": "CSI.us",
+  "5efbd39f8c4ce900075d7698": "StarTrek.us",
+  "5f4d83e0a382c00007bc02e7": "BeverlyHills90210.us",
+  "5f4d878d3d19b30007d2e782": "70sCinema.us",
+  "5f77939a630f530007dde654": "FamilyTies.us",
+  "5f779951372da90007fd45e8": "Classica.us",
+  "60f75771dfc72a00071fd0e0": "Gunsmoke.us",
+  "60f85644a9493e0007a1f035": "BETClassicsPlutoTV.us",
+  "60fb040d4795a6000762fe8f": "KartoonChannel.us",
+  "61b3b8c645b45d0007a9bb8d": "BlueBloods.us",
+  "628e685ba3811100070551a8": "HallmarkMoviesMore.us",
+  "6508be683a0d700008c534e4": "ABCNewsLive.us",
+  "656535fc2c46f30008870fae": "BBCEarth.uk",
+  "681109b688b9d85d0938c6ba": "TennisChannel.us"
+ },
+ "Roku/all": {
+  "1337f5ac77595895bbaf16d1dd75f377": "CBSSportsHQ.us",
+  "3d3f3113ff49ca22c3ad51ee00fe7e9d": "ComedyCentralPlutoTV.us",
+  "41a03e0853d45c06bdfdedc5d26b78d8": "BBCEarth.uk",
+  "483af83e821059b8b3f0825ae2d43e31": "ABCNewsLive.us",
+  "4b631847108256fd8c77f6ba3bf3af03": "NBCComedyVault.us",
+  "515d785b0a5ea55f15f7e4c773990009": "BETPlutoTV.us",
+  "70881c73b6275623ace6c5c3603a339c": "CBSNews247.us",
+  "938d8156a8c45e719f24022d8c1c972c": "PGATour.us",
+  "95eb22cb730119300271c915c085c1db": "BeverlyHills90210.us",
+  "a0b7c0bc09955942866e7072266483c8": "TennisChannel.us",
+  "a3b243e7a1ea5ac99bb3e5560721d1f6": "ColdCaseFiles.us",
+  "a88da21b1c6ec86578d222626cc5cb05": "FamilyTies.us",
+  "a90a91570ce0536cbb22b591ad7e0da2": "NBCSportsNOW.us",
+  "aad0f36f2f811fc2f0491d3a7b51285e": "ESPN8TheOcho.us",
+  "b5cde121f98257329346020e2a60295a": "MoonbugKids.uk",
+  "b5fe4277ff365ccda0a7d43028d53d90": "NBCNewsNOW.us",
+  "b8c4d1dc632d5402afce99ee70859b5e": "FIFAPlus.uk",
+  "bf4508c9597e5f618e508ae00b01f66f": "CourtTV.us",
+  "c5e8a74546771de365652cd053f73351": "RedBullTV.at",
+  "c7254defc71c54e170206329d0d55c43": "BBCDrama.uk",
+  "d1e4e369eda359c897e1fdfd8286b19b": "MidsomerMurders.us",
+  "d3f36d4a35fa5f40a24b96a51556b9b5": "ScrippsNews.us"
+ },
+ "SamsungTVPlus/us": {
+  "USAJ3504705A": "Stadium.us",
+  "USAJ4300001Q7": "beINSPORTSXTRA.us",
+  "USBA34000049Z": "CourtTV.us",
+  "USBB1900006NY": "VICETV.us",
+  "USBB2200014DK": "NBCNewsNOW.us",
+  "USBB3500003D6": "FamilyTies.us",
+  "USBC24000134A": "MidsomerMurders.us"
+ },
+ "SkyGo/epg": {
+  "sky.309": "CGTNDocumentary.cn",
+  "sky.310": "CGTN.cn",
+  "sky.74": "BBCEarth.uk",
+  "sky.87": "CNNInternational.us",
+  "sky.90": "AlJazeera.qa"
+ },
+ "au/Adelaide/epg": {
+  "mjh-al-jazeera": "AlJazeera.qa"
+ },
+ "au/Brisbane/epg": {
+  "mjh-al-jazeera": "AlJazeera.qa"
+ }
+}

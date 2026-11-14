@@ -1,0 +1,3 @@
+# Sumber M3U tambahan yang diambil otomatis tiap hari. Format: nama URL   (nama: huruf/angka/_/- saja)
+# Hasil disimpan di data/extra/nama.m3u. Contoh (hapus tanda # untuk mengaktifkan):
+# contoh https://example.com/playlist.m3u

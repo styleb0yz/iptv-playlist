@@ -1,0 +1,73 @@
+Diunduh 5.5 MB dari https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
+
+EPG: 875 channel, 875 punya jadwal, 20770 acara
+Jadwal: 2026-11-11 04:00 UTC sampai 2026-11-20 02:00 UTC
+Sisa jadwal ke depan: 6.6 hari
+Ditulis epg_ids.txt (875 id)
+
+Cakupan playlist (11880 entri): id persis 840 (7%), setelah normalisasi/remap 938 (7%)
+
+Folder                                              total  persis  remap
+01 · Indonesia · National TV                           18       7     16
+02 · Indonesia · News                                   8       4      7
+03 · Islam · Indonesia & Haramain                      20       8      8
+04 · Football & General Sports                         42       5      5
+05 · NBA, Golf, Rugby & More                           25       0      0
+06 · Movies & Series                                   51       0      0
+07 · International News                                29       1      1
+08 · Kids & Cartoons                                   22       2      5
+09 · America · TV & Cable                              42       0      1
+10 · UK · Main TV                                      14       1      1
+11 · Europe · Main TV                                  20       1      1
+12 · Music                                             13       1      1
+13 · Documentary & Science                             17       1      1
+14 · Indonesia · TVRI Regional                         30       0     30
+15 · Radio                                              8       1      1
+16 · Archive · Indonesia Local TV                     204     133    143
+17 · Archive · Pluto TV                              1144      21     24
+18 · Archive · World Religious                        797      40     54
+19 · Archive · United States                         1207      23     35
+20 · Archive · India                                  700      19     20
+21 · Archive · Russia                                 510      12     13
+22 · Archive · Germany                                207      12     12
+24 · Archive · Italy                                  283      48     48
+25 · Archive · Spain                                  274      10     12
+26 · Archive · Brazil                                 259      14     14
+27 · Archive · United Kingdom                         208      10     17
+29 · Archive · France                                 200      13     13
+30 · Archive · Turkey                                 188      16     16
+31 · Archive · Argentina                              189       8      8
+33 · Archive · Netherlands                            189       1      1
+37 · Archive · Mexico                                 173      14     14
+38 · Archive · Romania                                167       3      3
+42 · Archive · Colombia                               110       4      4
+43 · Archive · Iran                                   107       6      6
+44 · Archive · Pakistan                                82       7      7
+46 · Archive · Vietnam                                 89       7      7
+50 · Archive · South Korea                             65      14     14
+52 · Archive · Thailand                                67      11     11
+60 · Archive · Western Europe                         181       2      2
+62 · Archive · Middle East & North Africa             289      44     44
+63 · Archive · Africa                                 224      12     12
+64 · Archive · South Asia                             193       4      4
+65 · Archive · East Asia                              105       9      9
+66 · Archive · Southeast Asia                         114      27     29
+69 · Archive · Oceania                                 68       1      1
+71 · Archive · Others                                 261     261    261
+Sports Channels                                         2       2      2
+
+Contoh channel esensial tanpa jadwal (maks 5 per folder):
+  01 · Indonesia · National TV: Indonesiana.TV, TVRI World
+  02 · Indonesia · News: BeritaSatu
+  03 · Islam · Indonesia & Haramain: Al-Bahjah TV, Rodja TV, Nabawi TV, Al-Iman TV (Indonesia), MQTV
+  04 · Football & General Sports: TVRI Sport, beIN Sports 1, beIN Sports USA, CBS Sports Golazo Network, Setanta Sports
+  05 · NBA, Golf, Rugby & More: NBA TV, NFL Network, NHL Network, MLB, Tennis Channel
+  06 · Movies & Series: GREAT! movies, GREAT! romance, Hallmark Movies & More, Lifetime Movies, IFC
+  07 · International News: BBC News UK HD, CNN International, Al Jazeera English, DW English, France 24 English
+  08 · Kids & Cartoons: Biznet Kids, My Kidz, Cartoonito Asia, Nickelodeon Asia, Nick Jr. Asia
+  09 · America · TV & Cable: NBC, ABC WJLA-TV, Fox (United States) WNYW, Fox (United States) KTTV, PBS KQED
+  10 · UK · Main TV: BBC One London HD, BBC Two HD, BBC Three, Channel 4, Channel 5 (United Kingdom)
+  11 · Europe · Main TV: Das Erste HD, ZDF, ZDFneo, France 2, France 5
+  12 · Music: Music Information Channel, MTV Biggest Pop, MTV Spankin' New, Mezzo Live, NOW Rock
+  13 · Documentary & Science: National Geographic (United States) HD East, National Geographic Wild (United States) HD East, Discovery World, Discovery Turbo (United States), BBC Earth US
+  15 · Radio: Suara Surabaya Visual Radio, Holy Quran Radio, Sharjah Radio Quran, Saudia Radio, Nidae AlIslam Radio

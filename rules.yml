@@ -1,0 +1,130 @@
+# rules.yml, dibaca build.py. Nomor folder = posisi di daftar (folders lalu archive), selalu 2 digit.
+
+files:
+  status_lokal: status_lokal.json     # hasil check_local.py (jaringan MyRepublic)
+  status_github: status_github.json   # hasil cek harian GitHub (Batch 3)
+  radio_cache: radio_cache.json       # cache Radio Browser (Batch 3)
+  epg_ids: epg_ids.txt                # dibuat epg_check.py
+
+# EPG: off = header '#EXTM3U' polos, tvg-id asli. single = url-tvg + remap tvg-id ke id yang ada di epg_ids.txt
+epg:
+  mode: single
+  url: https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml   # yang ditulis ke header url-tvg playlist
+  # Sumber EPG untuk epg_merge.py (dipakai workflow GitHub). Urutan = prioritas: kalau satu id ada di dua sumber, sumber pertama menang.
+  # Kalau sumber > 1, ganti 'url' di atas ke https://USER.github.io/iptv-playlist/epg.xml (hasil gabungan) setelah Pages hidup.
+  sources:
+    - https://raw.githubusercontent.com/dhasap/dhanytv/main/epg.xml
+    - /tmp/epg_mjh.xml   # dibuat epg_mjh.py (i.mjh.nz); kalau file tidak ada, dilewati
+
+# Suffix @... iptv-org: hanya yang cocok regex ini dianggap varian channel yang sama (HD/SD dst).
+quality_suffix: '^(\d{3,4}[pi]?|hd|sd|fhd|uhd|4k|hq|lq)$'
+dhanytv_loser: report        # report = dicatat saja; archive = ikut masuk archive
+dead_exempt_countries: [id]  # cek GitHub tidak memindah channel negara ini
+github_dead_after_fails: 2   # cek GitHub baru memindah ke Likely Dead setelah gagal N hari berturut-turut
+gap_require_local: false     # false = kandidat gap langsung masuk; yang gagal cek lokal -> Likely Dead
+
+# Folder esensial (01-15). csv = teks folder di draft_esensial.csv. Urutan di sini = urutan final.
+folders:
+  - {key: national,  csv: "01 · Indonesia · TV Nasional",        label: "Indonesia · National TV"}
+  - {key: news,      csv: "02 · Indonesia · Berita",             label: "Indonesia · News"}
+  - {key: islam,     csv: "04 · Islam · Indonesia & Haramain",   label: "Islam · Indonesia & Haramain"}
+  - {key: sports,    csv: "06 · Bola & Olahraga Umum",           label: "Football & General Sports"}
+  - {key: sports2,   csv: "07 · NBA, Golf, Rugby & Lainnya",     label: "NBA, Golf, Rugby & More"}
+  - {key: movies,    csv: "05 · Film & Series",                  label: "Movies & Series"}
+  - {key: intl_news, csv: "08 · Berita Internasional",          label: "International News"}
+  - {key: kids,      csv: "12 · Anak & Kartun",                  label: "Kids & Cartoons"}
+  - {key: america,   csv: "09 · Amerika · TV & Kabel",           label: "America · TV & Cable"}
+  - {key: uk,        csv: "10 · Inggris · TV Utama",             label: "UK · Main TV"}
+  - {key: europe,    csv: "11 · Eropa · TV Utama",               label: "Europe · Main TV"}
+  - {key: music,     csv: "13 · Musik",                          label: "Music"}
+  - {key: docs,      csv: "14 · Dokumenter & Sains",             label: "Documentary & Science"}
+  - {key: tvri,      csv: "03 · Indonesia · TVRI Daerah",        label: "Indonesia · TVRI Regional"}
+  - {key: radio,     csv: "15 · Radio",                          label: "Radio"}
+
+# Gap Indonesia (hanya dari dhanytv). folder = key di atas.
+gaps:
+  - {nama: "MNCTV",      canon: "mnctv.id",   folder: national}
+  - {nama: "Trans TV",   canon: "transtv.id", folder: national}
+  - {nama: "Trans7",     canon: "trans7.id",  folder: national}
+  - {nama: "RTV",        canon: "rtv.id",     folder: national}
+  - {nama: "iNews",      canon: "inews.id",   folder: news}
+  - {nama: "Mentari TV", name_regex: "mentari", folder: kids}
+hold: []
+
+# Pin: nama channel (persis seperti kolom nama di draft / 'nama' di gaps) yang TETAP di foldernya walau semua kandidat gagal tes lokal.
+# Risikonya: entri itu bisa tidak bisa diputar. Hapus dari daftar ini kalau sudah tidak diperlukan.
+pin: ["SCTV", "Trans TV", "Trans7", "RRI Net", "BeritaSatu", "TVRI Sport", "Al-Iman TV (Indonesia)", "Surau TV", "Mentari TV"]
+
+archive:
+  - {key: local_id, label: "Indonesia Local TV"}
+  - {key: pluto,    label: "Pluto TV"}
+  - {key: religi,   label: "World Religious"}
+
+# Negara >=60 channel. 'id' tidak punya folder sendiri: channel ID non-esensial masuk "Indonesia Local TV".
+countries:
+  us: United States
+  in: India
+  ru: Russia
+  de: Germany
+  se: Sweden
+  it: Italy
+  es: Spain
+  br: Brazil
+  uk: United Kingdom
+  do: Dominican Republic
+  fr: France
+  tr: Turkey
+  ar: Argentina
+  cl: Chile
+  nl: Netherlands
+  pl: Poland
+  ua: Ukraine
+  pe: Peru
+  mx: Mexico
+  ro: Romania
+  cn: China
+  ca: Canada
+  hu: Hungary
+  co: Colombia
+  ir: Iran
+  pk: Pakistan
+  cz: Czechia
+  vn: Vietnam
+  ec: Ecuador
+  ve: Venezuela
+  hn: Honduras
+  kr: South Korea
+  gr: Greece
+  th: Thailand
+  py: Paraguay
+  bg: Bulgaria
+  cr: Costa Rica
+  bo: Bolivia
+  gt: Guatemala
+  sk: Slovakia
+  pt: Portugal
+
+# Asia Tengah (kz uz kg tj tm) dimasukkan ke South Asia.
+regions:
+  "Western Europe":     [be, at, ch, ie, lu, dk, "no", fi, is, mt, mc, ad, sm, cy]
+  "Eastern Europe":     [rs, mk, hr, by, al, ee, si, lt, md, ba, lv, xk, me, ge, az, am]
+  "Middle East & North Africa": [iq, sa, ae, il, lb, ps, qa, jo, kw, sy, om, bh, ye, eg, ly, dz, tn, ma, sd, eh]
+  "Africa":             [ng, ke, za, ug, cm, ci, cd, sn, tg, bj, gh, so, rw, tz, bf, mz, gn, cg, ne, et, ml, ao, gq, gm, cv, zw, td, bi, mr, er, sl, na]
+  "South Asia":         [bd, lk, af, np, mv, kz, uz, kg, tj, tm]
+  "East Asia":          [tw, hk, jp, mo, mn, kp]
+  "Southeast Asia":     [sg, kh, mm, ph, la, my, bn, tl]
+  "Latin America":      [sv, ni, pa, uy, gy, sr, gf, bz]
+  "North America & Caribbean": [pr, ht, aw, jm, tt, cw, bq, mq, gp, sx, bs, kn, lc, vg, bb, ag, vc, cu]
+  "Oceania":            [au, nz, pg, nc, pf, ws, gu]
+
+# Negara cadangan entri dhanytv tanpa kode negara (hanya untuk rute archive)
+country_from_dhany_group:
+  "Indonesia Channels": id
+  "Local Channels": id
+  "Nasional": id
+  "VOD INDO": id
+  "Malaysia": my
+  "Mediacorp Singapore": sg
+
+dead_label: "Likely Dead"
+other_label: "Others"

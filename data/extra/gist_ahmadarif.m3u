@@ -1,0 +1,19 @@
+#EXTM3U
+# Sumber: gist ahmadarif (Nov 2023). Belum tentu hidup; status ditentukan check_local.py.
+# tvg-id disamakan dengan id iptv-org/dhanytv supaya bergabung ke channel yang sama.
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia Channels",SCTV (gist metube)
+https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia Channels",SCTV (gist indostreamingtv)
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" group-title="Indonesia Channels",Trans TV (gist)
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" group-title="Indonesia Channels",Trans7 (gist)
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+#EXTINF:-1 tvg-id="RRINet.id" group-title="Indonesia Channels",RRI Net (gist)
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" group-title="Indonesia Channels",BeritaSatu (gist 1)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" group-title="Indonesia Channels",BeritaSatu (gist 2)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-id="SurauTV.id" group-title="Indonesia Channels",Surau TV (gist)
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8

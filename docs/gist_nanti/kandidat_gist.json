@@ -1,0 +1,82 @@
+[
+ {
+  "name": "SCTV",
+  "url": "https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ },
+ {
+  "name": "SCTV",
+  "url": "http://id1.indostreamingtv.com/live/sctv/index.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ },
+ {
+  "name": "Trans TV",
+  "url": "http://id2.indostreamingtv.com/live/tv33/index.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ },
+ {
+  "name": "Trans7",
+  "url": "http://id2.indostreamingtv.com/live/trans7/index.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ },
+ {
+  "name": "RRI Net",
+  "url": "http://36.89.47.217:11935/rrinet/live/index.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ },
+ {
+  "name": "BeritaSatu",
+  "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ },
+ {
+  "name": "BeritaSatu",
+  "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ },
+ {
+  "name": "Surau TV",
+  "url": "http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8",
+  "tvg": "",
+  "src": "gist-ahmadarif-2023",
+  "country": "id",
+  "geo": false,
+  "opts": [],
+  "attrs": {}
+ }
+]
