@@ -2,7 +2,7 @@ name: update-playlist
 
 on:
   schedule:
-    - cron: '30 20 * * *'   # 03:30 WIB (UTC+7) setiap hari
+    - cron: '30 20,4,12 * * *'   # 03:30, 11:30, 19:30 WIB (UTC+7), 3x sehari supaya jadwal Pluto tidak habis
   workflow_dispatch:
 
 permissions:
