@@ -100015,5 +100015,50 @@
 "ms": 1553,
 "checked": "2026-11-15T12:19:14+00:00",
 "fails": 0
+},
+"https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ": {
+"ok": false,
+"height": 0,
+"reason": "HTTPError: HTTP Error 403: Forbidden",
+"drm": true,
+"ms": 43,
+"checked": "2026-11-15T19:03:25+00:00",
+"fails": 1
+},
+"https://proxy-v.rctiplus.id/live/web/thrill/index.m3u8": {
+"ok": true,
+"height": 480,
+"reason": "",
+"drm": true,
+"ms": 2354,
+"checked": "2026-11-15T19:03:27+00:00",
+"fails": 0
+},
+"https://proxy-v.rctiplus.id/live/web/tv5/index.m3u8": {
+"ok": true,
+"height": 480,
+"reason": "",
+"drm": true,
+"ms": 2719,
+"checked": "2026-11-15T19:03:28+00:00",
+"fails": 0
+},
+"https://proxy-v.rctiplus.id/live/web/formosa/index.m3u8": {
+"ok": true,
+"height": 480,
+"reason": "",
+"drm": false,
+"ms": 2752,
+"checked": "2026-11-15T19:03:28+00:00",
+"fails": 0
+},
+"https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8": {
+"ok": true,
+"height": 720,
+"reason": "",
+"drm": false,
+"ms": 4836,
+"checked": "2026-11-15T19:03:30+00:00",
+"fails": 0
 }
 }
