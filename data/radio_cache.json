@@ -3,7 +3,7 @@
 "name": "I-Radio Jakarta",
 "url": "http://stream.radiojar.com/4ywdgup3bnzuv",
 "logo": "",
-"votes": 16931,
+"votes": 16945,
 "codec": "MP3",
 "bitrate": 0
 },
@@ -11,7 +11,7 @@
 "name": "Suara Giri 98.4 FM",
 "url": "http://streaming.girifm.com:8010/",
 "logo": "",
-"votes": 10809,
+"votes": 10816,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -19,7 +19,7 @@
 "name": "Wijaya FM 103.5 FM Surabaya",
 "url": "http://wijayafm.onlivestreaming.net:9880/stream?",
 "logo": "https://radiowijayafm.com/wp-content/uploads/2017/10/favicon.png",
-"votes": 9868,
+"votes": 9874,
 "codec": "AAC+",
 "bitrate": 64
 },
@@ -27,7 +27,7 @@
 "name": "Retjo Buntung 99.4 FM",
 "url": "http://45.64.97.82:9940/",
 "logo": "",
-"votes": 8827,
+"votes": 8832,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -35,7 +35,7 @@
 "name": "CNN Indonesia",
 "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
 "logo": "",
-"votes": 7127,
+"votes": 7135,
 "codec": "UNKNOWN",
 "bitrate": 384
 },
@@ -43,7 +43,7 @@
 "name": "Suara Muslim Surabaya",
 "url": "http://pu.klikhost.com:8052/",
 "logo": "",
-"votes": 6508,
+"votes": 6511,
 "codec": "MP3",
 "bitrate": 96
 },
@@ -51,7 +51,7 @@
 "name": "EL SHADDAI FM SOLO",
 "url": "http://shaddai.onlivestreaming.net:9130/live",
 "logo": "",
-"votes": 5662,
+"votes": 5665,
 "codec": "MP3",
 "bitrate": 48
 },
@@ -59,7 +59,7 @@
 "name": "V Radio",
 "url": "http://202.147.199.100:8000/;stream.nsv",
 "logo": "",
-"votes": 4296,
+"votes": 4298,
 "codec": "MP3",
 "bitrate": 256
 },
@@ -67,7 +67,7 @@
 "name": "RRI Pro 3 KBRN",
 "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
 "logo": "",
-"votes": 4133,
+"votes": 4135,
 "codec": "AAC+",
 "bitrate": 128
 },
@@ -75,7 +75,7 @@
 "name": "Iradio FM",
 "url": "http://n03.radiojar.com/4ywdgup3bnzuv",
 "logo": "https://iradiofm.com/wp-content/uploads/2022/08/favicon-newtra-150x150.png",
-"votes": 3945,
+"votes": 3950,
 "codec": "MP3",
 "bitrate": 0
 },
@@ -83,7 +83,7 @@
 "name": "Sindo Trijaya 104.6 FM Jakarta",
 "url": "http://202.147.199.101:8000/;stream.nsv",
 "logo": "http://www.mnctrijayafm.com/favicon.ico",
-"votes": 3762,
+"votes": 3764,
 "codec": "MP3",
 "bitrate": 96
 },
@@ -91,7 +91,7 @@
 "name": "SB FM tembang kenangan",
 "url": "https://stream.zeno.fm/d16n50mkzhhvv",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsvhuPMFD_2DOKsTyBEUtR2KoFa56Xk0FU_Q&usqp=CAU",
-"votes": 3711,
+"votes": 3714,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -99,7 +99,7 @@
 "name": "M-Stream Indo",
 "url": "https://stream.zeno.fm/iln4upodbvuuv",
 "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F996bWxQ_VQRrXNPXFc0G4r6Y12RBOiwMSdcID72FM0g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzBkNmYyNjMxLTZmMGItNDc2Ni1iMThmLThkMGMwNmQxMWQ4MC9pbWFnZS8_dXBkYXRlZD0xNjk4MzkyOTk3MDAw.webp&w=750&q=100",
-"votes": 3498,
+"votes": 3499,
 "codec": "AAC",
 "bitrate": 128
 },
@@ -107,7 +107,7 @@
 "name": "Dangdut2",
 "url": "https://stream.zeno.fm/vwhplynnpfjtv",
 "logo": "https://zeno.fm/favicon.ico",
-"votes": 3474,
+"votes": 3478,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -115,7 +115,7 @@
 "name": "Jak 101 FM",
 "url": "http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8",
 "logo": "https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png",
-"votes": 3138,
+"votes": 3148,
 "codec": "UNKNOWN",
 "bitrate": 0
 },
@@ -123,7 +123,7 @@
 "name": "Suara Soneta",
 "url": "https://a2.siar.us//listen//suarasoneta//radio.mp3",
 "logo": "",
-"votes": 2804,
+"votes": 2808,
 "codec": "AAC",
 "bitrate": 48
 },
@@ -131,7 +131,7 @@
 "name": "Radio Sholawat",
 "url": "https://stream.zeno.fm/us5bsznu3rptv",
 "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbNBG5NvUTwrCiRWp7fuzobqInbh3431c_4w5a4pmNgEqbnH8QdWpGgaTR_QbkxfYcnVEWy_hbnbSTgR7IR9VoEQaNG_9N_1WXYebMMBfzWfs4IRdBqq-cn0pQyHBJZkRX7aMLpkdZptptTRD_r3On5JdkSuRMOFtUdXyjMOAnmGEASEd5nDBKWWVT9g/s320/radio%20sholawat.jpg",
-"votes": 2702,
+"votes": 2705,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -139,7 +139,7 @@
 "name": "Mettaswara Koplo",
 "url": "https://mettaswara.com:8700//koplo",
 "logo": "https://static.mytuner.mobi/media/tvos_radios/4kU6XKQHap.png",
-"votes": 2496,
+"votes": 2502,
 "codec": "AAC",
 "bitrate": 64
 },
@@ -147,7 +147,7 @@
 "name": "RDI 97.1 FM Jakarta",
 "url": "http://202.147.199.99:8000/stream",
 "logo": "https://i.imgur.com/4abdtyl.jpeg",
-"votes": 2289,
+"votes": 2292,
 "codec": "MP3",
 "bitrate": 192
 },
@@ -171,7 +171,7 @@
 "name": "DJ BARU",
 "url": "https://stream.zeno.fm/iwcyhq56nwiuv",
 "logo": "",
-"votes": 1719,
+"votes": 1721,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -179,7 +179,7 @@
 "name": "Radio Rodja 756 AM",
 "url": "https://radioislamindonesia.com/rodja.mp3?_=2",
 "logo": "https://www.radiorodja.com/wp-content/uploads/cropped-radio-rodja-512px-emblem-1-192x192.png",
-"votes": 1663,
+"votes": 1665,
 "codec": "MP3",
 "bitrate": 256
 },
@@ -187,7 +187,7 @@
 "name": "Tarbiyah Sunnah",
 "url": "https://radioislamindonesia.com/tarbiyah.mp3",
 "logo": "",
-"votes": 1621,
+"votes": 1624,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -195,7 +195,7 @@
 "name": "Radio Hang FM",
 "url": "http://185.47.62.52:8000/",
 "logo": "",
-"votes": 1560,
+"votes": 1561,
 "codec": "MP3",
 "bitrate": 64
 },
@@ -203,7 +203,7 @@
 "name": "Radio Dangdut Indonesia",
 "url": "http://202.147.199.99:8000/;",
 "logo": "",
-"votes": 1247,
+"votes": 1250,
 "codec": "MP3",
 "bitrate": 192
 },
@@ -211,7 +211,7 @@
 "name": "Radio Campursari Yogyakarta",
 "url": "https://a8.siar.us/listen/campursari/stream",
 "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjlY09jZpYPa_oCLIqnhZN0v6bfyA8fQbOVmUqscL5tbITpgxUQiagIQr_Tm6rCh_Fz4Qr4yHUxmbQA4Ob_br_p-fT3s1Ml0xji7tZTi58hPxSZz3SNS55YHm-mPzPr-f12385EAASMmnj/w320-h240-rw/Radio_Campursarii_Jogjakarta.jpg",
-"votes": 1207,
+"votes": 1209,
 "codec": "AAC",
 "bitrate": 48
 },
@@ -227,7 +227,7 @@
 "name": "Rama FM Bandung 104.7 FM",
 "url": "https://i.klikhost.com/8330/;",
 "logo": "https://ramafm.com/wp-content/uploads/2019/03/icon.png",
-"votes": 1047,
+"votes": 1050,
 "codec": "MP3",
 "bitrate": 48
 },
@@ -235,7 +235,7 @@
 "name": "90.1 radio Media FM surabaya",
 "url": "http://streaming.radiomediafm.com:8400/;",
 "logo": "http://www.radiomediafm.com/upload/theme/logo.png",
-"votes": 1045,
+"votes": 1046,
 "codec": "AAC+",
 "bitrate": 128
 },
@@ -243,7 +243,7 @@
 "name": "Suara Giri FM",
 "url": "http://streaming.girifm.com:8010/;stream.nsv",
 "logo": "http://girifm.com/upload/theme/logo-suaragiri-fm-2.png",
-"votes": 958,
+"votes": 960,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -251,7 +251,7 @@
 "name": "Pejuang Kopi",
 "url": "https://stream.zeno.fm/sthgzynfcd0uv",
 "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FsOfjIWRv4-5ZrxZ8IQTZ4VNWGwiL9yNhOdFDQEUe1nQ%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRX1BTWHBRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRdk1EZzhBa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2OTIwMTUwMDA.webp&w=750&q=100",
-"votes": 864,
+"votes": 865,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -259,7 +259,7 @@
 "name": "Gen 98.7 FM Jakarta",
 "url": "http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8",
 "logo": "https://static.mytuner.mobi/media/tvos_radios/k9kKLX6VTr.png",
-"votes": 837,
+"votes": 840,
 "codec": "UNKNOWN",
 "bitrate": 0
 },
@@ -283,9 +283,17 @@
 "name": "Suara Muslim Surabaya",
 "url": "http://pu.klikhost.com:8052/stream/1/",
 "logo": "",
-"votes": 693,
+"votes": 695,
 "codec": "MP3",
 "bitrate": 96
+},
+{
+"name": "Most 105.8 FM Jakarta",
+"url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
+"logo": "https://images.noiceid.cc/catalog/content-1614529804201.jpg",
+"votes": 689,
+"codec": "UNKNOWN",
+"bitrate": 0
 },
 {
 "name": "iSWARA JAKARTA",
@@ -296,18 +304,10 @@
 "bitrate": 0
 },
 {
-"name": "Most 105.8 FM Jakarta",
-"url": "https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8",
-"logo": "https://images.noiceid.cc/catalog/content-1614529804201.jpg",
-"votes": 688,
-"codec": "UNKNOWN",
-"bitrate": 0
-},
-{
 "name": "Radio Music Indonesia",
 "url": "https://stream.zeno.fm/wvq442iwm6ztv",
 "logo": "https://images.zeno.fm/-Ea1rjQTxAHife8N24O2nvrDN-ECWUcg2EI7s8vHKfo/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNjU1OTRmYTEtYzE4NS00ZTlmLWJjMDctYTQ3MDFjM2UyZTkwL2ltYWdlLz91PTE3NjY5ODc2MzMwMDA.webp",
-"votes": 672,
+"votes": 674,
 "codec": "AAC",
 "bitrate": 112
 },
@@ -315,7 +315,7 @@
 "name": "Alternatif radio jakarta",
 "url": "https://void.idserverhost.com/8016/stream",
 "logo": "https://tokopemancar99.blogspot.com/2022/09/live-streaming-alternatif-radio.html",
-"votes": 664,
+"votes": 665,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -323,7 +323,7 @@
 "name": "Mustang 88.0 FM",
 "url": "http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-wjuHNFe5weSdEoU0L1uq2LrEuzJOKAAHkw&usqp=CAU",
-"votes": 631,
+"votes": 632,
 "codec": "UNKNOWN",
 "bitrate": 0
 },
@@ -331,7 +331,7 @@
 "name": "Al-Faruq Purwokerto Banyumas <24kb aac+>",
 "url": "http://alfaruq.radioislam.my.id:12000/",
 "logo": "https://i0.wp.com/alfaruq.net/wp-content/uploads/2018/08/PIC-INFO.png?zoom=2&resize=230%2C230&ssl=1",
-"votes": 617,
+"votes": 619,
 "codec": "AAC+",
 "bitrate": 48
 },
@@ -339,7 +339,7 @@
 "name": "RASIKA FM USA SEMARANG",
 "url": "https://svara-stream.radioddns.net/rasikafm_stereo",
 "logo": "",
-"votes": 584,
+"votes": 585,
 "codec": "AAC",
 "bitrate": 224
 },
@@ -347,7 +347,7 @@
 "name": "Elgangga FM",
 "url": "https://b.alhastream.com:5140/radio",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDf5Vp1kWiJseC9HkXtRf2tJGK8J2FXPpGlL4N1AkdXY2wvCOl04pEXHI&s=10",
-"votes": 577,
+"votes": 578,
 "codec": "AAC",
 "bitrate": 48
 },
@@ -355,7 +355,7 @@
 "name": "SmartRadio Indonesia",
 "url": "http://radio.forumcerdas.net:8000/",
 "logo": "https://i0.wp.com/www.forumcerdas.net/wp-content/uploads/2021/04/cropped-SmartRadio.jpg?fit=192%2C192",
-"votes": 553,
+"votes": 555,
 "codec": "AAC+",
 "bitrate": 32
 },
@@ -387,7 +387,7 @@
 "name": "PT. Radio Elshinta",
 "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
 "logo": "",
-"votes": 497,
+"votes": 499,
 "codec": "MP3",
 "bitrate": 64
 },
@@ -395,7 +395,7 @@
 "name": "Radio Kasih",
 "url": "https://onlineradiobox.com/json/id/kasih/play",
 "logo": "",
-"votes": 490,
+"votes": 491,
 "codec": "AAC",
 "bitrate": 128
 },
@@ -403,7 +403,7 @@
 "name": "Harmoni FM Blitar",
 "url": "http://cbnradio.streamguys1.com/praise-128K",
 "logo": "https://cdn.onlineradiobox.com/img/l/5/20665.v1.png",
-"votes": 484,
+"votes": 485,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -427,7 +427,7 @@
 "name": "Mettaswara Indonesia",
 "url": "https://mettaswara.com:8700/indo",
 "logo": "https://cdn.onlineradiobox.com/img/l/9/112609.v10.png",
-"votes": 460,
+"votes": 461,
 "codec": "AAC",
 "bitrate": 64
 },
@@ -435,7 +435,7 @@
 "name": "Ronggohadi 97.8 FM Lamongan",
 "url": "https://c3.siar.us/proxy/ronggohadifm/stream",
 "logo": "https://www.ronggohadi.com/favicon.ico",
-"votes": 421,
+"votes": 422,
 "codec": "AAC+",
 "bitrate": 32
 },
@@ -475,7 +475,7 @@
 "name": "Mettaswara Dangdut",
 "url": "https://mettaswara.com:8700/d4d",
 "logo": "",
-"votes": 375,
+"votes": 377,
 "codec": "AAC",
 "bitrate": 64
 },
@@ -483,7 +483,7 @@
 "name": "Radio Rodja 756 AM & 100.1 FM",
 "url": "http://live2.radiorodja.com:8000/;stream.mp3",
 "logo": "",
-"votes": 356,
+"votes": 357,
 "codec": "MP3",
 "bitrate": 32
 },
@@ -491,7 +491,7 @@
 "name": "RRI Pro1 Banjarmasin",
 "url": "https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3",
 "logo": "https://www.rri.co.id/assets/images/favicon-rri.ico",
-"votes": 350,
+"votes": 351,
 "codec": "AAC+",
 "bitrate": 64
 },
@@ -507,7 +507,7 @@
 "name": "Mettaswara Indo 2000",
 "url": "https://mettaswara.com:8700//indo00",
 "logo": "https://static.mytuner.mobi/media/radios-150px/119/mettaswara-indo-2000.117802d9.png",
-"votes": 337,
+"votes": 338,
 "codec": "AAC",
 "bitrate": 64
 },
@@ -515,7 +515,7 @@
 "name": "Radio Dahlia FM",
 "url": "https://svara-stream.radioddns.net/bandung_dahliafm",
 "logo": "",
-"votes": 331,
+"votes": 332,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -523,9 +523,9 @@
 "name": "Fress FM",
 "url": "http://streaming.fressfm.com:11185/stream",
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOM4Hu71atAn0HP-2Ye-TYCceB3QTwwXM2FA&usqp=CAU",
-"votes": 329,
+"votes": 330,
 "codec": "AAC+",
-"bitrate": 128
+"bitrate": 64
 },
 {
 "name": "Tidar Sakti FM Batu",
@@ -539,7 +539,7 @@
 "name": "Radio Islam Malang 1",
 "url": "http://malang.radioislam.my.id:11132/",
 "logo": "",
-"votes": 319,
+"votes": 320,
 "codec": "MP3",
 "bitrate": 24
 },
@@ -547,7 +547,7 @@
 "name": "Radio Rodja 756 AM",
 "url": "https://radioislamindonesia.com/rodja-low.mp3?_=1",
 "logo": "",
-"votes": 315,
+"votes": 317,
 "codec": "MP3",
 "bitrate": 32
 },
@@ -563,7 +563,7 @@
 "name": "GCD Yogyakarta 98.6 FM",
 "url": "https://studio1.indostreamers.com:8014/stream/1/",
 "logo": "https://gcdfm.com/cni-content/uploads/modules/siteconfig/thumbs/small/20160929094815.jpg",
-"votes": 310,
+"votes": 311,
 "codec": "AAC+",
 "bitrate": 48
 },
@@ -611,7 +611,7 @@
 "name": "Cosmo Radio 101.9 FM Bandung",
 "url": "http://scg.streamingmurah.com:8074/stream",
 "logo": "https://zeno.fm/_ipx/f_webp&q_85&fit_cover&s_288x288/https://images.zeno.fm/glLcKdCqSmBZZ7r9WF8p5lNyczaoX264kYSBBZzl3sE/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvZjNlODFhNGEtZGQ3OS00ZTlmLTk4NDktMTg5ZmZhMTIzMjE5L2ltYWdlLz91PTE3MTM5MDUzNjMwMDA.webp",
-"votes": 285,
+"votes": 286,
 "codec": "AAC+",
 "bitrate": 48
 },
@@ -659,7 +659,7 @@
 "name": "Radio Islam Malang 1",
 "url": "http://siaran.radioislam.my.id:11132/",
 "logo": "",
-"votes": 239,
+"votes": 240,
 "codec": "MP3",
 "bitrate": 24
 },
@@ -691,7 +691,7 @@
 "name": "KLCBS",
 "url": "https://streaming.klcbs.id/listen/klcbs/klcbsfm",
 "logo": "https://klcbsofficial.com/favicon.ico",
-"votes": 229,
+"votes": 230,
 "codec": "AAC",
 "bitrate": 80
 },
@@ -699,7 +699,7 @@
 "name": "RRI Pro 1 Bandung",
 "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3",
 "logo": "",
-"votes": 229,
+"votes": 230,
 "codec": "AAC+",
 "bitrate": 128
 },
@@ -718,6 +718,14 @@
 "votes": 226,
 "codec": "AAC",
 "bitrate": 128
+},
+{
+"name": "Mettaswara DhutKop Remix",
+"url": "https://mettaswara.com:8700/mix",
+"logo": "https://cdn.onlineradiobox.com/img/l/6/128386.v10.png",
+"votes": 224,
+"codec": "AAC",
+"bitrate": 64
 },
 {
 "name": "ARB FM JAKARTA",
@@ -744,14 +752,6 @@
 "bitrate": 128
 },
 {
-"name": "Mettaswara DhutKop Remix",
-"url": "https://mettaswara.com:8700/mix",
-"logo": "https://cdn.onlineradiobox.com/img/l/6/128386.v10.png",
-"votes": 222,
-"codec": "AAC",
-"bitrate": 64
-},
-{
 "name": "Radio Elshinta Bandung",
 "url": "https://stream-ssl.arenastreaming.com:8005/bandung",
 "logo": "",
@@ -773,7 +773,7 @@
 "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBaJEd4HJ1LVG9gxSWGfxrM-MfLrMsXakCWwO8CZ8MBTuIbQv2EP-gdJc&s=10",
 "votes": 212,
 "codec": "AAC",
-"bitrate": 43
+"bitrate": 42
 },
 {
 "name": "Radio ANDIKA",
