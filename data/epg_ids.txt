@@ -122,6 +122,7 @@
 A24.ar@SD
 A2TV.tr@SD
 A2iTV.it@SD
+AB1.fr@SD
 ABCAustralia.au@SD
 ABCNewsLive.us
 ABN.kr@SD
@@ -154,6 +155,7 @@ AagaazTimes.in@SD
 AajEntertainment.pk@SD
 AajKiKhabar.in@SD
 AajTak.in@HD
+AajTak.in@SD
 AakaashAath.in@SD
 AaryaaTV.in@SD
 AaseervathamTV.in@SD
@@ -167,6 +169,7 @@ AathavanTV.uk@SD
 AbadanTV.ir@SD
 AbanteTV.ph@HD
 AbdulmajeedAbdullah.sa@SD
+Action.fr@SD
 AdessoTV.br@SD
 Adnkronos.it@SD
 AdrenalinaPuraTV.us@Brazil
@@ -230,6 +233,7 @@ Aneka
 AngelTV.in@Portuguese
 AnhuiTV.cn@SD
 AnimalPlanet.uk@SD
+Animaux.fr@SD
 Animax.id
 Antenna2TV.it@SD
 AnthonyBourdainPartsUnknown.us@UK
@@ -254,6 +258,7 @@ AuctionHunters.de@GB
 AugsburgTV.de@SD
 Aunar.ar@SD
 AuroraArte.it@SD
+Automotolachaine.fr@SD
 Avatar.de@GB
 AvatarAlendadeAang.us@BR
 AviationTV.ke@SD
@@ -279,10 +284,6 @@ BETClassicsPlutoTV.us
 BETPlutoTV.us
 BFMAlsace.fr@SD
 BFMBusiness.fr@SD
-BFMCotedAzur.fr@SD
-BFMDICIAlpesduSud.fr@SD
-BFMDICIHauteProvence.fr@SD
-BFMGrandLille.fr@SD
 BNChannel.id
 BTLTV.nl@SD
 BTNTV.kr@SD
@@ -347,6 +348,7 @@ Canale7.it@SD
 Canale8.it@SD
 CaoBangTV.vn@SD
 CapeTownTV.za@SD
+CartoonNetwork.jp@HD
 CartoonNetwork.pk@SD
 CartoonNetworkAsia.sg@Thailand
 CarubanTV.id@HD
@@ -392,6 +394,7 @@ Deluxe139.it@SD
 Dens Food Channel
 Dens ShowBiz
 DienBienTV.vn@SD
+DisneyChannel.jp@SD
 DoctorWhoClassic.us
 DragonTV.cn@SD
 DreamWorks.id
@@ -515,6 +518,7 @@ MLB.us
 MMoonbugKids.uk@SD
 MNBWorld.mn@SD
 MNCTV.id
+MTV.jp@SD
 MTVBiggestPop.us
 MTVSpankinNew.us
 MadaniTV.id@SD
@@ -524,6 +528,7 @@ MakkahTV.sa@SD
 Maraya.sa@HD
 MatrixTVYogyakarta.id@HD
 Mazzika.eg@SD
+MentariTV.id@SD
 MetroTV.id
 MidsomerMurders.us
 MindanowNetworkTV.ph@HD
@@ -576,6 +581,7 @@ SCTV.id
 SMTV.id@SD
 SPOTV.id
 SPOTV2.id
+SakuranboTV.jp@JOCYDTV
 SalamTV.id@SD
 SanMarinoRTVSport.sm@SD
 SangajiTV.id@SD
@@ -624,6 +630,7 @@ Vasantham
 VisionPrime.id
 WarnerTVAsia.us@SD
 Weathernews.jp@SD
+YTSYamagataTV.jp@JOYIDTV
 ZeeBioskop.id
 ZooMoo.id
 a.r.canal.adventista
@@ -808,6 +815,7 @@ auto.pemukiman.setan
 auto.perjalanan.pembuktian.cinta
 auto.petualangan.sherina.2
 auto.premier.sports
+auto.rcti.sports
 auto.ritual.tumbal.terakhir
 auto.roll
 auto.romedy.now
