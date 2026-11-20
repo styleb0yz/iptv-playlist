@@ -69,6 +69,7 @@
 3CatInfo.es@SD
 3CatPlatsbruts.es@SD
 3HD.th@SD
+3TV.us@KTVK
 3abn.canada
 3abn.international.network
 3aw.melbourne
@@ -79,7 +80,6 @@
 405
 48Hours.us@US
 4Music.fr@SD
-4SiDESTV.in@SD
 4TVNews.in@SD
 4UTV.tr@SD
 4e
@@ -112,7 +112,6 @@
 8NTV.mx@SD
 8XM.pk@HD
 90210.de@DACH
-90sKids.us@SD
 92NewsHD.pk@SD
 99TV.in@SD
 9PlusNews.in@SD
@@ -162,8 +161,6 @@ AaseervathamTV.in@SD
 Aastha.in@HD
 Aastha.in@SD
 Aastha.in@UK
-AasthaBhajan.in@SD
-AasthaGujarati.in@SD
 AasthaInternational.in@SD
 AathavanTV.uk@SD
 AbadanTV.ir@SD
@@ -227,8 +224,11 @@ AmazonSat.br@SD
 AmericaTV.ar@SD
 AnNinhTV.vn@HD
 AnadoluNetTV.tr@SD
+AndTV.in@HD
+Andpictures.in@HD
 Andromeda.us@Italy
 Andromeda.us@UK
+AndxplorHD.in@HD
 Aneka
 AngelTV.in@Portuguese
 AnhuiTV.cn@SD
@@ -886,6 +886,7 @@ beINSports1Turk.tr@SD
 beInSports1.id
 beInSports2.id
 beInSports3.id
+black.ru@HD
 black.ru@SD
 bloomberg.originals
 blues.tv
