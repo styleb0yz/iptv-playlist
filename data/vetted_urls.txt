@@ -1,0 +1,16 @@
+http://162.244.80.106:11185/stream
+https://live.radioarbali.com:8450/radioar
+https://stream-ssl.arenastreaming.com:8005/bandung
+https://radioislamindonesia.com/rodja.mp3?_=2
+http://45.64.97.82:9940/stream
+http://radio.forumcerdas.net:8000/;
+https://streaming.girifm.com:8010/;
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+http://alfaruq.radioislam.my.id:12000/;
+http://185.47.62.52:8000/;
+http://malang.radioislam.my.id:11132/;
+http://siaran.radioislam.my.id:11132/;
+http://pu.klikhost.com:8052/;
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+https://tvsen6.aynaott.com/golfchannel/index.m3u8

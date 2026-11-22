@@ -1,0 +1,203 @@
+# refill laporan
+Merek: 176. Sudah ada: 66, dinaikkan: 46, tidak ada yang hidup: 30, tidak ada di sumber: 34
+
+## DINAIKKAN
+- HBO: HBO Asia Taiwan (1080p) [asia] 1080p -> 06
+- HBO 2: HBO 2 Latin America HD (1080p) [latam] 1080p -> 06
+- HBO Family: HBO Family Latin America (1080p) [latam] 1080p -> 06
+- Sony Movies: Sony Movies (United States) (720p) [us] 720p -> 06
+- Sony Entertainment Television: Sony Entertainment Television HD (1080p) [asia] 1080p -> 06
+- Sony Channel: Cine Sony (720p) [us] 720p -> 06
+- Warner TV: Warner TV Asia (720p) [asia] 720p -> 06
+- Universal TV: Universal TV Latin America (1080p) [latam] 1080p -> 06
+- AMC: AMC Latin America (1080p) [latam] 1080p -> 06
+- TCM: TCM Latin America (1080p) [latam] 1080p -> 06
+- FX: FX Latin America (1080p) [latam] 1080p -> 06
+- Lifetime: Lifetime Latin America Brazil (720p) [latam] 720p -> 06
+- AXN: AXN Asia Taiwan (1080p) [asia] 1080p -> 06
+- Cinecanal: Cinecanal (1080p) [us] 1080p -> 06
+- PBS: PBS America (576p) [uk] 576p -> 09
+- TNT: TNT Latin America (1080p) [latam] 1080p -> 09
+- TBS: TBS TV (720p) [asia] 1080p -> 09
+- USA Network: USA Network Latin America (1080p) [latam] 1080p -> 09
+- A&E: A&E Latin America Brazil (720p) [latam] 720p -> 09
+- History: History Asia (720p) [asia] 1080p -> 13
+- Discovery Channel: Discovery Asia Taiwan (1080p) [asia] 1080p -> 13
+- TLC: TLC Southeast Asia [asia] 0p -> 09
+- HGTV: HGTV Asia (1080p) [asia] 1080p -> 09
+- National Geographic: National Geographic Latin America (1080p) [latam] 1080p -> 13
+- Univision: Univision Latin America (1080p) [latam] 1080p -> 09
+- Telemundo: Telemundo East HD (1080p) [us] 1080p -> 09
+- Disney Junior: Disney Jr. Latin America (1080p) [latam] 1080p -> 08
+- Duck TV: Duck tv [other] 720p -> 08
+- TNT Sports: TNT Sports (Argentina) SD (576p) [latam] 576p -> 04
+- NFL Network: NFL Channel (720p) [us] 720p -> 05
+- BBC News: BBC News South Asia (720p) [asia] 480p -> 07
+- Fox Business: Fox Business Network (576p) [us] 432p -> 07
+- MSNBC: MS NOW (432p) [us] 432p -> 07
+- RT: RT India (1080p) [asia] 1080p -> 07
+- Newsmax: Newsmax TV (720p) [us] 1080p -> 07
+- LiveNOW from Fox: LiveNOW from FOX (1080p) [us] 1080p -> 07
+- Talk TV: TalkTV (1080p) [uk] 1080p -> 10
+- RTL: RTL (Germany) [eu] 0p -> 11
+- VOX: VOX [eu] 0p -> 11
+- France 3: France 3 [eu] 0p -> 11
+- Antena 3: Antena 3 (480p) [eu] 480p -> 11
+- La Sexta: La Sexta (1080p) [eu] 1080p -> 11
+- VEVO: Vevo Latino (1080p) [latam] 1080p -> 12
+- Trace Urban: Trace Urban (1080p) [eu] 1080p -> 12
+- Deluxe Music: Deluxe Lounge (720p) [eu] 720p -> 12
+- Fuse: Fuse (1080p) [us] 1080p -> 12
+
+## TIDAK ADA YANG HIDUP
+- HBO Hits: 3 entri, dites 2, belum dites 1, 1 berkredensial (dilewati)
+- HBO Signature: 3 entri, dites 2, belum dites 1, 1 berkredensial (dilewati)
+- Lifetime Movies: 1 entri, dites 1, belum dites 0
+- Hallmark: 1 entri, dites 1, belum dites 0
+- Celestial Movies: 2 entri, dites 1, belum dites 1
+- NBC: 2 entri, dites 2, belum dites 0
+- FOX: 1 entri, dites 1, belum dites 0
+- Investigation Discovery: 2 entri, dites 1, belum dites 1, 1 berkredensial (dilewati)
+- Nat Geo Wild: 1 entri, dites 1, belum dites 0
+- Baby TV: 1 entri, dites 1, belum dites 0
+- Premier Sports: 3 entri, dites 2, belum dites 1
+- BBC One: 3 entri, dites 3, belum dites 0
+- BBC Two: 1 entri, dites 1, belum dites 0
+- BBC Three: 1 entri, dites 1, belum dites 0
+- BBC Four: 1 entri, dites 1, belum dites 0
+- BBC Scotland: 1 entri, dites 1, belum dites 0
+- BBC Parliament: 1 entri, dites 1, belum dites 0
+- ITV2: 1 entri, dites 1, belum dites 0
+- ITV3: 1 entri, dites 1, belum dites 0
+- ITV4: 1 entri, dites 1, belum dites 0
+- Channel 4: 1 entri, dites 1, belum dites 0
+- Channel 5: 1 entri, dites 1, belum dites 0
+- E4: 1 entri, dites 1, belum dites 0
+- More4: 1 entri, dites 1, belum dites 0
+- GB News: 1 entri, dites 1, belum dites 0
+- France 2: 1 entri, dites 1, belum dites 0
+- Canale 5: 2 entri, dites 2, belum dites 0
+- La 1 TVE: 6 entri, dites 6, belum dites 0
+- NPO 1: 2 entri, dites 2, belum dites 0
+- NPO 2: 1 entri, dites 1, belum dites 0
+
+## TIDAK ADA DI SUMBER
+- HBO Comedy
+- Showtime
+- MGM+
+- FXX
+- FX Movie Channel
+- Fox Movies
+- Fox Life
+- Freeform
+- ABC
+- CBS
+- The CW
+- Travel Channel
+- Science Channel
+- Toonami
+- DAZN
+- SuperSport
+- NBC Sports
+- MLB Network
+- Rugby TV
+- WWE
+- UFC
+- Motorsport TV
+- i24 News
+- ITV1
+- Film4
+- Dave
+- Sky Atlantic
+- Sat.1
+- TF1
+- Canal+
+- ARTE
+- Telecinco
+- VRT 1
+- SRF 1
+
+## SUDAH ADA (lolos tes)
+- Cinemax: Cinemax (United States) West -> folder 06
+- Starz: Starz West -> folder 06
+- Paramount Network: Paramount Network -> folder 09
+- Hallmark Movies: Hallmark Movies & More -> folder 06
+- Comedy Central: Comedy Central (United States) CA -> folder 09
+- Syfy: SYFY -> folder 09
+- Crime and Investigation: Crime + Investigation -> folder 09
+- truTV: truTV -> folder 09
+- Bravo: Bravo -> folder 09
+- E!: E! East -> folder 09
+- MTV: MTV Live -> folder 09
+- VH1: VH1 -> folder 09
+- BET: BET Pluto TV -> folder 09
+- Discovery Science: Discovery World -> folder 13
+- Animal Planet: Animal Planet (United States) -> folder 09
+- Food Network: Food Network (United States) -> folder 09
+- OWN: OWN -> folder 09
+- Smithsonian Channel: Smithsonian Channel Pluto TV -> folder 13
+- Cartoon Network: Cartoon Network Asia -> folder 08
+- Boomerang: Boomerang (United States) -> folder 08
+- Nickelodeon: Nickelodeon Asia -> folder 08
+- Nick Jr.: Nick Jr. Asia -> folder 08
+- Disney Channel: Disney Channel (United States) -> folder 08
+- Disney XD: Disney XD (United States) -> folder 08
+- Cartoonito: Cartoonito Asia -> folder 08
+- ESPN: ESPN (United States) HD -> folder 04
+- ESPN 2: ESPN 2 (United States) HD -> folder 04
+- Fox Sports: Fox Sports 1 -> folder 04
+- beIN Sports: beIN Sports USA -> folder 04
+- Eurosport: Eurosport 1 UK -> folder 04
+- Sky Sports: Sky Sports F1 -> folder 05
+- CBS Sports Network: CBS Sports HQ -> folder 04
+- NBA TV: NBA TV -> folder 05
+- NHL Network: NHL Network -> folder 05
+- Golf Channel: Golf Channel (United States) -> folder 05
+- Tennis Channel: Tennis Channel -> folder 05
+- CNN International: CNN Indonesia -> folder 02
+- Al Jazeera English: Al Jazeera English -> folder 07
+- DW: DW English -> folder 07
+- France 24: France 24 English -> folder 07
+- Euronews: Euronews English HD -> folder 07
+- Sky News: Sky News -> folder 07
+- Bloomberg: Bloomberg TV -> folder 07
+- CNBC: CNBC Indonesia -> folder 02
+- Fox News: Fox News Channel -> folder 07
+- NHK World: NHK World-Japan HD -> folder 07
+- CGTN: CGTN -> folder 07
+- WION: WION -> folder 07
+- Arirang: Arirang TV HD -> folder 07
+- Channel NewsAsia: CNA International -> folder 07
+- TRT World: TRT World HD -> folder 07
+- ABC News: ABC News Live -> folder 07
+- CBS News: CBS News 24/7 -> folder 07
+- NBC News Now: NBC News NOW -> folder 07
+- Reuters: Reuters TV -> folder 07
+- S4C: S4C -> folder 10
+- Das Erste: Das Erste HD -> folder 11
+- ZDF: ZDF -> folder 11
+- ProSieben: ProSieben -> folder 11
+- M6: M6 HD -> folder 11
+- Rai 1: Rai 1 -> folder 11
+- Rai 2: Rai 2 -> folder 11
+- Rai 3: Rai 3 -> folder 11
+- Mezzo: Mezzo Live -> folder 12
+- CMT: CMT -> folder 09
+- MTV Live: MTV Live -> folder 09
+
+## Entri berkredensial di URL, tidak pernah dipilih (15)
+- HBO: HBO (aflaxtv.xyz)
+- HBO Family: HBO Family (aflaxtv.xyz)
+- HBO Hits: HBO Hits (aflaxtv.xyz)
+- HBO Signature: HBO Signature (aflaxtv.xyz)
+- Cinemax: Cinemax (aflaxtv.xyz)
+- Warner TV: Warner Channel South (45.184.109.10)
+- Warner TV: Warner TV (aflaxtv.xyz)
+- AXN: AXN Latin America South (45.184.109.10)
+- Cinecanal: Cinecanal South (45.184.109.10)
+- History: History Latin America South (45.184.109.10)
+- Discovery Channel: Discovery Channel Latin America South (45.184.109.10)
+- Investigation Discovery: Investigation Discovery Latin America South (45.184.109.10)
+- Disney XD: Disney XD (United States) (720p) (89.187.179.148)
+- Fox Sports: Fox Sports HD (45.184.109.10)
+- TNT Sports: TNT Sports (Argentina) (45.184.109.10)

@@ -1,0 +1,52 @@
+[
+ {
+  "brand": "La 1",
+  "label": "La 1",
+  "folder": "europe",
+  "pos": 1650,
+  "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+  "region": "",
+  "src_name": "La 1 (720p)",
+  "height": 720
+ },
+ {
+  "brand": "GB News",
+  "label": "GB News",
+  "folder": "uk",
+  "pos": 1440,
+  "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+  "region": "",
+  "src_name": "GB News (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "TV5Monde Info",
+  "label": "TV5Monde Info",
+  "folder": "intl_news",
+  "pos": 1240,
+  "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8",
+  "region": "",
+  "src_name": "TV5Monde Info (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "BBC News Europe",
+  "label": "BBC News Europe",
+  "folder": "intl_news",
+  "pos": 1250,
+  "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+  "region": "",
+  "src_name": "BBC News Europe (720p)",
+  "height": 720
+ },
+ {
+  "brand": "Vevo Pop",
+  "label": "Vevo Pop",
+  "folder": "music",
+  "pos": 1750,
+  "url": "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8",
+  "region": "",
+  "src_name": "Vevo Pop (1080p)",
+  "height": 1080
+ }
+]

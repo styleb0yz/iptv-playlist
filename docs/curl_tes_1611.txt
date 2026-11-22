@@ -1,0 +1,37 @@
+== https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+HTTP 000  0B
+
+== https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
+HTTP 403 text/html; charset=utf-8 304B
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by Referer ACL</p><hr/>Powered by Tengine <br/>CDN Request Id: 2b6d1ea817948119594418589e</body></h
+== https://proxy-v.rctiplus.id/live/web/inewstv/index.m3u8
+HTTP 403 text/html; charset=utf-8 304B
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by Referer ACL</p><hr/>Powered by Tengine <br/>CDN Request Id: 2b6d1ea717948119595377048e</body></h
+== https://proxy-v.rctiplus.id/live/web/sctv/index.m3u8
+HTTP 403 text/html; charset=utf-8 304B
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by Referer ACL</p><hr/>Powered by Tengine <br/>CDN Request Id: 2b6d1e9917948119596068952e</body></h
+== https://proxy-v.rctiplus.id/live/web/indosiar/index.m3u8
+HTTP 403 text/html; charset=utf-8 304B
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by Referer ACL</p><hr/>Powered by Tengine <br/>CDN Request Id: 2b6d1ea717948119596777370e</body></h
+== https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+HTTP 403 text/html; charset=utf-8 304B
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by Referer ACL</p><hr/>Powered by Tengine <br/>CDN Request Id: 2b6d1eac17948119597173388e</body></h
+== https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+HTTP 403 text/html; charset=utf-8 304B
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"><html><head><title>403 Forbidden</title></head><body><h1>403 Forbidden</h1><p>You don't have permission to access the URL on this server.</p><p>denied by Referer ACL</p><hr/>Powered by Tengine <br/>CDN Request Id: 2b6d1e9a17948119598076993e</body></h
+== https://live.i-news.tv/hls/stream.m3u8
+HTTP 200 application/x-mpegURL 300B
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-STREAM-INF:BANDWIDTH=1414758,RESOLUTION=1920x1080
+0/stream.m3u8
+
+
+== https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
+HTTP 200 application/vnd.apple.mpegurl 781B
+#EXTM3U
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:448702974
+#EXT-X-VERSION:3
+#EXT-X-KEY:METHOD=NONE
+

@@ -128,7 +128,8 @@ def extinf(e, group, name, tvg):
     if tvg:
         parts.append(f'tvg-id="{tvg}"')
     parts += [f'{k}="{v}"' for k, v in attrs.items()]
-    parts.append(f'group-title="{group}"')
+    gt = re.sub(r'^\d{2} · ', '', group)
+    parts.append(f'group-title="{gt}"')
     return f'#EXTINF:-1 {" ".join(parts)},{name}'
 
 
@@ -305,6 +306,31 @@ def main():
         seen_url.add(e['url'])
         place(e, FL['radio'])
 
+    # --- refill: merek mayor yang dinaikkan refill.py (data/refill_pick.json). Hanya yang lolos tes lokal dipilih refill.py;
+    # kalau kemudian gagal tes (lokal atau cek GitHub), entri itu tetap ke Likely Dead seperti channel lain.
+    picks = load_json(D / 'refill_pick.json')
+    picks = {p_['url']: p_ for p_ in picks} if isinstance(picks, list) else {}
+    n_pick, done_pick = 0, set()
+    if picks:
+        for p_ in picks.values():
+            assert p_['folder'] in FL, f"refill_pick.json: folder {p_['folder']} tidak ada di rules.yml"
+        for i, (f_, pos_, nm_, e_) in enumerate(placed):
+            p_ = picks.get(e_['url'])
+            if p_ and e_['url'] not in done_pick and S.st(e_) != 2:
+                placed[i] = (FL[p_['folder']], 5 * 10**5 + p_['pos'], p_['label'], e_)
+                done_pick.add(e_['url'])
+                n_pick += 1
+        keep_d = []
+        for m_, why_ in dupes:  # pilihan yang tadinya kalah sebagai duplikat (mis. dhanytv) ikut naik
+            p_ = picks.get(m_['url'])
+            if p_ and m_['url'] not in done_pick and S.st(m_) != 2:
+                placed.append((FL[p_['folder']], 5 * 10**5 + p_['pos'], p_['label'], m_))
+                done_pick.add(m_['url'])
+                n_pick += 1
+            else:
+                keep_d.append((m_, why_))
+        dupes[:] = keep_d
+
     # --- URL sama dipakai >1 entri = stream yang sama: sisakan satu (folder bernomor terkecil).
     # Entri di folder esensial (01-15, hasil kurasi draft) tidak pernah dibuang; yang dibuang hanya salinan di folder arsip, dicatat di laporan.
     n_ess = len(R['folders'])
@@ -394,6 +420,7 @@ def main():
          f'- Entri tanpa URL dilewati: iptv {bad1}, dhanytv {bad2}',
          f'- Kandidat untuk check_local.py: {len(cand)} URL (kandidat_cek.json)',
          f'- Status lokal dimuat: {len(S.local)} URL | status GitHub: {len(S.github)} URL',
+         f'- Refill merek mayor: {n_pick} dari {len(picks)} pilihan di refill_pick.json masuk folder utama',
          f'- Stasiun radio Indonesia dari cache: {n_radio_id}' + ('  **(NOL, jalankan Batch 3 / workflow)**' if not n_radio_id else ''),
          '', '## Sumber hari ini'] + fetch_lines + ['',
          '## EPG',
@@ -433,6 +460,8 @@ def main():
 
     print(f'OK  masuk={total_in}  playlist={len(placed)}  duplikat={len(dupes)}  ditahan={len(held)}')
     print(f'    dari dhanytv={len(from_dh)}  mati={len(dead)}  draft hilang={len(draft_missing)}')
+    if picks:
+        print(f'    refill merek mayor: {n_pick} dari {len(picks)} pilihan masuk folder utama')
     if n_extra:
         print(f'    (dari dhanytv termasuk {n_extra} entri sumber tambahan)')
     print(f'    dibuang karena URL sama (folder arsip saja)={n_url_dedup}')

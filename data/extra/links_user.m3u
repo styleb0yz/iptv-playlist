@@ -1,0 +1,239 @@
+#EXTM3U
+# R4 tahap 1b (15 Nov): link situs resmi lolos cek_link_baru.py; URL 90369cf5 dilewati karena sudah dipakai BTV. Tanda cek-drm = DUGAAN.
+#EXTINF:-1 tvg-id="BeritaSatu.id@SD" tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" group-title="Indonesia Channels",BeritaSatu (situs resmi) (1080p)
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/e6b57b20-6c4c-4c7d-8fca-5e7bd4b566d8/master.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Indonesia Channels",Al-Iman TV (Indonesia) (situs resmi) (1080p)
+https://live.aliman.id/live/livestream.m3u8
+# R5a (15 Nov): promosi 7 channel dari situs resmi dan Free-TV/IPTV, tes cek_link_baru.py HIDUP.
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="Indonesia Channels",RRI Net (situs resmi) (1080p)
+https://stream-event.rri.go.id/memfs/8cec7b6a-22d6-44e6-adc6-2ee104f9f4e7.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD" tvg-logo="https://i.ibb.co/rfsr9PSh/La-2.png" group-title="General;Public",La 2 (Free-TV) (720p)
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La1.es@SD" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="General;Public",La 1 (Free-TV) (720p)
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="News",GB News (Free-TV) (1080p)
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (Free-TV) (1080p)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Europe (Free-TV) (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop (Free-TV) (1080p)
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+
+# R6 (16 Nov): 5 channel dari playlist app gvision, identitas dikonfirmasi user. Cek URL TVRI Sport (relay channell.my.id) sebelum upload GitHub publik.
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="General",TVRI Sport
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvrisport
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="General",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch2.m3u8
+#EXTINF:-1 tvg-id="NaajiyaTV.id@SD" tvg-logo="https://i.postimg.cc/Z5YTHPV8/KUbqm-Lq-Rx-Y-70-Ilj-LU4uyerh-Qz-PZ66-DVYoqm-BNDAT7-TSfk-G3-Fu015-Lxv-Ss-Esma6-VD3r-NYu0-Yw-s900-c-k-c0x00ffffff-no-r.png" group-title="General",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch7.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="General",Kids TV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://proxy-v.rctiplus.id/live/GvisionTV/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="General",Lifetime
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://proxy-v.rctiplus.id/live/GvisionTV/lifetime/index.m3u8
+# R6b (16 Nov): 12 channel dari aktv dan gvision, identitas dicek user (frame).
+#EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="General",RCTI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="General",ANTV (Indonesia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+#EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="General",GTV (Indonesia) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="General",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="General",Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://www.visionplus.id/images/repository/721/627721-SQUARE-l.jpg" group-title="General",Fox News Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/foxnews/index.m3u8
+#EXTINF:-1 tvg-id="GREATmovies.uk@UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20251125T095955SQUARE.png" group-title="General",GREAT! movies
+https://jmp2.uk/stvp-GBBC900007Q5
+#EXTINF:-1 tvg-id="RT.ru@HD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg" group-title="General",RT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/rteng/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png" group-title="General",History (United States)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nickjr.png" group-title="General",Nick Jr. (United States)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="CBeebies.uk@HD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg" group-title="General",CBeebies (United Kingdom) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/cbeebies/index.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk@SD" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_celestialmovies.png" group-title="General",Celestial Movies (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8
+#EXTINF:-1 tvg-id="iNews.id@SD" group-title="General",iNews
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://proxy-v.rctiplus.id/live/GvisionTV/inews/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id@SD" group-title="General",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.detik.com/
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+
+# v112i (17 Nov): host ayna pindah ke aynaott.com, tes EXTM3U hidup, identitas menunggu frame
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="Kids",Disney Junior (United States) (480p)
+https://tvsen5.aynaott.com/disney/index.m3u8
+
+# v112i (17 Nov): host ayna pindah ke aynaott.com, tes EXTM3U hidup, identitas menunggu frame
+#EXTINF:-1 tvg-id="Willow.us@SD" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports",Willow (720p)
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+# v112n (17 Nov): kandidat dari cari_belum.py, lolos tes lokal, identitas menunggu frame
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="Europe",BBC One London HD
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
+
+# v112r: channel sisa yang entri sumbernya hilang dari index.m3u
+#EXTINF:-1 tvg-id="sisa.antena3" group-title="Sisa",Antena 3 [STB]
+https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
+#EXTINF:-1 tvg-id="sisa.radiorodja756am1001fm" group-title="Sisa",Radio Rodja 756 AM & 100.1 FM [BELUM]
+http://live2.radiorodja.com:8000/;stream.mp3
+#EXTINF:-1 tvg-id="sisa.30agolfkingdom720p" group-title="Sisa",30A Golf Kingdom (720p) [BELUM]
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-id="sisa.axnasiaindonesia" group-title="Sisa",AXN Asia Indonesia [MATI]
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-id="sisa.bravotv1080p" group-title="Sisa",Bravo TV (1080p) [MATI]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.cartoonnetworkunitedstateswest1080pgeoblocked" group-title="Sisa",Cartoon Network (United States) West (1080p) [Geo-blocked] [BELUM]
+http://212.5.144.156:8080/cartoon/index.m3u8
+#EXTINF:-1 tvg-id="sisa.cartoonnetworkhd1080p" group-title="Sisa",Cartoon Network HD+ (1080p) [MATI]
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="sisa.cinecanalpacific1080p" group-title="Sisa",Cinecanal Pacific (1080p) [MATI]
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="sisa.comedycentrallatinamerica1080p" group-title="Sisa",Comedy Central Latin America (1080p) [MATI]
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.crimeinvestigationasia720pgeoblocked" group-title="Sisa",Crime + Investigation Asia (720p) [Geo-blocked] [MATI]
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+#EXTINF:-1 tvg-id="sisa.dazn1germany" group-title="Sisa",DAZN 1 Germany [MATI]
+http://45.142.104.86/stream/25/index.m3u8
+#EXTINF:-1 tvg-id="sisa.discoverychannelindiahd1080p" group-title="Sisa",Discovery Channel (India) HD (1080p) [MATI]
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="sisa.discoveryscienceeuropeuk" group-title="Sisa",Discovery Science Europe UK [MATI]
+http://37.49.224.5/stream/9/index.m3u8
+#EXTINF:-1 tvg-id="sisa.eurosportindiahd1080p" group-title="Sisa",Eurosport (India) HD (1080p) [MATI]
+https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+#EXTINF:-1 tvg-id="sisa.f1channel" group-title="Sisa",F1 Channel [VPN]
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.fightnetwork" group-title="Sisa",Fight Network [BELUM]
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="sisa.foxunitedstateswest720p" group-title="Sisa",Fox (United States) West (720p) [BELUM]
+http://stream.cammonitorplus.net/1799/index.m3u8
+#EXTINF:-1 tvg-id="sisa.hbofamilyasiahd1080p" group-title="Sisa",HBO Family Asia HD (1080p) [MATI]
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTINF:-1 tvg-id="sisa.hbohitsasiahd1080p" group-title="Sisa",HBO Hits Asia HD (1080p) [MATI]
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTINF:-1 tvg-id="sisa.hbosignatureasiahd1080p" group-title="Sisa",HBO Signature Asia HD (1080p) [MATI]
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1 tvg-id="sisa.hbosignaturelatinamerica" group-title="Sisa",HBO Signature Latin America [MATI]
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="sisa.hallmarkchannel1080p" group-title="Sisa",Hallmark Channel (1080p) [MATI]
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="sisa.itv2" group-title="Sisa",ITV2 [MATI]
+https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.itv3" group-title="Sisa",ITV3 [MATI]
+https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.itv4" group-title="Sisa",ITV4 [MATI]
+https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.lifetimeasia1080p" group-title="Sisa",Lifetime Asia (1080p) [MATI]
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+#EXTINF:-1 tvg-id="sisa.more4576p" group-title="Sisa",More4 (576p) [BELUM]
+http://82.47.42.44/stream/402/index.m3u8
+#EXTINF:-1 tvg-id="sisa.nbcwest720p" group-title="Sisa",NBC West (720p) [BELUM]
+http://stream.cammonitorplus.net/1800/index.m3u8
+#EXTINF:-1 tvg-id="sisa.nflnetwork" group-title="Sisa",NFL Network [MATI]
+http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 tvg-id="sisa.npo1360p" group-title="Sisa",NPO 1 (360p) [MATI]
+https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.npo2hd720pgeoblocked" group-title="Sisa",NPO 2 HD (720p) [Geo-blocked] [MATI]
+https://bpm.tv.delta.nl/hls/combined/2/mobile.m3u8
+#EXTINF:-1 tvg-id="sisa.onegolf" group-title="Sisa",One Golf [MATI]
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="sisa.overtime" group-title="Sisa",Overtime [VPN]
+https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+#EXTINF:-1 tvg-id="sisa.racernetwork" group-title="Sisa",Racer Network [VPN]
+https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.setantasports" group-title="Sisa",Setanta Sports [BELUM]
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 tvg-id="sisa.skysportgolf" group-title="Sisa",Sky Sport Golf [BELUM]
+http://94.130.48.67:8042/stream/56/index.m3u8
+#EXTINF:-1 tvg-id="sisa.skysportmix" group-title="Sisa",Sky Sport Mix [BELUM]
+http://94.130.48.67:8042/stream/53/index.m3u8
+#EXTINF:-1 tvg-id="sisa.skysporttennis" group-title="Sisa",Sky Sport Tennis [BELUM]
+http://94.130.48.67:8042/stream/55/index.m3u8
+#EXTINF:-1 tvg-id="sisa.skysporttopevent" group-title="Sisa",Sky Sport Top Event [BELUM]
+http://94.130.48.67:8042/stream/50/index.m3u8
+#EXTINF:-1 tvg-id="sisa.sporttv1" group-title="Sisa",Sport TV1 [MATI]
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+#EXTINF:-1 tvg-id="sisa.tbswest720pgeoblocked" group-title="Sisa",TBS West (720p) [Geo-blocked] [VPN]
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="sisa.tcmwest720pgeoblocked" group-title="Sisa",TCM West (720p) [Geo-blocked] [VPN]
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="sisa.tntunitedstateswest720pgeoblocked" group-title="Sisa",TNT (United States) West (720p) [Geo-blocked] [VPN]
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="sisa.tntserieslatinamerica1080p" group-title="Sisa",TNT Series Latin America (1080p) [MATI]
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="sisa.tntserieslatinamericasouth" group-title="Sisa",TNT Series Latin America South [MATI]
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="sisa.tveinternacionalamerica720p" group-title="Sisa",TVE Internacional America (720p) [BELUM]
+https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8
+#EXTINF:-1 tvg-id="sisa.tveinternacionalamericahd1080pgeoblocked" group-title="Sisa",TVE Internacional America HD (1080p) [Geo-blocked] [VPN]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="sisa.traceuk1080p" group-title="Sisa",Trace UK (1080p) [BELUM]
+https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
+#EXTINF:-1 tvg-id="sisa.univisionwest1080pgeoblocked" group-title="Sisa",Univision West (1080p) [Geo-blocked] [VPN]
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+#EXTINF:-1 tvg-id="sisa.vevocountry1080p" group-title="Sisa",Vevo Country (1080p) [MATI]
+https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.vevohiphop1080p" group-title="Sisa",Vevo Hip Hop (1080p) [BELUM]
+https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+#EXTINF:-1 tvg-id="sisa.trutvwest720pgeoblocked" group-title="Sisa",truTV West (720p) [Geo-blocked] [VPN]
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="sisa.axnlatinamerica1080p" group-title="Sisa",AXN Latin America (1080p) [MATI]
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-id="sisa.cartoonnetworklatinamerica" group-title="Sisa",Cartoon Network Latin America [MATI]
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="sisa.disneychannellatinamericasouth" group-title="Sisa",Disney Channel Latin America South [MATI]
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
+#EXTINF:-1 tvg-id="sisa.elatinamerica1080p" group-title="Sisa",E! Latin America (1080p) [MATI]
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.elatinamericamexico720p" group-title="Sisa",E! Latin America Mexico (720p) [MATI]
+http://72.1.184.5:8089/play/a05d/index.m3u8
+#EXTINF:-1 tvg-id="sisa.espn2latinamerica1080p" group-title="Sisa",ESPN 2 Latin America (1080p) [MATI]
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="sisa.espn2latinamericaargentina" group-title="Sisa",ESPN 2 Latin America Argentina [MATI]
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="sisa.espnlatinamerica1080p" group-title="Sisa",ESPN Latin America (1080p) [MATI]
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="sisa.espnlatinamericaargentina" group-title="Sisa",ESPN Latin America Argentina [MATI]
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+#EXTINF:-1 tvg-id="sisa.mtvindiahd396p" group-title="Sisa",MTV (India) HD (396p) [MATI]
+https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#EXTINF:-1 tvg-id="sisa.bbcone720pgeoblocked" group-title="Sisa",BBC One (720p) [Geo-blocked] [VPN]
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="sisa.bbconeeast720pgeoblocked" group-title="Sisa",BBC One East (720p) [Geo-blocked] [BELUM]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="sisa.bbconewest720pgeoblocked" group-title="Sisa",BBC One West (720p) [Geo-blocked] [BELUM]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd

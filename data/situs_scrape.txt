@@ -1,0 +1,8 @@
+# Nama Channel | halaman resmi. Nama harus sama dengan nama_bersih di docs/cari_link.csv.
+# TVRI Sport: halaman live resmi (TERBUKTI ada). Sisanya domain resmi DUGAAN; kalau 404, hapus atau ganti halaman live yang benar.
+TVRI Sport | https://www.tvri.go.id/live
+BeritaSatu | https://www.beritasatu.com/
+Al-Iman TV | https://aliman.id/
+SCTV | https://www.sctv.co.id/
+RRI Net | https://rri.co.id/stream/video
+Surau TV | https://surautv.id/

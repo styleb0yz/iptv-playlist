@@ -1,0 +1,182 @@
+EPG punya jadwal untuk 941 id
+folder: tanpa jadwal / total
+  01 1/18
+  02 1/8
+  03 10/16
+  04 19/25
+  05 8/15
+  06 15/33
+  07 12/23
+  08 7/13
+  09 21/28
+  10 1/1
+  11 9/9
+  12 4/9
+  13 4/10
+  14 0/30
+channel unik tanpa jadwal (folder 01-14): 112
+tanpa site di guides.json: 24
+site -> jumlah channel tanpa jadwal yang bisa disuplai:
+  36 tvtv.us
+  31 tvpassport.com
+  30 tvguide.com
+  21 sky.com
+  17 epg.iptvx.one
+  14 tv.blue.ch
+  14 programtv.onet.pl
+  13 teleboy.ch
+  13 m.tv.sms.cz
+  12 tv.post.lu
+  12 tv.sfr.fr
+  11 tv-programme.telecablesat.fr
+  11 chaines-tv.orange.fr
+  9 dens.tv
+  9 ontvtonight.com
+  9 mytelly.co.uk
+  9 programetv.ro
+  9 meo.pt
+  9 tv2go.t-2.net
+  8 tvireland.ie
+  8 web.magentatv.de
+  8 neo.io
+  8 tv.nu
+  8 tv24.se
+  7 visionplus.id
+daftar tanpa site:
+  03 AlBahjahTV.id | Al-Bahjah TV
+  03 AlImanTV.id | Al-Iman TV (Indonesia)
+  09 BETThrowbacks.us | BET Throwbacks
+  06 BattlestarGalactica.us | Battlestar Galactica
+  06 Bonanza.us | Bonanza
+  06 CSIMiami.us | CSI: Miami
+  08 CartoonitoAsia.sg | Cartoonito Asia
+  06 CinemaxClassics.us | Cinemax Classics
+  06 CinemaxHits.us | Cinemax Hits
+  06 ClassicMovieWesterns.us | Classic Movie Westerns
+  05 DAZNCombat.uk | DAZN Combat
+  13 DiscoveryTurbo.us | Discovery Turbo (United States)
+  06 Dynasty.us | Dynasty
+  04 EurovisionSport.uk | Eurovision Sport
+  06 Frasier.us | Frasier (United States)
+  08 HappyKids.us | HappyKids
+  01 IndonesianaTV.id | Indonesiana.TV
+  03 IqraaQuran.sa | Iqraa Quran
+  12 MovieMusicbyStingray.ca | Movie Music by Stingray
+  03 PeaceTVEnglish.ae | Peace TV English
+  03 QatarTVTheHolyQuran.qa | Qatar TV The Holy Quran
+  07 ReutersTV.us | Reuters TV
+  09 SYFY.us | SYFY
+  04 SkySports2.mx | Sky Sports 2
+daftar channel tanpa jadwal beserta site:
+  01 IndonesianaTV.id | Indonesiana.TV | -
+  02 BeritaSatu.id | BeritaSatu | cubmu.com,dens.tv,maxstream.tv,vidio.com
+  03 AlBahjahTV.id | Al-Bahjah TV | -
+  03 RodjaTV.id | Rodja TV | dens.tv,maxstream.tv
+  03 NabawiTV.id | Nabawi TV | cubmu.com
+  03 AlImanTV.id | Al-Iman TV (Indonesia) | -
+  03 MQTV.id | MQTV | maxstream.tv
+  03 AlSunnahAlNabawiyahTV.sa | Al Sunnah Al Nabawiyah TV | dens.tv,shahid.mbc.net
+  03 AlQuranAlKareemTV.sa | Al Quran Al Kareem TV | cubmu.com,dens.tv,mncvision.id,osn.com,shahid.mbc.net,visionplus.id
+  03 IqraaQuran.sa | Iqraa Quran | -
+  03 QatarTVTheHolyQuran.qa | Qatar TV The Holy Quran | -
+  03 PeaceTVEnglish.ae | Peace TV English | -
+  04 TVRISport.id | TVRI Sport | dens.tv
+  04 beINSports1.qa | beIN Sports 1 | beinsports.com,canalplus.com,chaines-tv.orange.fr,epg.iptvx.one,mncvision.id,nowplayer.now.com,programme-tv.net,tivie.id,tv-programme.telecablesat.fr,tv.sfr.fr,tv.trueid.net,tvcesoir.fr,vidio.com,visionplus.id
+  04 MUTV.uk | MUTV | mytelly.co.uk,nowplayer.now.com,sky.com,tv.blue.ch,tvireland.ie,virgintvgo.virginmedia.com
+  04 RealMadridTVEnglish.es | Real Madrid TV English | vidio.com
+  04 MilanTV.it | Milan TV | epg.iptvx.one,guida.tv,guidatv.sky.it,sky.com,superguidatv.it
+  04 SkySportsNews.uk | Sky Sports News | m.tv.sms.cz,mytelly.co.uk,player.ee.co.uk,sky.com,tvireland.ie,virgintvgo.virginmedia.com
+  04 ESPN.us | ESPN (United States) HD | epg.iptvx.one,meuguia.tv,mi.tv,ontvtonight.com,tvguide.com,tvpassport.com,tvtv.us
+  04 ESPN2.us | ESPN 2 (United States) HD | epg.iptvx.one,ontvtonight.com,tvguide.com,tvpassport.com,tvtv.us
+  04 FoxSports1.us | Fox Sports 1 | tvguide.com
+  04 Eurosport1.fr | Eurosport 1 UK | canalplus.com,epg.iptvx.one,gatotv.com,guida.tv,guidetnt.com,horizon.tv,m.tv.sms.cz,melita.com,meo.pt,mon-programme-tv.be,movistarplus.es,mujtvprogram.cz,musor.tv,mytelly.co.uk,nostv.pt,novasports.gr,orangetv.orange.es,pickx.be,programacion-tv.elpais.com,programetv.ro,programme-tv.net,programtv.onet.pl,sky.com,superguidatv.it,teleboy.ch,teliatv.ee,turksatkablo.com.tr,tv-programme.telecablesat.fr,tv.blue.ch,tv.dir.bg,tv.lv,tv.magenta.at,tv.nu,tv.post.lu,tv.sfr.fr,tv24.se,tv2go.t-2.net,tvcesoir.fr,tvgids.nl,tvheute.at,tvireland.ie,tvmusor.hu,tvplus.com.tr,tvprofil.com,virgintvgo.virginmedia.com,web.magentatv.de,webtv.delta.nl,ziggogo.tv
+  04 EurovisionSport.uk | Eurovision Sport | -
+  04 talkSPORT.uk | talkSPORT | freeview.co.uk,sky.com
+  04 SkySports1.mx | Sky Sports 1 | gatotv.com
+  04 SkySports2.mx | Sky Sports 2 | -
+  04 ElevenSports2.pl | Eleven Sports 2 | programtv.onet.pl
+  04 ElevenSports3.pl | Eleven Sports 3 | programtv.onet.pl
+  04 ElevenSports4.pl | Eleven Sports 4 | programtv.onet.pl
+  04 CanalPlusSport.fr | Canal+ Sport (France) | canalplus.com,chaines-tv.orange.fr,guidetnt.com,programme-tv.net,tv-programme.telecablesat.fr,tv.blue.ch,tvcesoir.fr
+  04 Sportitalia.it | Sportitalia | guida.tv,superguidatv.it,teleboy.ch,tv.blue.ch
+  05 NBATV.us | NBA TV | dsmart.com.tr,epg.iptvx.one,m.tv.sms.cz,nowplayer.now.com,turksatkablo.com.tr,tvguide.com,tvhebdo.com,tvpassport.com,tvtv.us
+  05 NHLNetwork.us | NHL Network | epg.iptvx.one,nhl.com,tvguide.com,tvpassport.com,tvtv.us
+  05 GolfChannel.us | Golf Channel (United States) | epg.iptvx.one,m.tv.sms.cz,mujtvprogram.cz,tvguide.com,tvhebdo.com,tvpassport.com,tvtv.us
+  05 SkySportsF1.uk | Sky Sports F1 | mytelly.co.uk,player.ee.co.uk,sky.com,tvireland.ie,virgintvgo.virginmedia.com
+  05 DAZNF1.uk | DAZN F1 | movistarplus.es
+  05 DAZNCombat.uk | DAZN Combat | -
+  05 CCTVGolfTennis.cn | CCTV-Golf & Tennis | tv.cctv.com
+  05 SkySportsNFL.uk | Sky Sports NFL | mytelly.co.uk,player.ee.co.uk,sky.com,tvireland.ie,virgintvgo.virginmedia.com
+  06 IFC.us | IFC | tvguide.com,tvpassport.com,tvtv.us
+  06 CinemaxHits.us | Cinemax Hits | -
+  06 CinemaxClassics.us | Cinemax Classics | -
+  06 Charge.us | Charge! | tvpassport.com,tvtv.us
+  06 MBCDramaUSA.us | MBC Drama USA | shahid.mbc.net
+  06 Frasier.us | Frasier (United States) | -
+  06 CSIMiami.us | CSI: Miami | -
+  06 Bonanza.us | Bonanza | -
+  06 BattlestarGalactica.us | Battlestar Galactica | -
+  06 ClassicMovieWesterns.us | Classic Movie Westerns | -
+  06 Dynasty.us | Dynasty | -
+  06 Cinemax.us | Cinemax (United States) West | epg.iptvx.one,tvguide.com,tvpassport.com,tvtv.us
+  06 Starz.us | Starz West | ontvtonight.com,tvguide.com,tvpassport.com,tvtv.us
+  06 StarzComedy.us | Starz Comedy | ontvtonight.com,tvguide.com,tvpassport.com,tvtv.us
+  06 ShowtimeFamilyZone.us | Showtime Family Zone | ontvtonight.com,tvguide.com,tvpassport.com,tvtv.us
+  07 DW.de | DW English | anteltv.com.uy,cableplus.com.uy,chaines-tv.orange.fr,content.astro.com.my,dens.tv,directv.com.uy,horizon.tv,m.tv.sms.cz,maxstream.tv,melita.com,meuguia.tv,mi.tv,mncvision.id,mujtvprogram.cz,mytvsuper.com,nostv.pt,nowplayer.now.com,orangetv.orange.es,playtv.unifi.com.my,programacion-tv.elpais.com,programacion.tcc.com.uy,programetv.ro,programtv.onet.pl,reportv.com.ar,singtel.com,sky.com,starhubtvplus.com,tataplay.com,teleboy.ch,teliatv.ee,tv-programme.telecablesat.fr,tv.blue.ch,tv.dir.bg,tv.sfr.fr,tvhebdo.com,tvpassport.com,tvplus.com.tr,tvprofil.com,tvtv.us,vidio.com,visionplus.id
+  07 SkyNews.ie | Sky News | sky.com
+  07 CNBCUK.uk | CNBC UK | mytelly.co.uk,tvireland.ie
+  07 CNAInternational.sg | CNA International | mytvsuper.com
+  07 NHKWorldJapan.jp | NHK World-Japan HD | canalplus.com,chaines-tv.orange.fr,dens.tv,dstv.com,epg.iptvx.one,foxtel.com.au,freeview.co.uk,gatotv.com,guidatv.sky.it,i.mjh.nz,m.tv.sms.cz,maxstream.tv,meo.pt,meuguia.tv,mi.tv,mncvision.id,mytelly.co.uk,mytvsuper.com,nostv.pt,nowplayer.now.com,playtv.unifi.com.my,programtv.onet.pl,sat.tv,singtel.com,sky.com,starhubtvplus.com,tataplay.com,teleboy.ch,tv.blue.ch,tv.mail.ru,tv.nu,tv.post.lu,tv.sfr.fr,tv2go.t-2.net,tvguide.myjcom.jp,tvireland.ie,tvtv.us,vidio.com,virgintvgo.virginmedia.com,visionplus.id,vodafone.pt,webtv.delta.nl,www3.nhk.or.jp
+  07 TRTWorld.tr | TRT World HD | chaines-tv.orange.fr,dens.tv,digiturk.com.tr,horizon.tv,i.mjh.nz,ipko.tv,melita.com,meo.pt,mytelly.co.uk,sky.com,turksatkablo.com.tr,tv.magenta.at,tv.post.lu,tvgids.nl,tvireland.ie,tvplus.com.tr,visionplus.id,watch.whaletvplus.com
+  07 WION.in | WION | airtelxstream.in,cubmu.com,dens.tv,dishtv.in,playtv.unifi.com.my,singtel.com,tataplay.com,zee5.com
+  07 ReutersTV.us | Reuters TV | -
+  07 Newsy.us | Newsy | tvtv.us,xumo.tv
+  07 i24NEWSEnglishWorld.il | i24NEWS English World | i.mjh.nz,meo.pt,programacion-tv.elpais.com,superguidatv.it,tv.blue.ch
+  07 AfricanewsEnglish.fr | Africanews English | distro.tv,vidio.com,watch.whaletvplus.com
+  07 WELT.de | WELT | horizon.tv,m.tv.sms.cz,programetv.ro,programtv.onet.pl,sky.com,teleboy.ch,tv.blue.ch,tv.post.lu,tv.sfr.fr,tvheute.at,web.magentatv.de
+  08 CartoonitoAsia.sg | Cartoonito Asia | -
+  08 NickelodeonAsia.sg | Nickelodeon Asia | content.astro.com.my,maxstream.tv,mncvision.id,mytvsuper.com,nowplayer.now.com,singtel.com,starhubtvplus.com,visionplus.id
+  08 NickJrAsia.sg | Nick Jr. Asia | content.astro.com.my,maxstream.tv,mncvision.id,mytvsuper.com,nowplayer.now.com,playtv.unifi.com.my,singtel.com,starhubtvplus.com,visionplus.id
+  08 DisneyChannel.us | Disney Channel (United States) | tvguide.com,tvpassport.com,tvtv.us
+  08 DisneyXD.us | Disney XD (United States) | tvguide.com,tvpassport.com,tvtv.us
+  08 Boomerang.us | Boomerang (United States) | tvguide.com,tvpassport.com,tvtv.us
+  08 HappyKids.us | HappyKids | -
+  09 Fox.us | Fox (United States) KTTV | tvguide.com,tvpassport.com,tvtv.us
+  09 Bravo.us | Bravo | tvguide.com,tvpassport.com,tvtv.us
+  09 CMT.us | CMT | tvguide.com,tvpassport.com,tvtv.us
+  09 E.us | E! East | tvguide.com,tvpassport.com,tvtv.us
+  09 FoodNetwork.us | Food Network (United States) | chaines-tv.orange.fr,epg.iptvx.one,tvguide.com,tvpassport.com,tvtv.us
+  09 ParamountNetwork.us | Paramount Network | tvguide.com,tvhebdo.com,tvtv.us
+  09 MTVLive.us | MTV Live | epg.iptvx.one,tvpassport.com,tvtv.us
+  09 ComedyCentral.us | Comedy Central (United States) CA | tvguide.com,tvpassport.com,tvtv.us
+  09 AnimalPlanet.us | Animal Planet (United States) | ontvtonight.com,tvguide.com,tvpassport.com,tvtv.us
+  09 CNN.us | CNN | i.mjh.nz,meuguia.tv,teleboy.ch,tv.dir.bg,tvguide.com,tvguide.myjcom.jp,tvhebdo.com,tvpassport.com,tvtv.us
+  09 truTV.us | truTV | ontvtonight.com,tvguide.com,tvpassport.com,tvtv.us
+  09 SYFY.us | SYFY | -
+  09 VH1.us | VH1 | epg.iptvx.one,tvguide.com,tvpassport.com,tvtv.us
+  09 MTV.us | MTV (United States) | tvguide.com,tvpassport.com,tvtv.us
+  09 OWN.us | OWN | tvguide.com,tvpassport.com,tvtv.us
+  09 TheWeatherChannel.us | The Weather Channel | tvguide.com,tvpassport.com,tvtv.us
+  09 Bounce.us | Bounce | ontvtonight.com,tvtv.us
+  09 Comet.us | Comet | ontvtonight.com,tvpassport.com,tvtv.us
+  09 CookingChannel.us | Cooking Channel | tvguide.com,tvpassport.com,tvtv.us
+  09 CrimePlusInvestigation.us | Crime + Investigation | osn.com,tvguide.com
+  09 BETThrowbacks.us | BET Throwbacks | -
+  10 S4C.uk | S4C | freeview.co.uk,mytelly.co.uk,sky.com,teleboy.ch,virgintvgo.virginmedia.com
+  11 DasErste.de | Das Erste HD | canalplus.com,epg.iptvx.one,meo.pt,mujtvprogram.cz,neo.io,pickx.be,programetv.ro,programme-tv.net,programtv.onet.pl,sky.com,teleboy.ch,tv-programme.telecablesat.fr,tv.blue.ch,tv.magenta.at,tv.nu,tv.post.lu,tv.sfr.fr,tv24.se,tv2go.t-2.net,tvheute.at,tvprofil.com,web.magentatv.de,webtv.delta.nl,ziggogo.tv
+  11 ZDF.de | ZDF | epg.iptvx.one,m.tv.sms.cz,meo.pt,mujtvprogram.cz,neo.io,pickx.be,programetv.ro,programme-tv.net,programtv.onet.pl,sky.com,teleboy.ch,teliatv.ee,tv-programme.telecablesat.fr,tv.blue.ch,tv.lv,tv.magenta.at,tv.nu,tv.post.lu,tv.sfr.fr,tv24.se,tv2go.t-2.net,tvgids.nl,tvheute.at,tvprofil.com,web.magentatv.de,webtv.delta.nl,ziggogo.tv
+  11 M6.fr | M6 HD | canalplus.com,chaines-tv.orange.fr,guidetnt.com,mon-programme-tv.be,nostv.pt,programme-tv.net,programtv.onet.pl,tv-programme.telecablesat.fr,tv.post.lu,tv.sfr.fr,tvcesoir.fr
+  11 Rai1.it | Rai 1 | chaines-tv.orange.fr,digiturk.com.tr,guida.tv,guidatv.sky.it,m.tv.sms.cz,meo.pt,mon-programme-tv.be,neo.io,pickx.be,programetv.ro,programme-tv.net,programtv.onet.pl,raiplay.it,sky.com,superguidatv.it,teleboy.ch,telenet.tv,teliatv.ee,tv-programme.telecablesat.fr,tv.blue.ch,tv.mail.ru,tv.nu,tv.post.lu,tv.sfr.fr,tv24.se,tv2go.t-2.net,tvgids.nl,tvprofil.com,vodafone.pt,web.magentatv.de,webtv.delta.nl
+  11 Rai2.it | Rai 2 | chaines-tv.orange.fr,guida.tv,guidatv.sky.it,m.tv.sms.cz,meo.pt,neo.io,pickx.be,programetv.ro,programtv.onet.pl,raiplay.it,sky.com,superguidatv.it,teleboy.ch,tv-programme.telecablesat.fr,tv.blue.ch,tv.nu,tv.post.lu,tv.sfr.fr,tv24.se,tv2go.t-2.net,tvprofil.com,web.magentatv.de
+  11 Rai3.it | Rai 3 | chaines-tv.orange.fr,guida.tv,guidatv.sky.it,m.tv.sms.cz,meo.pt,neo.io,pickx.be,programetv.ro,raiplay.it,sky.com,superguidatv.it,teleboy.ch,tv-programme.telecablesat.fr,tv.blue.ch,tv.post.lu,tv.sfr.fr,tv24.se,tv2go.t-2.net,tvprofil.com,web.magentatv.de
+  11 ORF1.at | ORF 1 | canalplus.com,horizon.tv,m.tv.sms.cz,mujtvprogram.cz,neo.io,programtv.onet.pl,sky.com,teleboy.ch,tv.blue.ch,tv.lv,tv.magenta.at,tv2go.t-2.net,tvheute.at
+  11 NRK1.no | NRK1 | tv.nu,tv24.se
+  11 ProSieben.de | ProSieben | epg.iptvx.one,horizon.tv,m.tv.sms.cz,mujtvprogram.cz,neo.io,programetv.ro,programtv.onet.pl,sky.com,teliatv.ee,tv-programme.telecablesat.fr,tv.magenta.at,tv.nu,tv.post.lu,tv.sfr.fr,tv24.se,tv2go.t-2.net,tvgids.nl,web.magentatv.de,webtv.delta.nl
+  12 MusicInformationChannel.id | Music Information Channel | mic-indo.com
+  12 ClubbingTV.us | Clubbing TV UK | chaines-tv.orange.fr,epg.iptvx.one,tv.mail.ru,tv.post.lu
+  12 MovieMusicbyStingray.ca | Movie Music by Stingray | -
+  12 DeluxeDance.de | Deluxe Dance | sky.com
+  13 DiscoveryWorld.us | Discovery World | directv.com.uy,gatotv.com,meuguia.tv,mi.tv
+  13 DiscoveryTurbo.us | Discovery Turbo (United States) | -
+  13 NasaTV.mk | Nasa TV | maxtvgo.mk,neo.io
+  13 MilitaryHistory.us | Military History | tvtv.us

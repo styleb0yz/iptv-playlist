@@ -1,0 +1,185 @@
+# refill scan
+Entri dibaca: iptv-org 11472 + dhanytv/extra 958 = 12430
+Merek di katalog: 176. Entri yang cocok: 385. URL yang akan dites: 353 (out/refill_kandidat.json)
+Belum ada status tes lokal: 229 dari 353 URL
+Cocok nama tapi dibuang karena wilayah (mis. Australia, Eropa untuk merek non-Eropa): 31
+
+## Merek TANPA satu pun entri di sumber (tidak ada yang bisa dinaikkan)
+- HBO Comedy
+- Showtime
+- MGM+
+- FXX
+- FX Movie Channel
+- Fox Movies
+- Fox Life
+- Freeform
+- ABC
+- CBS
+- The CW
+- Travel Channel
+- Science Channel
+- Toonami
+- DAZN
+- SuperSport
+- NBC Sports
+- MLB Network
+- Rugby TV
+- WWE
+- UFC
+- Motorsport TV
+- i24 News
+- ITV1
+- Film4
+- Dave
+- Sky Atlantic
+- Sat.1
+- TF1
+- Canal+
+- ARTE
+- Telecinco
+- VRT 1
+- SRF 1
+
+## Merek ditemukan: jumlah entri, wilayah, dites
+- HBO: 7 entri {'asia': 3, 'us': 1, 'latam': 2, 'other': 1}, dites 6
+- HBO 2: 1 entri {'latam': 1}, dites 1
+- HBO Family: 3 entri {'asia': 1, 'latam': 1, 'other': 1}, dites 2
+- HBO Hits: 3 entri {'asia': 1, 'us': 1, 'other': 1}, dites 2
+- HBO Signature: 3 entri {'asia': 1, 'latam': 1, 'other': 1}, dites 2
+- Cinemax: 6 entri {'asia': 3, 'us': 1, 'latam': 1, 'other': 1}, dites 5
+- Starz: 1 entri {'us': 1}, dites 1
+- Paramount Network: 1 entri {'us': 1}, dites 1
+- Sony Movies: 3 entri {'us': 1, 'latam': 2}, dites 3
+- Sony Entertainment Television: 1 entri {'asia': 1}, dites 1
+- Sony Channel: 4 entri {'us': 1, 'latam': 3}, dites 4
+- Warner TV: 5 entri {'asia': 1, 'us': 1, 'latam': 3}, dites 3
+- Universal TV: 2 entri {'latam': 2}, dites 2
+- AMC: 4 entri {'us': 1, 'latam': 3}, dites 4
+- TCM: 5 entri {'us': 2, 'latam': 3}, dites 5
+- FX: 3 entri {'us': 1, 'latam': 2}, dites 3
+- Lifetime: 6 entri {'asia': 2, 'us': 1, 'latam': 3}, dites 5
+- Lifetime Movies: 1 entri {'us': 1}, dites 1
+- Hallmark: 1 entri {'other': 1}, dites 1
+- Hallmark Movies: 2 entri {'us': 2}, dites 2
+- AXN: 8 entri {'asia': 4, 'latam': 4}, dites 6
+- Celestial Movies: 2 entri {'asia': 2}, dites 1
+- Cinecanal: 4 entri {'us': 2, 'latam': 2}, dites 3
+- Comedy Central: 6 entri {'us': 3, 'latam': 3}, dites 6
+- Syfy: 1 entri {'us': 1}, dites 1
+- Crime and Investigation: 2 entri {'asia': 1, 'us': 1}, dites 2
+- NBC: 2 entri {'us': 2}, dites 2
+- FOX: 1 entri {'us': 1}, dites 1
+- PBS: 2 entri {'us': 1, 'uk': 1}, dites 2
+- TNT: 9 entri {'us': 2, 'latam': 7}, dites 9
+- TBS: 3 entri {'asia': 1, 'us': 2}, dites 3
+- truTV: 2 entri {'us': 2}, dites 2
+- USA Network: 2 entri {'us': 1, 'latam': 1}, dites 2
+- Bravo: 2 entri {'us': 1, 'latam': 1}, dites 2
+- E!: 4 entri {'us': 1, 'latam': 3}, dites 4
+- MTV: 8 entri {'asia': 2, 'us': 4, 'latam': 2}, dites 8
+- VH1: 1 entri {'us': 1}, dites 1
+- BET: 2 entri {'us': 2}, dites 2
+- A&E: 2 entri {'latam': 2}, dites 2
+- History: 7 entri {'asia': 2, 'us': 2, 'latam': 3}, dites 4
+- Discovery Channel: 6 entri {'asia': 2, 'us': 1, 'latam': 2, 'uk': 1}, dites 5
+- Discovery Science: 4 entri {'latam': 3, 'uk': 1}, dites 4
+- TLC: 4 entri {'asia': 2, 'latam': 2}, dites 3
+- Animal Planet: 4 entri {'us': 1, 'latam': 2, 'uk': 1}, dites 4
+- Food Network: 2 entri {'us': 1, 'latam': 1}, dites 2
+- HGTV: 4 entri {'asia': 2, 'us': 1, 'latam': 1}, dites 4
+- Investigation Discovery: 2 entri {'us': 1, 'latam': 1}, dites 1
+- OWN: 1 entri {'us': 1}, dites 1
+- National Geographic: 5 entri {'us': 2, 'latam': 2, 'uk': 1}, dites 5
+- Nat Geo Wild: 1 entri {'us': 1}, dites 1
+- Smithsonian Channel: 2 entri {'us': 1, 'latam': 1}, dites 2
+- Univision: 3 entri {'us': 2, 'latam': 1}, dites 3
+- Telemundo: 3 entri {'us': 3}, dites 3
+- Cartoon Network: 8 entri {'asia': 3, 'us': 2, 'latam': 3}, dites 8
+- Boomerang: 2 entri {'asia': 1, 'us': 1}, dites 2
+- Nickelodeon: 7 entri {'asia': 3, 'us': 1, 'latam': 2, 'uk': 1}, dites 6
+- Nick Jr.: 6 entri {'asia': 2, 'us': 3, 'latam': 1}, dites 6
+- Disney Channel: 5 entri {'us': 1, 'latam': 3, 'other': 1}, dites 4
+- Disney Junior: 6 entri {'us': 1, 'latam': 5}, dites 6
+- Disney XD: 1 entri {'us': 1}, dites 0
+- Cartoonito: 2 entri {'asia': 1, 'latam': 1}, dites 2
+- Baby TV: 1 entri {'latam': 1}, dites 1
+- Duck TV: 1 entri {'other': 1}, dites 1
+- ESPN: 7 entri {'us': 2, 'latam': 5}, dites 7
+- ESPN 2: 4 entri {'us': 1, 'latam': 3}, dites 4
+- Fox Sports: 5 entri {'us': 2, 'latam': 3}, dites 3
+- beIN Sports: 2 entri {'asia': 1, 'us': 1}, dites 1
+- Eurosport: 6 entri {'asia': 1, 'uk': 1, 'eu': 2, 'other': 2}, dites 4
+- Sky Sports: 1 entri {'uk': 1}, dites 1
+- TNT Sports: 5 entri {'latam': 3, 'uk': 1, 'other': 1}, dites 3
+- CBS Sports Network: 1 entri {'us': 1}, dites 1
+- NFL Network: 2 entri {'us': 2}, dites 2
+- NBA TV: 1 entri {'us': 1}, dites 1
+- NHL Network: 1 entri {'us': 1}, dites 1
+- Golf Channel: 3 entri {'us': 1, 'latam': 1, 'other': 1}, dites 3
+- Tennis Channel: 1 entri {'us': 1}, dites 1
+- Premier Sports: 3 entri {'asia': 2, 'other': 1}, dites 2
+- CNN International: 9 entri {'asia': 4, 'us': 2, 'latam': 2, 'eu': 1}, dites 9
+- BBC News: 4 entri {'asia': 1, 'uk': 1, 'eu': 1, 'other': 1}, dites 4
+- Al Jazeera English: 1 entri {'asia': 1}, dites 0
+- DW: 3 entri {'eu': 1, 'other': 2}, dites 3
+- France 24: 4 entri {'eu': 4}, dites 4
+- Euronews: 4 entri {'asia': 1, 'eu': 3}, dites 4
+- Sky News: 1 entri {'uk': 1}, dites 1
+- Bloomberg: 5 entri {'asia': 2, 'us': 2, 'eu': 1}, dites 5
+- CNBC: 7 entri {'asia': 5, 'us': 1, 'uk': 1}, dites 7
+- Fox News: 3 entri {'asia': 1, 'us': 2}, dites 3
+- Fox Business: 1 entri {'us': 1}, dites 1
+- MSNBC: 1 entri {'us': 1}, dites 1
+- NHK World: 4 entri {'asia': 4}, dites 4
+- CGTN: 3 entri {'asia': 1, 'other': 2}, dites 3
+- WION: 1 entri {'asia': 1}, dites 1
+- Arirang: 3 entri {'asia': 3}, dites 2
+- Channel NewsAsia: 4 entri {'asia': 4}, dites 3
+- TRT World: 3 entri {'eu': 2, 'other': 1}, dites 3
+- RT: 4 entri {'asia': 1, 'eu': 3}, dites 4
+- Newsmax: 1 entri {'us': 1}, dites 1
+- ABC News: 1 entri {'us': 1}, dites 1
+- CBS News: 1 entri {'us': 1}, dites 1
+- NBC News Now: 1 entri {'us': 1}, dites 1
+- Reuters: 1 entri {'us': 1}, dites 1
+- LiveNOW from Fox: 1 entri {'us': 1}, dites 1
+- BBC One: 3 entri {'uk': 3}, dites 3
+- BBC Two: 1 entri {'uk': 1}, dites 1
+- BBC Three: 1 entri {'uk': 1}, dites 1
+- BBC Four: 1 entri {'uk': 1}, dites 1
+- BBC Scotland: 1 entri {'uk': 1}, dites 1
+- BBC Parliament: 1 entri {'uk': 1}, dites 1
+- ITV2: 1 entri {'uk': 1}, dites 1
+- ITV3: 1 entri {'uk': 1}, dites 1
+- ITV4: 1 entri {'uk': 1}, dites 1
+- Channel 4: 1 entri {'uk': 1}, dites 1
+- Channel 5: 1 entri {'uk': 1}, dites 1
+- E4: 1 entri {'uk': 1}, dites 1
+- More4: 1 entri {'uk': 1}, dites 1
+- S4C: 1 entri {'uk': 1}, dites 1
+- GB News: 1 entri {'uk': 1}, dites 1
+- Talk TV: 1 entri {'uk': 1}, dites 1
+- Das Erste: 1 entri {'eu': 1}, dites 1
+- ZDF: 1 entri {'eu': 1}, dites 1
+- RTL: 1 entri {'eu': 1}, dites 1
+- ProSieben: 1 entri {'eu': 1}, dites 1
+- VOX: 1 entri {'eu': 1}, dites 1
+- France 2: 1 entri {'eu': 1}, dites 1
+- France 3: 1 entri {'eu': 1}, dites 1
+- M6: 1 entri {'eu': 1}, dites 1
+- Rai 1: 1 entri {'eu': 1}, dites 1
+- Rai 2: 2 entri {'eu': 2}, dites 2
+- Rai 3: 1 entri {'eu': 1}, dites 1
+- Canale 5: 2 entri {'eu': 2}, dites 2
+- La 1 TVE: 6 entri {'eu': 6}, dites 6
+- Antena 3: 1 entri {'eu': 1}, dites 1
+- La Sexta: 1 entri {'eu': 1}, dites 1
+- NPO 1: 2 entri {'eu': 2}, dites 2
+- NPO 2: 1 entri {'eu': 1}, dites 1
+- VEVO: 4 entri {'us': 3, 'latam': 1}, dites 4
+- Trace Urban: 4 entri {'uk': 1, 'eu': 3}, dites 4
+- Mezzo: 2 entri {'eu': 2}, dites 2
+- CMT: 1 entri {'us': 1}, dites 1
+- Deluxe Music: 2 entri {'eu': 2}, dites 2
+- Fuse: 1 entri {'us': 1}, dites 1
+- MTV Live: 3 entri {'us': 2, 'latam': 1}, dites 3

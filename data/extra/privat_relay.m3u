@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Indosiar.id@HD" group-title="General",Indosiar HD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=indosiar
+#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="General",SCTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=sctv

@@ -1,0 +1,25 @@
+﻿nama,url,verdict,alasan,video,audio_bahasa,folder_target,negara,catatan
+BeritaSatu,https://lnd0t3b922.tenbytecdn.com/ta-sg1/e6b57b20-6c4c-4c7d-8fca-5e7bd4b566d8/master.m3u8,HIDUP,,h264 1920x1080,aac,02 · Indonesia · News,id,scrape:www.beritasatu.com | cek-drm
+BeritaSatu,https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8,HIDUP,,h264 1920x1080,aac,02 · Indonesia · News,id,scrape:www.beritasatu.com | cek-drm
+Al-Iman TV,https://live.aliman.id/live/livestream.m3u8,HIDUP,,h264 1920x1080,aac,03 · Islam · Indonesia & Haramain,id,scrape:aliman.id | cek-drm
+La 2,https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8,HIDUP,,h264 1280x720,aac,11 · Europe · Main TV,es,freetv
+Al Jazeera Documentary,https://live-hls-web-ajd.getaj.net/AJD/index.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,qa,freetv geoblok-G
+BBC Four,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,uk,freetv geoblok-G
+BBC Parliament,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/pc_hd_abr_v2.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,uk,freetv geoblok-G
+BBC Scotland,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,uk,freetv geoblok-G
+BBC Three,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,uk,freetv geoblok-G
+Canale 5,https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,it,freetv geoblok-G
+DR1,https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,dk,freetv geoblok-G
+Discovery Channel,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8,HIDUP,,h264 1920x1080,,70 · Archive · Likely Dead,us,freetv
+GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8,HIDUP,,h264 1920x1080,aac,70 · Archive · Likely Dead,uk,freetv
+GREAT! movies,https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,uk,freetv
+GREAT! romance,https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,uk,freetv
+La 1,https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8,HIDUP,,h264 1280x720,aac,70 · Archive · Likely Dead,es,freetv
+TRT 1,https://tv-trt1.medya.trt.com.tr/master.m3u8,MATI,HTTPError: HTTP Error 400: Bad Request,,,70 · Archive · Likely Dead,tr,freetv
+TV5Monde Info,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8,HIDUP,,h264 1920x1080,,70 · Archive · Likely Dead,fr,freetv
+Vevo Pop,https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8,HIDUP,,h264 1920x1080,aac/und,70 · Archive · Likely Dead,us,freetv
+ZDFneo,https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,de,freetv geoblok-G
+arte,https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,fr,freetv geoblok-G
+arte,https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8,MATI,HTTPError: HTTP Error 403: Forbidden,,,70 · Archive · Likely Dead,fr,freetv geoblok-G
+BBC News Europe,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8,HIDUP,,h264 1280x720,aac/eng,70 · Archive · Likely Dead,uk,freetv bbc-worldwide
+RRI Net,https://stream-event.rri.go.id/memfs/8cec7b6a-22d6-44e6-adc6-2ee104f9f4e7.m3u8,HIDUP,,h264 1920x1080,aac,01 · Indonesia · National TV,id,scrape:rri.co.id live-terbukti-15nov

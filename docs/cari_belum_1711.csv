@@ -1,0 +1,71 @@
+﻿target,kelompok,kandidat_nama,tvg_id,negara,cocok,flag,sumber,hasil,alasan,tinggi,url
+Antena 3,utama_non_hidup,Antena 3 (1080p),Antena3.es@National,es,sama,,iptv-org,LOLOS,,0,https://ignac16.github.io/voxel-tv-streams/a3.mpd
+BBC One (720p) [Geo-blocked],likely_dead,BBC One (720p),BBCOne.uk@London,uk,sama,,iptv-org,LOLOS,,720,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
+BBC One East (720p) [Geo-blocked],likely_dead,BBC One West (720p) [Geo-blocked],BBCOne.uk@West,uk,mirip,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
+BBC One West (720p) [Geo-blocked],likely_dead,BBC One East (720p) [Geo-blocked],BBCOne.uk@East,uk,mirip,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
+CBBC HD,likely_dead,CBBC HD,CBBC.uk@HD,uk,sama,,iptv-org,SUDAH_GAGAL_17NOV,HTTPError: HTTP Error 404: Not Found,0,https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
+CBBC HD,likely_dead,CBBC (720p) [Geo-blocked],CBBC.uk@SD,uk,sama,,iptv-org,SUDAH_GAGAL_17NOV,HTTPError: HTTP Error 403: Forbidden,0,https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+Canale 5 HD,likely_dead,Canale 5 [Geo-blocked],Canale5.it@SD,it,sama,,iptv-org,GAGAL,URLError: <urlopen error [Errno 8] nodename nor servname pro,0,https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+Canale 5 HD,likely_dead,Canal 5 (Mexico) (1080p),Canal5.mx@SD,mx,mirip,,iptv-org,GAGAL,URLError: <urlopen error timed out>,0,http://45.181.87.106/CANAL5HD/index.m3u8
+Canale 5 HD,likely_dead,Canal 5 (Uruguay) (720p),Canal5.uy@SD,uy,mirip,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://tinyurl.com/canal5uy
+Canale 5 HD,likely_dead,Canale 5 HD (1080p),Canale5.it@HD,it,sama,,iptv-org,LOLOS,,1080,https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
+Canale 5 [Geo-blocked],likely_dead,Canal 5 (Mexico) (1080p),Canal5.mx@SD,mx,mirip,,iptv-org,GAGAL,URLError: <urlopen error timed out>,0,http://45.181.87.106/CANAL5HD/index.m3u8
+Canale 5 [Geo-blocked],likely_dead,Canal 5 (Uruguay) (720p),Canal5.uy@SD,uy,mirip,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://tinyurl.com/canal5uy
+Canale 5 [Geo-blocked],likely_dead,Canale 5 HD (1080p),Canale5.it@HD,it,sama,,iptv-org,LOLOS,,1080,https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
+Cartoon Network (United States),likely_dead,Cartoon Network HD+ (1080p),CartoonNetworkHDPlus.in@HD,in,sama,CEK_NEGARA,iptv-org,GAGAL,URLError: <urlopen error [Errno 61] Connection refused>,0,http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+Cartoon Network (United States),likely_dead,Cartoon Network (Japan) HD,CartoonNetwork.jp@HD,jp,sama,CEK_NEGARA,iptv-org,LOLOS,,0,http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+Cartoon Network (United States),likely_dead,Cartoon Network (Pakistan),CartoonNetwork.pk@SD,pk,sama,CEK_NEGARA,iptv-org,LOLOS,,0,https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+Cartoon Network (United States),likely_dead,Cartoon Network (Turkiye),CartoonNetwork.tr@SD,tr,sama,CEK_NEGARA,iptv-org,LOLOS,,0,http://176.65.153.40:6002/play/a013/index.m3u8
+Cartoon Network (United States),likely_dead,Cartoon Network CEE,CartoonNetworkCEE.uk@Hungary,uk,mirip,CEK_NEGARA,iptv-org,LOLOS,,0,http://193.33.39.108:9007/play/a00l
+Channel 5 (United Kingdom),likely_dead,Channel 5 (Thailand) (1080p),Channel5.th@SD,th,sama,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+Channel 5 (United Kingdom),likely_dead,Channel 5,Ch 5,?,sama,,dhanytv,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+Channel 5 (United Kingdom),likely_dead,Channel 5 (Russia) (576p),Channel5.ru@SD,ru,sama,,iptv-org,LOLOS,,576,http://31.148.5.241/kanal_5/index.m3u8
+Channel 5 (United Kingdom),likely_dead,Channel 5 (Singapore) (720p),Channel5.sg@SD,sg,sama,,iptv-org,LOLOS,,0,https://cdn.qd.je/163189/ch5
+Discovery Channel (United States),likely_dead,Discovery Channel (Hungary),DiscoveryChannel.hu@SD,hu,sama,CEK_NEGARA,iptv-org,GAGAL,timeout: timed out,0,http://88.212.7.14/live/discovery_hungary/index.m3u8
+Discovery Channel (United States),likely_dead,Discovery Channel (India) HD (1080p),DiscoveryChannel.in@HD,in,sama,CEK_NEGARA,iptv-org,GAGAL,URLError: <urlopen error [Errno 61] Connection refused>,0,http://103.135.253.32:8080/DISCOVERY/index.m3u8
+Discovery Channel (United States),likely_dead,Discovery Channel (Bulgaria),DiscoveryChannel.bg@SD,bg,sama,CEK_NEGARA,iptv-org,LOLOS,,0,http://213.91.179.28:8000/play/a044
+Discovery Channel (United States),likely_dead,Discovery Channel (Czech Republic),DiscoveryChannel.cz@SD,cz,sama,CEK_NEGARA,iptv-org,LOLOS,,0,http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+Discovery Channel (United States),likely_dead,Discovery Channel (Italy) (1080p),DiscoveryChannel.it@SD,it,sama,CEK_NEGARA,iptv-org,LOLOS,,1080,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+Discovery Channel (United States),likely_dead,Discovery Channel (Italy) HD (720p),DiscoveryChannel.it@HD,it,sama,CEK_NEGARA,iptv-org,LOLOS,,1080,http://102.129.186.182:81/discovery/index.m3u8
+Investigation Discovery (United States),likely_dead,Investigation Discovery (Hungary),InvestigationDiscovery.hu@SD,hu,sama,CEK_NEGARA,iptv-org,GAGAL,timeout: timed out,0,http://88.212.7.14/live/id_hun/index.m3u8
+Investigation Discovery (United States),likely_dead,Investigation Discovery (Czech Republic),InvestigationDiscovery.cz@SD,cz,sama,CEK_NEGARA,iptv-org,LOLOS,,0,http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
+Investigation Discovery (United States),likely_dead,Investigation Discovery (Russia) (1080p),InvestigationDiscovery.ru@SD,ru,sama,CEK_NEGARA,iptv-org,LOLOS,,1080,http://stream.mcquack.net/205/index.m3u8
+Islam Channel,likely_dead,I Am Channel (576p),IAmChannel.id@SD,id,mirip,,iptv-org,LOLOS,,0,https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+MTV (India) HD (396p),likely_dead,MTV (France) (720p),MTV.fr@SD,fr,sama,CEK_NEGARA,iptv-org,LOLOS,,720,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
+MTV (India) HD (396p),likely_dead,MTV (Germany),MTV.de@SD,de,sama,CEK_NEGARA,iptv-org,LOLOS,,0,https://ma.anixa.tv/clips/stream/mtv/playlist.php
+MTV (India) HD (396p),likely_dead,MTV (Japan),MTV.jp@SD,jp,sama,CEK_NEGARA,iptv-org,LOLOS,,0,http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+MTV (India) HD (396p),likely_dead,MTV (United States) (1080p),MTV.us@East,us,sama,CEK_NEGARA,iptv-org,SUDAH_LOLOS_DI_TES_LOKAL,,1080,http://23.237.104.106:8080/USA_MTV/index.m3u8
+MTV (India) HD (396p),likely_dead,MTV Live (720p),MTVLive.us@SD,us,sama,CEK_NEGARA,iptv-org,SUDAH_LOLOS_DI_TES_LOKAL,,1080,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+NPO 1 (360p),likely_dead,NPO 1 HD (720p) [Geo-blocked],NPO1.nl@HD,nl,sama,,iptv-org,SUDAH_GAGAL_17NOV,HTTPError: HTTP Error 404: Not Found,0,https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8
+NPO 1 HD,likely_dead,NPO 1 (360p),NPO1.nl@SD,nl,sama,,iptv-org,GAGAL,URLError: <urlopen error [Errno 8] nodename nor servname pro,0,https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
+National Geographic (United States) (720p),likely_dead,National Geographic (Croatia) (1080p),NationalGeographic.hr@SD,hr,sama,CEK_NEGARA,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://176.61.157.250/NationalGeographic/index.m3u8
+National Geographic (United States) (720p),likely_dead,National Geographic (Finland) (720p) [Geo-blocked],NationalGeographic.fi@SD,fi,sama,CEK_NEGARA,iptv-org,GAGAL,HTTPError: HTTP Error 451: ,0,https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+National Geographic (United States) (720p),likely_dead,National Geographic (Russia) (1080p),NationalGeographic.ru@SD,ru,sama,CEK_NEGARA,iptv-org,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+National Geographic (United States) (720p),likely_dead,National Geographic Wild (Poland) (576i),NationalGeographicWild.pl@SD,pl,mirip,CEK_NEGARA,iptv-org,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://92.114.85.87:8010/play/a005/index.m3u8
+National Geographic (United States) (720p),likely_dead,National Geographic (Mexico) (1080p),NationalGeographic.mx@SD,mx,sama,CEK_NEGARA,iptv-org,LOLOS,,1080,http://138.121.15.230:9002/NAT-GEO/index.m3u8
+National Geographic (United States) (720p),likely_dead,National Geographic (Poland) (576i),NationalGeographic.pl@SD,pl,sama,CEK_NEGARA,iptv-org,LOLOS,,0,http://92.114.85.87:8006/play/a00a/index.m3u8
+NatureTime UK,likely_dead,NatureTime AU (1080p),NatureTime.ca@AU,ca,mirip,CEK_NEGARA,iptv-org,LOLOS,,1080,https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+NatureTime UK,likely_dead,NatureTime (1080p),NatureTime.ca@SD,ca,mirip,CEK_NEGARA,iptv-org,LOLOS,,1080,https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+Polsat,likely_dead,Polsat 2 (1080p),Polsat2.pl@SD,pl,mirip,,iptv-org,GAGAL,URLError: <urlopen error timed out>,0,http://57.128.210.196:8080/208/index.m3u8
+Polsat,likely_dead,Polsat X,PolsatX.pl@SD,pl,mirip,,iptv-org,LOLOS,,0,https://bingbang.kotmiuaczek.workers.dev/?id=1594464
+Polsat,likely_dead,Polsat 1 [Not 24/7],Polsat1.pl@SD,pl,mirip,,iptv-org,LOLOS,,0,https://kotmruk.github.io/polish-potato/polsat1.m3u8
+Polsat Sport 1,likely_dead,Polsat Sport 3 (1080p),PolsatSport3.pl@SD,pl,mirip,,iptv-org,GAGAL,URLError: <urlopen error timed out>,0,http://57.128.210.196:8080/192/index.m3u8
+Polsat Sport 1,likely_dead,Polsat Sport 2 (1080p),PolsatSport2.pl@SD,pl,mirip,,iptv-org,GAGAL,URLError: <urlopen error timed out>,0,http://57.128.210.196:8080/195/index.m3u8
+Premier Sports,likely_dead,PREMIER SPORTS,auto.premier.sports,?,sama,,dhanytv,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
+Premier Sports,likely_dead,Premier Sports 2 (1080p),PremierSports2.ph@SD,ph,mirip,,iptv-org,SUDAH_GAGAL_17NOV,HTTPError: HTTP Error 403: Forbidden,0,https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+Premier Sports 2,likely_dead,PREMIER SPORTS,auto.premier.sports,?,mirip,,dhanytv,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
+Premier Sports 2,likely_dead,Premier Sports (1080p),PremierSports.ph@SD,ph,mirip,,iptv-org,SUDAH_GAGAL_17NOV,HTTPError: HTTP Error 403: Forbidden,0,https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+Racer Network,likely_dead,Grace Network (720p),GraceNetwork.pk@SD,pk,mirip,,iptv-org,LOLOS,,1080,https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+Setanta Sports,likely_dead,Setanta Sports 3 (1080p),SetantaSports3.ge@SD,ge,mirip,,iptv-org,LOLOS,,1080,http://85.117.61.84/setanta3/index.m3u8
+TNT (United States),likely_dead,TNT (Russia) HD (1080p),TNT.ru@HD,ru,sama,CEK_NEGARA,iptv-org,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://45.153.24.78/TNT/index.m3u8
+TNT (United States),likely_dead,TNT (Russia) (576p),TNT.ru@SD,ru,sama,CEK_NEGARA,iptv-org,LOLOS,,576,http://31.148.5.241/kanal_19/index.m3u8
+TVE Internacional America (720p),likely_dead,TVE Internacional America HD (1080p) [Geo-blocked],TVEInternacionalAmerica.es@HD,es,sama,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Geoblock,0,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+TVE Internacional America HD (1080p) [Geo-blocked],likely_dead,TVE Internacional America (720p),TVEInternacionalAmerica.es@SD,es,sama,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8
+TVE Internacional Europe,likely_dead,TVE Internacional Europe HD (1080p) [Geo-blocked],TVEInternacionalEurope.es@HD,es,sama,,iptv-org,GAGAL,HTTPError: HTTP Error 403: Geoblock,0,https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+TVE Internacional Europe,likely_dead,TVE Internacional Europe (576p),TVEInternacionalEurope.es@SD,es,sama,,iptv-org,LOLOS,,540,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
+TVE Internacional Europe HD (1080p) [Geo-blocked],likely_dead,TVE Internacional Europe (576p),TVEInternacionalEurope.es@SD,es,sama,,iptv-org,LOLOS,,540,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
+arte (France),likely_dead,arte (Germany) (720p) [Geo-blocked],arte.de@SD,de,sama,CEK_NEGARA,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+arte (France),likely_dead,arte (Germany) HD,arte.de@HD,de,sama,CEK_NEGARA,iptv-org,LOLOS,,0,https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+beIN Sports 1,likely_dead,beIN Sports 1,beInSports1.id,id,sama,,dhanytv,LOLOS,,0,https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+beIN Sports 1,likely_dead,beIN Sports 3,beInSports3.id,id,mirip,,dhanytv,LOLOS,,0,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+beIN Sports 1,likely_dead,beIN Sports 2,beInSports2.id,id,mirip,,dhanytv,LOLOS,,0,https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd

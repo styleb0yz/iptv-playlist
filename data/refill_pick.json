@@ -1,0 +1,672 @@
+[
+ {
+  "brand": "HBO",
+  "label": "HBO Asia Taiwan",
+  "folder": "movies",
+  "pos": 0,
+  "url": "http://125.227.210.55:1003/VideoInput/play.ts",
+  "region": "asia",
+  "src_name": "HBO Asia Taiwan (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "HBO 2",
+  "label": "HBO 2 Latin America HD",
+  "folder": "movies",
+  "pos": 10,
+  "url": "http://45.171.64.30:6060/play/a00i/index.m3u8",
+  "region": "latam",
+  "src_name": "HBO 2 Latin America HD (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "HBO Family",
+  "label": "HBO Family Latin America",
+  "folder": "movies",
+  "pos": 20,
+  "url": "http://45.171.64.30:6060/play/a00k/index.m3u8",
+  "region": "latam",
+  "src_name": "HBO Family Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Sony Movies",
+  "label": "Sony Movies (United States)",
+  "folder": "movies",
+  "pos": 110,
+  "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
+  "region": "us",
+  "src_name": "Sony Movies (United States) (720p)",
+  "height": 720
+ },
+ {
+  "brand": "Sony Entertainment Television",
+  "label": "Sony Entertainment Television HD",
+  "folder": "movies",
+  "pos": 120,
+  "url": "http://38.96.178.205/SONYHD/index.m3u8",
+  "region": "asia",
+  "src_name": "Sony Entertainment Television HD (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Sony Channel",
+  "label": "Cine Sony",
+  "folder": "movies",
+  "pos": 130,
+  "url": "http://186.148.196.82:8001/play/a0a4",
+  "region": "us",
+  "src_name": "Cine Sony (720p)",
+  "height": 720
+ },
+ {
+  "brand": "Warner TV",
+  "label": "Warner TV Asia",
+  "folder": "movies",
+  "pos": 140,
+  "url": "https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8",
+  "region": "asia",
+  "src_name": "Warner TV Asia (720p)",
+  "height": 720
+ },
+ {
+  "brand": "Universal TV",
+  "label": "Universal TV Latin America",
+  "folder": "movies",
+  "pos": 150,
+  "url": "http://15.204.246.24:8080/UniversalHD/index.m3u8",
+  "region": "latam",
+  "src_name": "Universal TV Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "AMC",
+  "label": "AMC Latin America",
+  "folder": "movies",
+  "pos": 160,
+  "url": "http://15.204.246.24:8080/AMCHD/index.m3u8",
+  "region": "latam",
+  "src_name": "AMC Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "TCM",
+  "label": "TCM Latin America",
+  "folder": "movies",
+  "pos": 170,
+  "url": "http://181.78.14.26:4000/play/a04d/index.m3u8",
+  "region": "latam",
+  "src_name": "TCM Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "FX",
+  "label": "FX Latin America",
+  "folder": "movies",
+  "pos": 180,
+  "url": "http://15.204.246.24:8080/FXHD/index.m3u8",
+  "region": "latam",
+  "src_name": "FX Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Lifetime",
+  "label": "Lifetime Latin America Brazil",
+  "folder": "movies",
+  "pos": 210,
+  "url": "http://170.83.16.50/LIFETIME/index.m3u8",
+  "region": "latam",
+  "src_name": "Lifetime Latin America Brazil (720p)",
+  "height": 720
+ },
+ {
+  "brand": "AXN",
+  "label": "AXN Asia Taiwan",
+  "folder": "movies",
+  "pos": 270,
+  "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+  "region": "asia",
+  "src_name": "AXN Asia Taiwan (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Cinecanal",
+  "label": "Cinecanal",
+  "folder": "movies",
+  "pos": 290,
+  "url": "http://15.204.246.24:8080/CinecanalHD/index.m3u8",
+  "region": "us",
+  "src_name": "Cinecanal (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "PBS",
+  "label": "PBS America",
+  "folder": "america",
+  "pos": 390,
+  "url": "http://185.19.191.2:8090/PBS/index.m3u8",
+  "region": "uk",
+  "src_name": "PBS America (576p)",
+  "height": 576
+ },
+ {
+  "brand": "TNT",
+  "label": "TNT Latin America",
+  "folder": "america",
+  "pos": 400,
+  "url": "http://45.171.64.30:6060/play/a03i/index.m3u8",
+  "region": "latam",
+  "src_name": "TNT Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "TBS",
+  "label": "TBS TV",
+  "folder": "america",
+  "pos": 410,
+  "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
+  "region": "asia",
+  "src_name": "TBS TV (720p)",
+  "height": 1080
+ },
+ {
+  "brand": "USA Network",
+  "label": "USA Network Latin America",
+  "folder": "america",
+  "pos": 430,
+  "url": "http://138.121.15.230:9002/USA/index.m3u8",
+  "region": "latam",
+  "src_name": "USA Network Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "A&E",
+  "label": "A&E Latin America Brazil",
+  "folder": "america",
+  "pos": 490,
+  "url": "http://79.127.238.228:14551",
+  "region": "latam",
+  "src_name": "A&E Latin America Brazil (720p)",
+  "height": 720
+ },
+ {
+  "brand": "History",
+  "label": "History Asia",
+  "folder": "docs",
+  "pos": 500,
+  "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
+  "region": "asia",
+  "src_name": "History Asia (720p)",
+  "height": 1080
+ },
+ {
+  "brand": "Discovery Channel",
+  "label": "Discovery Asia Taiwan",
+  "folder": "docs",
+  "pos": 510,
+  "url": "http://125.227.210.55:1004/VideoInput/play.ts",
+  "region": "asia",
+  "src_name": "Discovery Asia Taiwan (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "TLC",
+  "label": "TLC Southeast Asia",
+  "folder": "america",
+  "pos": 530,
+  "url": "http://103.253.74.210:7070/stream/108/index.m3u8",
+  "region": "asia",
+  "src_name": "TLC Southeast Asia",
+  "height": 0
+ },
+ {
+  "brand": "HGTV",
+  "label": "HGTV Asia",
+  "folder": "america",
+  "pos": 560,
+  "url": "https://freem3u.xyz/api/live/play.m3u8?vid=99",
+  "region": "asia",
+  "src_name": "HGTV Asia (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "National Geographic",
+  "label": "National Geographic Latin America",
+  "folder": "docs",
+  "pos": 600,
+  "url": "http://15.204.246.24:8080/NatGeoHD/index.m3u8",
+  "region": "latam",
+  "src_name": "National Geographic Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Univision",
+  "label": "Univision Latin America",
+  "folder": "america",
+  "pos": 640,
+  "url": "http://138.121.15.230:9002/UNIVISION/index.m3u8",
+  "region": "latam",
+  "src_name": "Univision Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Telemundo",
+  "label": "Telemundo East HD",
+  "folder": "america",
+  "pos": 650,
+  "url": "https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8",
+  "region": "us",
+  "src_name": "Telemundo East HD (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Disney Junior",
+  "label": "Disney Jr. Latin America",
+  "folder": "kids",
+  "pos": 710,
+  "url": "http://190.14.10.19:16000/play/a02d/index.m3u8",
+  "region": "latam",
+  "src_name": "Disney Jr. Latin America (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Duck TV",
+  "label": "Duck tv",
+  "folder": "kids",
+  "pos": 750,
+  "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617",
+  "region": "other",
+  "src_name": "Duck tv",
+  "height": 720
+ },
+ {
+  "brand": "TNT Sports",
+  "label": "TNT Sports (Argentina) SD",
+  "folder": "sports",
+  "pos": 830,
+  "url": "http://181.78.79.131:8000/play/a0mo",
+  "region": "latam",
+  "src_name": "TNT Sports (Argentina) SD (576p)",
+  "height": 576
+ },
+ {
+  "brand": "NFL Network",
+  "label": "NFL Channel",
+  "folder": "sports2",
+  "pos": 880,
+  "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
+  "region": "us",
+  "src_name": "NFL Channel (720p)",
+  "height": 720
+ },
+ {
+  "brand": "BBC News",
+  "label": "BBC News South Asia",
+  "folder": "intl_news",
+  "pos": 1000,
+  "url": "https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8",
+  "region": "asia",
+  "src_name": "BBC News South Asia (720p)",
+  "height": 480
+ },
+ {
+  "brand": "Fox Business",
+  "label": "Fox Business Network",
+  "folder": "intl_news",
+  "pos": 1090,
+  "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+  "region": "us",
+  "src_name": "Fox Business Network (576p)",
+  "height": 432
+ },
+ {
+  "brand": "MSNBC",
+  "label": "MS NOW",
+  "folder": "intl_news",
+  "pos": 1100,
+  "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8",
+  "region": "us",
+  "src_name": "MS NOW (432p)",
+  "height": 432
+ },
+ {
+  "brand": "RT",
+  "label": "RT India",
+  "folder": "intl_news",
+  "pos": 1170,
+  "url": "https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8",
+  "region": "asia",
+  "src_name": "RT India (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Newsmax",
+  "label": "Newsmax TV",
+  "folder": "intl_news",
+  "pos": 1180,
+  "url": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8",
+  "region": "us",
+  "src_name": "Newsmax TV (720p)",
+  "height": 1080
+ },
+ {
+  "brand": "LiveNOW from Fox",
+  "label": "LiveNOW from FOX",
+  "folder": "intl_news",
+  "pos": 1230,
+  "url": "https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8",
+  "region": "us",
+  "src_name": "LiveNOW from FOX (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Talk TV",
+  "label": "TalkTV",
+  "folder": "uk",
+  "pos": 1430,
+  "url": "https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8",
+  "region": "uk",
+  "src_name": "TalkTV (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "RTL",
+  "label": "RTL (Germany)",
+  "folder": "europe",
+  "pos": 1470,
+  "url": "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8",
+  "region": "eu",
+  "src_name": "RTL (Germany)",
+  "height": 0
+ },
+ {
+  "brand": "VOX",
+  "label": "VOX",
+  "folder": "europe",
+  "pos": 1500,
+  "url": "https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8",
+  "region": "eu",
+  "src_name": "VOX",
+  "height": 0
+ },
+ {
+  "brand": "France 3",
+  "label": "France 3",
+  "folder": "europe",
+  "pos": 1530,
+  "url": "http://85.14.32.26:8800/udp/239.100.10.144:5000",
+  "region": "eu",
+  "src_name": "France 3",
+  "height": 0
+ },
+ {
+  "brand": "Antena 3",
+  "label": "Antena 3",
+  "folder": "europe",
+  "pos": 1620,
+  "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd",
+  "region": "eu",
+  "src_name": "Antena 3 (480p)",
+  "height": 480
+ },
+ {
+  "brand": "La Sexta",
+  "label": "La Sexta",
+  "folder": "europe",
+  "pos": 1640,
+  "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd",
+  "region": "eu",
+  "src_name": "La Sexta (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "VEVO",
+  "label": "Vevo Latino",
+  "folder": "music",
+  "pos": 1690,
+  "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
+  "region": "latam",
+  "src_name": "Vevo Latino (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Trace Urban",
+  "label": "Trace Urban",
+  "folder": "music",
+  "pos": 1700,
+  "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+  "region": "eu",
+  "src_name": "Trace Urban (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Deluxe Music",
+  "label": "Deluxe Lounge",
+  "folder": "music",
+  "pos": 1730,
+  "url": "https://jmp2.uk/stvp-CHAJ0500413A",
+  "region": "eu",
+  "src_name": "Deluxe Lounge (720p)",
+  "height": 720
+ },
+ {
+  "brand": "Fuse",
+  "label": "Fuse",
+  "folder": "music",
+  "pos": 1740,
+  "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
+  "region": "us",
+  "src_name": "Fuse (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Cinemax Asia Taiwan",
+  "label": "Cinemax Asia Taiwan",
+  "folder": "movies",
+  "pos": -499922.5,
+  "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+  "region": "",
+  "src_name": "Cinemax Asia Taiwan (1080p)",
+  "height": 0
+ },
+ {
+  "brand": "MTV India",
+  "label": "MTV India",
+  "folder": "music",
+  "pos": -499682.5,
+  "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+  "region": "",
+  "src_name": "MTV (India) (576p)",
+  "height": 396
+ },
+ {
+  "brand": "Documentary+",
+  "label": "Documentary+",
+  "folder": "docs",
+  "pos": 610,
+  "url": "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8",
+  "region": "",
+  "src_name": "Documentary+ (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "Rakuten Viki",
+  "label": "Rakuten Viki",
+  "folder": "movies",
+  "pos": 310,
+  "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
+  "region": "",
+  "src_name": "Rakuten Viki Poland (720p)",
+  "height": 720
+ },
+ {
+  "brand": "Terra Mater WILD",
+  "label": "Terra Mater WILD",
+  "folder": "docs",
+  "pos": 620,
+  "url": "https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8",
+  "region": "",
+  "src_name": "Terra Mater WILD (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "La 1",
+  "label": "La 1",
+  "folder": "europe",
+  "pos": 1650,
+  "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
+  "region": "",
+  "src_name": "La 1 (720p)",
+  "height": 720
+ },
+ {
+  "brand": "GB News",
+  "label": "GB News",
+  "folder": "uk",
+  "pos": 1440,
+  "url": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+  "region": "",
+  "src_name": "GB News (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "TV5Monde Info",
+  "label": "TV5Monde Info",
+  "folder": "intl_news",
+  "pos": 1240,
+  "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8",
+  "region": "",
+  "src_name": "TV5Monde Info (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "BBC News Europe",
+  "label": "BBC News Europe",
+  "folder": "intl_news",
+  "pos": 1250,
+  "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+  "region": "",
+  "src_name": "BBC News Europe (720p)",
+  "height": 720
+ },
+ {
+  "brand": "Vevo Pop",
+  "label": "Vevo Pop",
+  "folder": "music",
+  "pos": 1750,
+  "url": "https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8",
+  "region": "",
+  "src_name": "Vevo Pop (1080p)",
+  "height": 1080
+ },
+ {
+  "brand": "TVRI Sport",
+  "label": "TVRI Sport",
+  "folder": "sports",
+  "pos": 840,
+  "url": "http://gvisiontv2.channell.my.id/ch/id/oxy2.php/.m3u8?id=tvrisport",
+  "region": "id",
+  "src_name": "TVRI Sport (gvision)",
+  "height": 0
+ },
+ {
+  "brand": "Ashiil TV",
+  "label": "Ashiil TV",
+  "folder": "islam",
+  "pos": 100,
+  "url": "https://flv.intechmedia.net/live/ch2.m3u8",
+  "region": "id",
+  "src_name": "Ashiil TV (gvision)",
+  "height": 0
+ },
+ {
+  "brand": "Naajiya TV",
+  "label": "Naajiya TV",
+  "folder": "islam",
+  "pos": 110,
+  "url": "https://flv.intechmedia.net/live/ch7.m3u8",
+  "region": "id",
+  "src_name": "Naajiya TV (gvision)",
+  "height": 0
+ },
+ {
+  "brand": "Kids TV",
+  "label": "Kids TV",
+  "folder": "kids",
+  "pos": 760,
+  "url": "http://proxy-v.rctiplus.id/live/GvisionTV/kidstv/index.m3u8",
+  "region": "id",
+  "src_name": "Kids TV (gvision)",
+  "height": 0
+ },
+ {
+  "brand": "Lifetime",
+  "label": "Lifetime",
+  "folder": "america",
+  "pos": 660,
+  "url": "http://proxy-v.rctiplus.id/live/GvisionTV/lifetime/index.m3u8",
+  "region": "id",
+  "src_name": "Lifetime (gvision)",
+  "height": 0
+ },
+ {
+  "brand": "Celestial Movies",
+  "label": "Celestial Movies",
+  "folder": "movies",
+  "pos": 320,
+  "url": "https://proxy-v.rctiplus.id/live/web/celestialmovies/index.m3u8",
+  "region": "id",
+  "src_name": "Celestial Movies (aktv)",
+  "height": 0
+ },
+ {
+  "brand": "ANTV (Indonesia)",
+  "label": "ANTV (Indonesia)",
+  "folder": "national",
+  "pos": 10,
+  "url": "https://proxy-v.rctiplus.id/live/web/antv/index.m3u8",
+  "region": "id",
+  "src_name": "ANTV (Indonesia) (aktv)",
+  "height": 0
+ },
+ {
+  "brand": "MNCTV",
+  "label": "MNCTV",
+  "folder": "national",
+  "pos": 20,
+  "url": "https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8",
+  "region": "id",
+  "src_name": "MNCTV (aktv)",
+  "height": 0
+ },
+ {
+  "brand": "RCTI HD",
+  "label": "RCTI HD",
+  "folder": "national",
+  "pos": 30,
+  "url": "https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8",
+  "region": "id",
+  "src_name": "RCTI HD (aktv)",
+  "height": 0
+ },
+ {
+  "brand": "Trans7",
+  "label": "Trans7",
+  "folder": "national",
+  "pos": 40,
+  "url": "https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8",
+  "region": "id",
+  "src_name": "Trans7 (aktv)",
+  "height": 0
+ },
+ {
+  "brand": "TRT 1",
+  "label": "TRT 1",
+  "folder": "europe",
+  "pos": 1660,
+  "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+  "region": "europe",
+  "src_name": "TRT 1",
+  "height": 0
+ }
+]

@@ -15,6 +15,7 @@ kualitas gambar, atau stream yang cuma jalan pada player tertentu.
 Format status_lokal.json: {url: {"ok": bool, "height": int, "ms": int, "reason": str, "drm": bool, "checked": iso}}
 """
 import argparse, json, re, ssl, sys, threading, time, urllib.parse, urllib.request
+import zlib
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
@@ -45,6 +46,8 @@ def fetch(url, hdr, timeout, limit):
     req = urllib.request.Request(url, headers=hdr)
     with urllib.request.urlopen(req, timeout=timeout, context=CTX) as r:
         data = r.read(limit)
+        if data[:2] == b'\x1f\x8b':
+            data = zlib.decompressobj(31).decompress(data)
         return r.status, data, r.geturl()
 
 
