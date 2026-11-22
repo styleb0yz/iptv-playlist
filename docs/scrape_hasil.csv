@@ -1,0 +1,8 @@
+﻿nama,halaman,kandidat_url,verdict,alasan,video,audio_bahasa,butuh_referer,token,kredensial,catatan
+TVRI Sport,https://www.tvri.go.id/live,,,,,,,,,tidak ada URL m3u8/mpd di HTML/JS (mungkin dimuat lewat API/JS dinamis)
+BeritaSatu,https://www.beritasatu.com/,https://lnd0t3b922.tenbytecdn.com/ta-sg1/e6b57b20-6c4c-4c7d-8fca-5e7bd4b566d8/master.m3u8,HIDUP,,h264 1920x1080,aac,tidak,,,ada tanda DRM/lisensi di halaman
+BeritaSatu,https://www.beritasatu.com/,https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8,HIDUP,,h264 1920x1080,aac,tidak,,,ada tanda DRM/lisensi di halaman
+Al-Iman TV,https://aliman.id/,https://live.aliman.id/live/livestream.m3u8,HIDUP,,h264 1920x1080,aac,tidak,,,ada tanda DRM/lisensi di halaman
+SCTV,https://www.sctv.co.id/,,,,,,,,,ada tanda DRM/lisensi di halaman; tidak ada URL m3u8/mpd di HTML/JS (mungkin dimuat lewat API/JS dinamis)
+RRI Net,https://rri.co.id/stream/video,https://stream-event.rri.go.id/memfs/8cec7b6a-22d6-44e6-adc6-2ee104f9f4e7.m3u8,HIDUP,,h264 1920x1080,aac,tidak,,,https://rri.co.id/stream/${item.link} gagal: HTTPError
+Surau TV,https://surautv.id/,,,,,,,,,tidak ada URL m3u8/mpd di HTML/JS (mungkin dimuat lewat API/JS dinamis)

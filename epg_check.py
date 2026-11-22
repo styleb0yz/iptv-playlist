@@ -106,6 +106,8 @@ def main():
         norm_map[norm(c)].add(c)
 
     pl = read_playlist(a.playlist)
+    order = list(dict.fromkeys(g for g, _, _ in pl))
+    essential = set(order[:15])
     per = defaultdict(lambda: [0, 0, 0])  # total, exact, normalized
     miss = defaultdict(list)
     for grp, tvg, name in pl:
@@ -124,13 +126,13 @@ def main():
     print(f'\nCakupan playlist ({tot} entri): id persis {ex} ({ex*100//max(tot,1)}%), '
           f'setelah normalisasi/remap {nm} ({nm*100//max(tot,1)}%)\n')
     print(f'{"Folder":50} {"total":>6} {"persis":>7} {"remap":>6}')
-    for g in sorted(per):
+    for g in order:
         t, e, n = per[g]
-        if g.startswith(('0', '1')) or n:   # folder esensial selalu, arsip hanya yang ada isinya
+        if g in essential or n:   # folder esensial selalu, arsip hanya yang ada isinya
             print(f'{g[:50]:50} {t:6} {e:7} {n:6}')
     print('\nContoh channel esensial tanpa jadwal (maks 5 per folder):')
-    for g in sorted(miss):
-        if g[:2].isdigit() and int(g[:2]) <= 15 and miss[g]:
+    for g in order:
+        if g in essential and miss[g]:
             print(f'  {g[:40]}: {", ".join(miss[g])}')
 
 

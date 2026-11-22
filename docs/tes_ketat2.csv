@@ -1,0 +1,57 @@
+﻿nama,folder,sumber,tes_lokal_lama,verdict,alasan,live_atau_laju,video,audio,bahasa_tag,ms,url,cuplikan,verdict_r2
+RCTI HD,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,maju,h264 1280x720,aac,und,20887,https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8,,DRM
+SCTV,01 · Indonesia · National TV,iptv,gagal,MATI,URLError: <urlopen error timed out>,,,,,26043,http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8,,MATI
+ANTV (Indonesia),01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,maju,h264 854x480,aac,eng,20589,https://proxy-v.rctiplus.id/live/web/antv/index.m3u8,,DRM
+GTV (Indonesia) HD,01 · Indonesia · National TV,dhany,lolos,MATI,HTTPError: HTTP Error 429: Too Many Requests,,,,,24284,https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv,,MATI
+RRI Net,01 · Indonesia · National TV,iptv,gagal,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2173,https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8,,MATI
+MDTV,01 · Indonesia · National TV,dhany,lolos,HIDUP,,maju,h264 1280x720,aac,ENG,20884,https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8,,MATI
+MNCTV,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,maju,h264 1280x720,aac,und,20956,https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8,,DRM
+Trans TV,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,vod,h264 854x480,aac,eng,8221,https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8,,DRM
+Trans7,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,vod,h264 854x480,aac,eng,869,https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8,,DRM
+BeritaSatu,02 · Indonesia · News,iptv,gagal,MATI,"URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",,,,,2168,https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8,,MATI
+BN Channel,02 · Indonesia · News,dhany,lolos,HIDUP,,maju,hevc 1280x720,aac,eng,20466,https://flv.intechmedia.net/live/ch112.m3u8?,,MATI
+Al-Iman TV (Indonesia),03 · Islam · Indonesia & Haramain,iptv,gagal,MATI,HTTPError: HTTP Error 404: Not Found,,,,,3955,https://tv.aliman.id/aliman/live.m3u8,,MATI
+Surau TV,03 · Islam · Indonesia & Haramain,iptv,gagal,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2357,http://ikitv.sqn.at:8000/play/a00l/index.m3u8,,MATI
+TVRI Sport,04 · Football & General Sports,iptv,gagal,MATI,URLError: <urlopen error timed out>,,,,,26014,http://202.150.172.59/TVRISport/index.m3u8,,MATI
+beIN Sports USA,04 · Football & General Sports,iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2806,https://tvsen6.aynaott.com/beinsports/index.m3u8,,MATI
+MUTV,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1280x720,,,22046,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8,,MATI
+Eleven Sports 2,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,ac3,pol,38579,http://92.114.85.87:8002/play/a00f/index.m3u8,,MATI
+Eleven Sports 4,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,ac3,pol,58311,http://92.114.85.87:8002/play/a00h/index.m3u8,,MATI
+Golf Channel (United States),"05 · NBA, Golf, Rugby & More",iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,3110,https://tvsen6.aynaott.com/golfchannel/index.m3u8,,MATI
+CSI: Miami,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,24936,https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8,,MATI
+WION,07 · International News,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,25668,http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8,,BEKU
+Fox News Channel,07 · International News,iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,33246,https://tvsen6.aynaott.com/foxnews/index.m3u8,,MATI
+Fox Business Network,07 · International News,iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,46142,https://tvsen6.aynaott.com/foxbusiness/index.m3u8,,MATI
+MS NOW,07 · International News,iptv,lolos,BEKU,playlist tidak maju selama tes,beku,h264 768x432,aac,,32836,https://tvsen6.aynaott.com/msnbc/index.m3u8,,MATI
+RT India,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,26497,https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8,,BEKU
+VTV (Indonesia) HD,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,hevc 1280x720,aac,eng,20533,https://flv.intechmedia.net/live/ch107.m3u8,,MATI
+Kids TV,08 · Kids & Cartoons,dhany,lolos,DRM,HIDUP sebelum DRM:,vod,h264 640x360,aac,eng,1755,https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8,,DRM
+Nickelodeon Asia,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,22263,http://103.253.74.210:7070/stream/117/index.m3u8,,BEKU
+Disney Channel (United States),08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,27953,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test,,MATI
+Mentari TV,08 · Kids & Cartoons,dhany,gagal,MATI,"URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",,,,,19347,https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts,,MATI
+HGTV Asia,09 · America · TV & Cable,iptv,lolos,MPD_TIDAK_DIUJI,MPD terbaca (DASH di URL non-.mpd),,,,,1770,https://freem3u.xyz/api/live/play.m3u8?vid=99,,MATI
+S4C,10 · UK · Main TV,iptv,lolos,MPD_TIDAK_DIUJI,MPD terbaca,,,,,1415,https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd,,MPD_TIDAK_DIUJI
+Rai 1,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,25492,https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8,,BEKU
+La 2,11 · Europe · Main TV,iptv,lolos,MATI,HTTPError: HTTP Error 403: Geoblock,,,,,49303,https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8,,MATI
+VOX,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 720x576,aac,,25453,https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8,,BEKU
+Antena 3,11 · Europe · Main TV,iptv,lolos,MPD_TIDAK_DIUJI,MPD terbaca,,,,,7372,https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd,,MPD_TIDAK_DIUJI
+La Sexta,11 · Europe · Main TV,iptv,lolos,MPD_TIDAK_DIUJI,MPD terbaca,,,,,70,https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd,,MPD_TIDAK_DIUJI
+Mezzo Live,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,fra,25293,http://stream.mcquack.net/276/index.m3u8,,MATI
+Nidae AlIslam Radio,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,28563,https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8,,MATI
+Suara Giri 98.4 FM,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,294,http://streaming.girifm.com:8010/,"<!DOCTYPE html><html><head><meta charset=""utf-8""><meta name=viewport content=""width=device-width, in",MATI
+Retjo Buntung 99.4 FM,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,407,http://45.64.97.82:9940/,"<!DOCTYPE html><html><head><meta charset=""utf-8""><meta name=viewport content=""width=device-width, in",MATI
+CNN Indonesia,15 · Radio,radio,belum_dites,MATI,RemoteDisconnected: Remote end closed connection without response,,,,,2205,https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8,,MATI
+Suara Muslim Surabaya,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,314,http://pu.klikhost.com:8052/,"<!DOCTYPE html><html><head><meta charset=""utf-8""><meta name=viewport content=""width=device-width, in",MATI
+EL SHADDAI FM SOLO,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: File Not Found,,,,,2127,http://shaddai.onlivestreaming.net:9130/live,,MATI
+Radio Hang FM,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,1469,http://185.47.62.52:8000/,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.01 Transitional//EN"" ""http://www.w3.org/TR/html4/loose.dtd",MATI
+90.1 radio Media FM surabaya,15 · Radio,radio,belum_dites,MATI,timeout: timed out,,,,,26960,http://streaming.radiomediafm.com:8400/;,,MATI
+Al-Faruq Purwokerto Banyumas <24kb aac+>,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,460,http://alfaruq.radioislam.my.id:12000/,"<!DOCTYPE html><html><head><meta charset=""utf-8""><meta name=viewport content=""width=device-width, in",MATI
+SmartRadio Indonesia,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,385,http://radio.forumcerdas.net:8000/,"<!DOCTYPE html><html><head><meta charset=""utf-8""><meta name=viewport content=""width=device-width, in",MATI
+Radio Rodja 756 AM & 100.1 FM,15 · Radio,radio,belum_dites,MATI,ICY cuma 4733 byte dalam 4 detik,,,,,150,http://live2.radiorodja.com:8000/;stream.mp3,ICY,MATI
+Fress FM,15 · Radio,radio,belum_dites,MATI,cuma 0 byte dalam 4 detik (audio/aacp),,,,,8385,http://streaming.fressfm.com:11185/stream,"��P�2�!��������� LeH�B     5E� ��t?-y��p���2�J-��y�hP4�3�F�(�'O�S��x��Lz�bRI�=�m������ßlG\�֊",MATI
+Radio Islam Malang 1,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,467,http://malang.radioislam.my.id:11132/,"<!DOCTYPE html><html><head><meta charset=""utf-8""><meta name=viewport content=""width=device-width, in",MATI
+Gema Surya FM Ponorogo,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: File Not Found,,,,,2303,https://r5.siar.us:9420/aac.m4a?_=1,,MATI
+Radio Islam Malang 1,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,437,http://siaran.radioislam.my.id:11132/,"<!DOCTYPE html><html><head><meta charset=""utf-8""><meta name=viewport content=""width=device-width, in",MATI
+Radio AR Bali,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: Not Available,,,,,2406,https://live.radioarbali.com:8450/radioar,,MATI
+KIARA MPC RADIO,15 · Radio,radio,belum_dites,HIDUP,,ICY 310KB/4s,,,,5038,http://mpc1.mediacp.eu/stream/kiara-radio,,MATI
+Radio Elshinta Bandung,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: Not Available,,,,,3409,https://stream-ssl.arenastreaming.com:8005/bandung,,MATI

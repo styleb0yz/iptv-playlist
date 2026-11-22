@@ -1,0 +1,128 @@
+﻿target,sumber,kandidat,tvg_id,negara,flag,hasil,alasan,tinggi,url
+AXN Latin America (1080p),slot,AXN Latin America (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://138.121.15.230:9002/AXN/index.m3u8
+Cartoon Network Latin America,slot,Cartoon Network Latin America,,?,,GAGAL,URLError: <urlopen error timed out>,0,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
+Disney Channel Latin America South,slot,Disney Channel Latin America South,,?,,GAGAL,URLError: <urlopen error timed out>,0,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
+E! Latin America (1080p),slot,E! Latin America (1080p),,?,,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+E! Latin America Mexico (720p),slot,E! Latin America Mexico (720p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://72.1.184.5:8089/play/a05d/index.m3u8
+ESPN 2 Latin America (1080p),slot,ESPN 2 Latin America (1080p),,?,,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+ESPN 2 Latin America Argentina,slot,ESPN 2 Latin America Argentina,,?,,GAGAL,URLError: <urlopen error timed out>,0,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+ESPN Latin America (1080p),slot,ESPN Latin America (1080p),,?,,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+ESPN Latin America Argentina,slot,ESPN Latin America Argentina,,?,,GAGAL,URLError: <urlopen error timed out>,0,https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+Ajwa TV,slot,Ajwa TV,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+AMC (United States),slot,AMC (United States),,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://41.205.93.154/AMC/index.m3u8
+AMC (United States),iptv-org,AMC (Afghanistan) (1080p),AMC.af@SD,af,CEK_NEGARA,GAGAL,URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] ce,0,https://amchls.wns.live/hls/stream.m3u8
+AXN Asia Indonesia,slot,AXN Asia Indonesia,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://202.150.165.66:8088/play/301-AXN/index.m3u8
+Animal Planet (United Kingdom),slot,Animal Planet (United Kingdom),,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/10/index.m3u8
+Animal Planet (United Kingdom),iptv-org,Animal Planet (Bulgaria),AnimalPlanet.bg@SD,bg,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://213.91.179.28:8000/play/a05r
+Animal Planet (United Kingdom),iptv-org,Animal Planet (Czech Republic),AnimalPlanet.cz@SD,cz,CEK_NEGARA,LOLOS,,0,http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
+Animal Planet (United Kingdom),iptv-org,Animal Planet (Hungary),AnimalPlanet.hu@SD,hu,CEK_NEGARA,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://88.212.7.14/live/animal_hun/index.m3u8
+Animal Planet (United Kingdom),iptv-org,Animal Planet (Russia) (1080p),AnimalPlanet.ru@SD,ru,CEK_NEGARA,LOLOS,,1080,http://stream.mcquack.net/114/index.m3u8
+Animal Planet (United Kingdom),iptv-org,Animal Planet (United States) (720p),AnimalPlanet.us@East,us,CEK_NEGARA,LOLOS,,1080,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+Bravo TV (1080p),slot,Bravo TV (1080p),,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+CNBC,slot,CNBC,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://41.205.93.154/CNBC/index.m3u8
+Cartoon Network HD+ (1080p),slot,Cartoon Network HD+ (1080p),,?,,GAGAL,URLError: <urlopen error [Errno 61] Connection refused>,0,http://103.135.253.32:8080/CN-NETWORK/index.m3u8
+Cartoon Network HD+ (1080p),iptv-org,Cartoon Network (Japan) HD,CartoonNetwork.jp@HD,jp,,GAGAL,URLError: <urlopen error timed out>,0,http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+Cartoon Network HD+ (1080p),iptv-org,Cartoon Network (Pakistan),CartoonNetwork.pk@SD,pk,,GAGAL,URLError: <urlopen error timed out>,0,https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+Cartoon Network HD+ (1080p),iptv-org,Cartoon Network (Turkiye),CartoonNetwork.tr@SD,tr,,GAGAL,URLError: <urlopen error timed out>,0,http://176.65.153.40:6002/play/a013/index.m3u8
+Cartoon Network HD+ (1080p),iptv-org,Cartoon Network (United States) [Not 24/7;Geo-blocked],CartoonNetwork.us@East,us,,LOLOS,,0,https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+Cinecanal Pacific (1080p),slot,Cinecanal Pacific (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://138.121.15.230:9002/CINECANAL/index.m3u8
+Crime + Investigation Asia (720p) [Geo-blocked],slot,Crime + Investigation Asia (720p) [Geo-blocked],,?,,GAGAL,data cuma 8 byte,0,https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+DAZN 1 Germany,slot,DAZN 1 Germany,,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://45.142.104.86/stream/25/index.m3u8
+Discovery Channel (India) HD (1080p),slot,Discovery Channel (India) HD (1080p),,?,,GAGAL,URLError: <urlopen error [Errno 61] Connection refused>,0,http://103.135.253.32:8080/DISCOVERY/index.m3u8
+Discovery Channel (India) HD (1080p),iptv-org,Discovery Channel (Bulgaria),DiscoveryChannel.bg@SD,bg,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://213.91.179.28:8000/play/a044
+Discovery Channel (India) HD (1080p),iptv-org,Discovery Channel (Czech Republic),DiscoveryChannel.cz@SD,cz,CEK_NEGARA,LOLOS,,0,http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+Discovery Channel (India) HD (1080p),iptv-org,Discovery Channel (Hungary),DiscoveryChannel.hu@SD,hu,CEK_NEGARA,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://88.212.7.14/live/discovery_hungary/index.m3u8
+Discovery Channel (India) HD (1080p),iptv-org,Discovery Channel (Italy) (1080p),DiscoveryChannel.it@SD,it,CEK_NEGARA,LOLOS,,1080,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+Discovery Channel (India) HD (1080p),iptv-org,Discovery Channel (Italy) HD (720p),DiscoveryChannel.it@HD,it,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://102.129.186.182:81/discovery/index.m3u8
+Discovery Channel (United Kingdom),slot,Discovery Channel (United Kingdom),,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/11/index.m3u8
+Discovery Channel (United Kingdom),iptv-org,Discovery Channel (Bulgaria),DiscoveryChannel.bg@SD,bg,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://213.91.179.28:8000/play/a044
+Discovery Channel (United Kingdom),iptv-org,Discovery Channel (Czech Republic),DiscoveryChannel.cz@SD,cz,CEK_NEGARA,LOLOS,,0,http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+Discovery Channel (United Kingdom),iptv-org,Discovery Channel (Hungary),DiscoveryChannel.hu@SD,hu,CEK_NEGARA,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://88.212.7.14/live/discovery_hungary/index.m3u8
+Discovery Channel (United Kingdom),iptv-org,Discovery Channel (India) HD (1080p),DiscoveryChannel.in@HD,in,CEK_NEGARA,GAGAL,URLError: <urlopen error [Errno 61] Connection refused>,0,http://103.135.253.32:8080/DISCOVERY/index.m3u8
+Discovery Channel (United Kingdom),iptv-org,Discovery Channel (Italy) (1080p),DiscoveryChannel.it@SD,it,CEK_NEGARA,LOLOS,,1080,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+Discovery Channel (United Kingdom),iptv-org,Discovery Channel (Italy) HD (720p),DiscoveryChannel.it@HD,it,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://102.129.186.182:81/discovery/index.m3u8
+Discovery Science Europe UK,slot,Discovery Science Europe UK,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/9/index.m3u8
+Eurosport (India) HD (1080p),slot,Eurosport (India) HD (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
+FX (United States),slot,FX (United States),,?,,GAGAL,URLError: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong v,0,https://tvsen7.aynascope.net/fx/index.m3u8
+FX (United States),iptv-org,FX (Turkiye) [Geo-blocked],FX.tr@HD,tr,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 401: Unauthorized,0,https://saran-live.ercdn.net/fx/index.m3u8
+Fox Sports 2,slot,Fox Sports 2,,?,,GAGAL,URLError: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong v,0,https://tvsen7.aynascope.net/foxsports2/index.m3u8
+Fox Sports 2,dhanytv,FOX SPORTS 2,FOX SPORTS 2.mx,mx,,LOLOS,,0,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+HBO Family Asia HD (1080p),slot,HBO Family Asia HD (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+HBO Hits Asia HD (1080p),slot,HBO Hits Asia HD (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+HBO Signature Asia HD (1080p),slot,HBO Signature Asia HD (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+HGTV (United States),slot,HGTV (United States),,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://tvsen7.aynascope.net/hgtv/index.m3u8
+HGTV (United States),iptv-org,HGTV (Czech Republic),HGTV.cz@SD,cz,CEK_NEGARA,LOLOS,,0,http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+HGTV (United States),iptv-org,HGTV (Hungary),HGTV.hu@SD,hu,CEK_NEGARA,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://88.212.7.14/live/hgtv_hun/index.m3u8
+HGTV (United States),iptv-org,HGTV (Italy) (1080p),HGTV.it@SD,it,CEK_NEGARA,LOLOS,,1080,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+HGTV (United States),iptv-org,HGTV (New Zealand) (1080p),HGTV.nz@SD,nz,CEK_NEGARA,LOLOS,,1080,https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
+HGTV (United States),dhanytv,HGTV,HGTV.id,id,CEK_NEGARA,LOLOS,,1080,https://i.mjh.nz/.r/sky-hgtv.m3u8
+Hallmark Channel (1080p),slot,Hallmark Channel (1080p),,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+History (Brazil) (720p),slot,History (Brazil) (720p),,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://45.177.114.114/HISTORY/index.m3u8
+History (Brazil) (720p),iptv-org,History (Netherlands) (360p),History.nl@SD,nl,CEK_NEGARA,GAGAL,URLError: <urlopen error [Errno 8] nodename nor servname pro,0,https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
+History (Brazil) (720p),iptv-org,History (Poland) (576i),History.pl@SD,pl,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://92.114.85.87:8015/play/a00c/index.m3u8
+History (Brazil) (720p),iptv-org,History (Slovenia) (1080p),History.si@HD,si,CEK_NEGARA,GAGAL,URLError: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong v,0,https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+History (Brazil) (720p),iptv-org,History (United States) (720p),History.us@East,us,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://212.5.144.156:8080/history/index.m3u8
+History (Brazil) (720p),dhanytv,History HD (Vision+),History.id,id,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+Lifetime Asia (1080p),slot,Lifetime Asia (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+Lifetime Movies,slot,Lifetime Movies,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://23.237.104.106:8080/USA_LMN/index.m3u8
+MTV2,slot,MTV2,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://198.58.104.90:8989/mtv2/index.m3u8
+NFL Network,slot,NFL Network,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://198.58.104.90:8989/nfl/index.m3u8
+National Geographic (Mexico) (1080p),slot,National Geographic (Mexico) (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://138.121.15.230:9002/NAT-GEO/index.m3u8
+National Geographic (Mexico) (1080p),iptv-org,National Geographic (Croatia) (1080p),NationalGeographic.hr@SD,hr,,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://176.61.157.250/NationalGeographic/index.m3u8
+National Geographic (Mexico) (1080p),iptv-org,National Geographic (Finland) (720p) [Geo-blocked],NationalGeographic.fi@SD,fi,,GAGAL,HTTPError: HTTP Error 451: ,0,https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+National Geographic (Mexico) (1080p),iptv-org,National Geographic (Poland) (576i),NationalGeographic.pl@SD,pl,,GAGAL,URLError: <urlopen error timed out>,0,http://92.114.85.87:8006/play/a00a/index.m3u8
+National Geographic (Mexico) (1080p),iptv-org,National Geographic (Russia) (1080p),NationalGeographic.ru@SD,ru,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+National Geographic (Mexico) (1080p),iptv-org,National Geographic (United States) (720p),NationalGeographic.us@East,us,,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://212.5.144.156:8080/natgeo/index.m3u8
+National Geographic (United Kingdom),slot,National Geographic (United Kingdom),,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://82.47.42.44/stream/405/index.m3u8
+National Geographic (United Kingdom),iptv-org,National Geographic (Croatia) (1080p),NationalGeographic.hr@SD,hr,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://176.61.157.250/NationalGeographic/index.m3u8
+National Geographic (United Kingdom),iptv-org,National Geographic (Finland) (720p) [Geo-blocked],NationalGeographic.fi@SD,fi,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 451: ,0,https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+National Geographic (United Kingdom),iptv-org,National Geographic (Mexico) (1080p),NationalGeographic.mx@SD,mx,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://138.121.15.230:9002/NAT-GEO/index.m3u8
+National Geographic (United Kingdom),iptv-org,National Geographic (Poland) (576i),NationalGeographic.pl@SD,pl,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://92.114.85.87:8006/play/a00a/index.m3u8
+National Geographic (United Kingdom),iptv-org,National Geographic (Russia) (1080p),NationalGeographic.ru@SD,ru,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+National Geographic (United Kingdom),iptv-org,National Geographic (United States) (720p),NationalGeographic.us@East,us,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://212.5.144.156:8080/natgeo/index.m3u8
+National Geographic (United States) HD East,slot,National Geographic (United States) HD East,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://198.58.104.90:8989/natgeo/index.m3u8
+National Geographic Wild (United States) HD East,slot,National Geographic Wild (United States) HD East,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://198.58.104.90:8989/natgeowild/index.m3u8
+Nick Jr. (India) (576p),slot,Nick Jr. (India) (576p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://103.185.24.134:3001/NICK-JR/index.m3u8
+Nick Jr. (India) (576p),iptv-org,Nick Jr. (Croatia) (576p),NickJr.hr@SD,hr,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8
+Nick Jr. (India) (576p),iptv-org,Nick Jr. (Italy) (720p),NickJr.it@SD,it,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://102.129.186.182:81/nick/index.m3u8
+Nick Jr. (India) (576p),iptv-org,Nick Jr. (Poland) (576i),NickJr.pl@SD,pl,CEK_NEGARA,LOLOS,,0,http://92.114.85.87:8013/play/a004/index.m3u8
+Nick Jr. (India) (576p),iptv-org,Nick Jr. (Russia) (576p),NickJr.ru@SD,ru,CEK_NEGARA,LOLOS,,576,http://stream.mcquack.net/220/index.m3u8
+Nick Jr. (India) (576p),iptv-org,Nick Jr. (United States) (720p),NickJr.us@East,us,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,http://212.5.144.156:8080/nickjr/index.m3u8
+Nickelodeon (India) (576p),slot,Nickelodeon (India) (576p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://103.185.24.134:3001/NICK/index.m3u8
+Nickelodeon (India) (576p),iptv-org,Nickelodeon (Australia) [Geo-blocked],Nickelodeon.au@SD,au,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://i.mjh.nz/.r/10shake-nsw.m3u8
+Nickelodeon (India) (576p),iptv-org,Nickelodeon (Bulgaria),Nickelodeon.bg@SD,bg,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://87.120.179.187:8000/play/a00x
+Nickelodeon (India) (576p),iptv-org,Nickelodeon (Croatia) (720p),Nickelodeon.hr@SD,hr,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
+Nickelodeon (India) (576p),iptv-org,Nickelodeon (France) (720p),Nickelodeon.fr@SD,fr,CEK_NEGARA,LOLOS,,720,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+Nickelodeon (India) (576p),iptv-org,Nickelodeon (Germany),Nickelodeon.de@SD,de,CEK_NEGARA,LOLOS,,0,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+Nickelodeon (United Kingdom),slot,Nickelodeon (United Kingdom),,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://93.186.201.93/stream/397/index.m3u8
+Nickelodeon (United Kingdom),iptv-org,Nickelodeon (Australia) [Geo-blocked],Nickelodeon.au@SD,au,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://i.mjh.nz/.r/10shake-nsw.m3u8
+Nickelodeon (United Kingdom),iptv-org,Nickelodeon (Bulgaria),Nickelodeon.bg@SD,bg,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://87.120.179.187:8000/play/a00x
+Nickelodeon (United Kingdom),iptv-org,Nickelodeon (Croatia) (720p),Nickelodeon.hr@SD,hr,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8
+Nickelodeon (United Kingdom),iptv-org,Nickelodeon (France) (720p),Nickelodeon.fr@SD,fr,CEK_NEGARA,LOLOS,,720,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+Nickelodeon (United Kingdom),iptv-org,Nickelodeon (Germany),Nickelodeon.de@SD,de,CEK_NEGARA,LOLOS,,0,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+Nickelodeon (United Kingdom),iptv-org,Nickelodeon (India) (576p),Nickelodeon.in@SD,in,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://103.185.24.134:3001/NICK/index.m3u8
+One Golf,slot,One Golf,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+Sky Sport 1,slot,Sky Sport 1,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/44/index.m3u8
+Sky Sport 2,slot,Sky Sport 2,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/45/index.m3u8
+Sky Sport 3,slot,Sky Sport 3,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/46/index.m3u8
+Sky Sport 4,slot,Sky Sport 4,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/51/index.m3u8
+Sky Sport Select,slot,Sky Sport Select,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/53/index.m3u8
+Sony Channel (Argentina) (1080p),slot,Sony Channel (Argentina) (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://138.121.15.230:9002/SONY/index.m3u8
+Sony Channel (Argentina) (1080p),iptv-org,Sony Channel (Brazil) (720p),SonyChannel.br@SD,br,,LOLOS,,720,http://170.83.16.50/SONY_CHANNEL/index.m3u8
+Sony Movies (Brazil) (720p),slot,Sony Movies (Brazil) (720p),,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://45.177.114.115/SONY_MOVIES/index.m3u8
+Sony Movies (Brazil) (720p),iptv-org,Sony Movies (United States) (720p),SonyMovies.us@SD,us,CEK_NEGARA,LOLOS,,720,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+Sport TV1,slot,Sport TV1,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://znty.dyndns.org:5010/hls/stv1.m3u8
+Sport TV1,dhanytv,SportTV 1,auto.sporttv.1,?,,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+Starz Cinema,slot,Starz Cinema,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+TNT Series Latin America (1080p),slot,TNT Series Latin America (1080p),,?,,GAGAL,URLError: <urlopen error timed out>,0,http://168.196.127.137:6001/play/a095/index.m3u8
+USA Network,slot,USA Network,,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://200.32.231.178/USA_NETWORK/index.m3u8
+HBO (United States),slot,HBO (United States),,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://tvsen7.aynascope.net/hbo/index.m3u8
+HBO (United States),iptv-org,HBO (Czech Republic),HBO.cz@SD,cz,CEK_NEGARA,LOLOS,,0,http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
+HBO (United States),dhanytv,HBO,401,?,CEK_NEGARA,GAGAL,URLError: <urlopen error timed out>,0,http://aflaxtv.xyz:8080/F33848/cbd9779b/306484
+HBO (United States),dhanytv,HBO (IHT),auto.hbo.iht,iht,CEK_NEGARA,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+HBO Hits,slot,HBO Hits,,?,,GAGAL,RemoteDisconnected: Remote end closed connection without res,0,http://tvsen7.aynascope.net/hbo2/index.m3u8
+HBO Hits,dhanytv,HBO Hits,402,?,,GAGAL,URLError: <urlopen error timed out>,0,http://aflaxtv.xyz:8080/F33848/cbd9779b/306486
+HBO Hits,dhanytv,HBO HITS (IHT),auto.hbo.hits.iht,iht,,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+TNT Sports 1,slot,TNT Sports 1,,?,,GAGAL,HTTPError: HTTP Error 404: Not Found,0,http://37.49.224.5/stream/1/index.m3u8
+TNT Sports 1,dhanytv,TNT SPORTS 1,auto.tnt.sports.1,?,,LOLOS,,0,https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+BabyTV Latin America,slot,BabyTV Latin America,,?,,GAGAL,URLError: <urlopen error timed out>,0,http://38.44.109.41:8003/play/a0eh

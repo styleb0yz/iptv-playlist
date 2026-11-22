@@ -1,0 +1,228 @@
+# major_brands.yml, dibaca refill.py. Daftar merek channel mayor yang dicari di SEMUA entri sumber (index + dhanytv + extra).
+# Tiap baris: n = nama tampil di playlist, a = daftar nama persis (regex kecil) yang diterima, f = key folder di rules.yml.
+# Nama disamakan dulu: huruf kecil, tanda baca jadi spasi, '&' jadi 'and', '+' jadi 'plus', tag (720p) dan [Geo-blocked] dibuang.
+# Nama channel harus SAMA PERSIS dengan salah satu alias, boleh diikuti kata sufiks dari suffix_words (hd, asia, us, latin america, dst).
+# Jadi 'HBO Family Asia HD' cocok dengan alias 'hbo family', tapi 'HBO Hungary' dan 'ABC KGTV' tidak.
+# Opsional: r = wilayah yang boleh untuk merek itu (menimpa allowed_regions), x = regex pengecualian.
+
+region_order: [asia, us, uk, eu, other, latam]   # urutan pilih varian kalau lebih dari satu lolos tes (Asia dekat Indonesia, lalu US berbahasa Inggris, lalu Latin America)
+keep_per_brand: 1                               # berapa varian lolos yang dinaikkan per merek
+
+# Kata di nama/tvg-id yang menentukan wilayah varian
+region_hints:
+  asia:  ['\basia\b', '\bsoutheast\b', '\bsea\b', '\bphilippines\b', '\bsingapore\b', '\bmalaysia\b', '\bindonesia\b', '\bthailand\b', '\bhong ?kong\b', '\bindia\b', '\bkorea\b', '\bjapan\b', '\btaiwan\b', '\bvietnam\b']
+  latam: ['\blatin', '\blatam\b', '\bandes\b', '\bcolombia\b', '\bmexico\b', '\bargentina\b', '\bchile\b', '\bperu\b', '\bbrasil\b', '\bbrazil\b', '\bsouth\b']
+  uk:    ['\buk\b', '\bunited kingdom\b', '\bbritain\b']
+  us:    ['\bunited states\b', '\busa\b', '\bus\b', '\bamerica\b']
+  eu:    ['\beurope\b', '\bgermany\b', '\bfrance\b', '\bitaly\b', '\bspain\b', '\bportugal\b', '\bnetherlands\b', '\bpoland\b', '\bhungary\b', '\bczech', '\bromania\b', '\bbulgaria\b', '\bsweden\b', '\bdenmark\b', '\bnorway\b', '\bturk', '\brussia\b', '\bukraine\b']
+region_cc:   # kode negara dari tvg-id (.xx)
+  asia:  [id, my, sg, th, ph, vn, hk, in, kr, jp, tw, cn, pk, bd, lk, mm, kh, la, bn, mo]
+  latam: [mx, ar, cl, co, pe, ve, ec, br, uy, py, bo, cr, gt, hn, pa, do, sv, ni]
+  us:    [us, ca]
+  uk:    [uk, gb, ie]
+  eu:    [de, fr, it, es, nl, pl, se, pt, at, ch, be, dk, no, fi, gr, cz, hu, ro, bg, sk, hr, rs, ua, ru, tr]
+
+
+# Kata yang boleh menempel setelah alias (tanpa ini nama tidak cocok). Negara Eropa dan Australia sengaja TIDAK ada di sini.
+suffix_words: [hd, fhd, uhd, sd, 4k, channel, network, international, intl, live, asia, southeast, sea, indonesia, india, philippines,
+  singapore, malaysia, thailand, taiwan, korea, japan, hong, kong, vietnam, pacific, latin, america, latam, andes, south, colombia,
+  mexico, brazil, brasil, argentina, chile, peru, us, usa, united, states, uk, kingdom, canada, english, east, west, europe, vision, plus,
+  id, my, sg, th, ph, vn, hk, jp, tw, kr, mx, ar, cl, co, pe, br, ca, pluto tv]
+
+# Wilayah yang diterima per folder (kecuali merek punya r). 'foreign' = kode negara di tvg-id di luar daftar wilayah.
+allowed_regions:
+  default: [asia, us, latam, uk, other]
+  uk: [uk]
+  europe: [eu, other]
+  intl_news: [asia, us, latam, uk, eu, other]
+
+brands:
+  # ---- Film & Series (folder 05)
+  - {n: "HBO",            a: ["hbo"], f: movies}
+  - {n: "HBO 2",          a: ["hbo 2"], f: movies}
+  - {n: "HBO Family",     a: ["hbo family"], f: movies}
+  - {n: "HBO Hits",       a: ["hbo hits"], f: movies}
+  - {n: "HBO Signature",  a: ["hbo signature"], f: movies}
+  - {n: "HBO Comedy",     a: ["hbo comedy"], f: movies}
+  - {n: "Cinemax",        a: ["cinemax"], f: movies}
+  - {n: "Showtime",       a: ["showtime", "showtime 2", "showtime east", "showtime west"], f: movies}
+  - {n: "Starz",          a: ["starz", "starz east", "starz west"], f: movies}
+  - {n: "MGM+",           a: ["mgm plus", "mgm", "epix"], f: movies}
+  - {n: "Paramount Network", a: ["paramount network", "paramount channel"], f: movies}
+  - {n: "Sony Movies",    a: ["sony movies", "sony movie channel", "sony pix", "sony max"], f: movies}
+  - {n: "Sony Entertainment Television", a: ["sony entertainment television", "sony set", "set asia", "sony tv"], f: movies}
+  - {n: "Sony Channel",   a: ["sony channel", "canal sony", "cine sony"], f: movies}
+  - {n: "Warner TV",      a: ["warner tv", "warner channel", "warner bros tv"], f: movies}
+  - {n: "Universal TV",   a: ["universal tv", "universal channel", "universal plus"], f: movies}
+  - {n: "AMC",            a: ["amc", "amc series"], f: movies}
+  - {n: "TCM",            a: ["tcm", "turner classic movies"], f: movies}
+  - {n: "FX",             a: ["fx"], f: movies}
+  - {n: "FXX",            a: ["fxx"], f: movies}
+  - {n: "FX Movie Channel", a: ["fxm", "fx movie channel"], f: movies}
+  - {n: "Lifetime",       a: ["lifetime"], f: movies}
+  - {n: "Lifetime Movies", a: ["lifetime movies", "lifetime movie network"], f: movies}
+  - {n: "Hallmark",       a: ["hallmark", "hallmark channel"], f: movies}
+  - {n: "Hallmark Movies", a: ["hallmark movies and mysteries", "hallmark movies and more", "hallmark mystery"], f: movies}
+  - {n: "Fox Movies",     a: ["fox movies", "star movies"], f: movies}
+  - {n: "Fox Life",       a: ["fox life", "star life"], f: movies}
+  - {n: "AXN",            a: ["axn"], f: movies}
+  - {n: "Celestial Movies", a: ["celestial movies", "celestial classic movies"], f: movies}
+  - {n: "Cinecanal",      a: ["cinecanal", "cinelatino", "cine latino"], f: movies}
+  - {n: "Comedy Central", a: ["comedy central"], f: movies}
+  - {n: "Syfy",           a: ["syfy", "sci fy"], f: movies}
+  - {n: "Freeform",       a: ["freeform"], f: movies}
+  - {n: "Crime and Investigation", a: ["crime and investigation", "crime plus investigation"], f: movies}
+
+  # ---- America TV & Kabel (folder 09)
+  - {n: "ABC",            a: ["abc", "abc us", "abc east", "abc west"], f: america}
+  - {n: "CBS",            a: ["cbs", "cbs us", "cbs east", "cbs west"], f: america}
+  - {n: "NBC",            a: ["nbc", "nbc us", "nbc east", "nbc west"], f: america}
+  - {n: "FOX",            a: ["fox", "fox us", "fox east", "fox west"], f: america}
+  - {n: "The CW",         a: ["the cw", "cw"], f: america}
+  - {n: "PBS",            a: ["pbs", "pbs america"], f: america}
+  - {n: "TNT",            a: ["tnt", "tnt series", "tnt east", "tnt west"], f: america}
+  - {n: "TBS",            a: ["tbs", "tbs tv", "tbs east", "tbs west"], f: america}
+  - {n: "truTV",          a: ["trutv", "tru tv"], f: america}
+  - {n: "USA Network",    a: ["usa network", "usa"], f: america}
+  - {n: "Bravo",          a: ["bravo", "bravo tv"], f: america}
+  - {n: "E!",             a: ["e", "e entertainment", "e entertainment television"], f: america}
+  - {n: "MTV",            a: ["mtv", "mtv united states"], f: america}
+  - {n: "VH1",            a: ["vh1"], f: america}
+  - {n: "BET",            a: ["bet", "bet her"], f: america}
+  - {n: "A&E",            a: ["a and e", "a and e network"], f: america}
+  - {n: "History",        a: ["history", "history channel"], f: docs}
+  - {n: "Discovery Channel", a: ["discovery", "discovery channel"], f: docs}
+  - {n: "Discovery Science", a: ["discovery science", "discovery world", "discovery family", "discovery life"], f: docs}
+  - {n: "TLC",            a: ["tlc"], f: america}
+  - {n: "Animal Planet",  a: ["animal planet"], f: docs}
+  - {n: "Food Network",   a: ["food network"], f: america}
+  - {n: "HGTV",           a: ["hgtv"], f: america}
+  - {n: "Travel Channel", a: ["travel channel"], f: america}
+  - {n: "Investigation Discovery", a: ["investigation discovery", "id investigation discovery"], f: america}
+  - {n: "OWN",            a: ["own", "oprah winfrey network"], f: america}
+  - {n: "National Geographic", a: ["national geographic", "national geographic channel", "nat geo", "nat geo hd"], f: docs}
+  - {n: "Nat Geo Wild",   a: ["nat geo wild", "national geographic wild"], f: docs}
+  - {n: "Smithsonian Channel", a: ["smithsonian channel", "smithsonian"], f: docs}
+  - {n: "Science Channel", a: ["science channel", "science"], f: docs}
+  - {n: "Univision",      a: ["univision"], f: america}
+  - {n: "Telemundo",      a: ["telemundo"], f: america}
+  - {n: "Cartoon Network", a: ["cartoon network"], f: kids}
+  - {n: "Boomerang",      a: ["boomerang"], f: kids}
+  - {n: "Nickelodeon",    a: ["nickelodeon", "nick"], f: kids}
+  - {n: "Nick Jr.",       a: ["nick jr", "nick junior", "nickelodeon jr", "nickjr"], f: kids}
+  - {n: "Disney Channel", a: ["disney channel"], f: kids}
+  - {n: "Disney Junior",  a: ["disney junior", "disney jr"], f: kids}
+  - {n: "Disney XD",      a: ["disney xd"], f: kids}
+  - {n: "Cartoonito",     a: ["cartoonito"], f: kids}
+  - {n: "Baby TV",        a: ["baby tv", "babytv"], f: kids}
+  - {n: "Duck TV",        a: ["duck tv", "ducktv"], f: kids}
+  - {n: "Toonami",        a: ["toonami"], f: kids}
+
+  # ---- Olahraga (folder 06 dan 07)
+  - {n: "ESPN",           a: ["espn"], f: sports}
+  - {n: "ESPN 2",         a: ["espn 2"], f: sports}
+  - {n: "Fox Sports",     a: ["fox sports", "fox sports 1", "fs1"], f: sports}
+  - {n: "beIN Sports",    a: ["bein sports", "bein sports 1", "bein sports english", "bein sports asia"], f: sports}
+  - {n: "Eurosport",      a: ["eurosport", "eurosport 1", "eurosport 2"], f: sports, r: [asia, us, latam, uk, eu, other]}
+  - {n: "Sky Sports",     a: ["sky sports", "sky sports main event", "sky sports premier league", "sky sports football", "sky sports f1", "sky sports cricket", "sky sports golf"], f: sports}
+  - {n: "TNT Sports",     a: ["tnt sports", "tnt sports 1", "bt sport", "bt sport 1"], f: sports}
+  - {n: "DAZN",           a: ["dazn", "dazn 1"], f: sports}
+  - {n: "SuperSport",     a: ["supersport", "supersport 1", "super sport"], f: sports}
+  - {n: "CBS Sports Network", a: ["cbs sports network", "cbs sports hq"], f: sports}
+  - {n: "NBC Sports",     a: ["nbc sports", "nbc sports network", "nbcsn"], f: sports}
+  - {n: "NFL Network",    a: ["nfl network", "nfl channel", "nfl redzone"], f: sports2}
+  - {n: "MLB Network",    a: ["mlb network", "mlb tv"], f: sports2}
+  - {n: "NBA TV",         a: ["nba tv"], f: sports2}
+  - {n: "NHL Network",    a: ["nhl network", "nhl tv"], f: sports2}
+  - {n: "Golf Channel",   a: ["golf channel", "golftv"], f: sports2}
+  - {n: "Tennis Channel", a: ["tennis channel"], f: sports2}
+  - {n: "Rugby TV",       a: ["rugby tv", "rugby channel", "rugby pass"], f: sports2}
+  - {n: "WWE",            a: ["wwe", "wwe network"], f: sports2}
+  - {n: "UFC",            a: ["ufc", "ufc tv"], f: sports2}
+  - {n: "Motorsport TV",  a: ["motorsport tv", "motorsport"], f: sports2}
+  - {n: "Premier Sports", a: ["premier sports", "premier sports 1", "premier sports 2"], f: sports}
+
+  # ---- Berita Internasional (folder 08)
+  - {n: "CNN International", a: ["cnn", "cnn international", "cnn us", "cnn hd"], f: intl_news}
+  - {n: "BBC News",       a: ["bbc news", "bbc world news", "bbc news channel"], f: intl_news}
+  - {n: "Al Jazeera English", a: ["al jazeera", "al jazeera english", "aljazeera english", "aljazeera"], f: intl_news}
+  - {n: "DW",             a: ["dw", "dw english", "dw news", "deutsche welle"], f: intl_news}
+  - {n: "France 24",      a: ["france 24", "france 24 english", "france24"], f: intl_news}
+  - {n: "Euronews",       a: ["euronews", "euronews english"], f: intl_news}
+  - {n: "Sky News",       a: ["sky news"], f: intl_news}
+  - {n: "Bloomberg",      a: ["bloomberg", "bloomberg tv", "bloomberg television", "bloomberg original"], f: intl_news}
+  - {n: "CNBC",           a: ["cnbc", "cnbc indonesia", "cnbc international", "cnbc europe"], f: intl_news}
+  - {n: "Fox News",       a: ["fox news", "fox news channel"], f: intl_news}
+  - {n: "Fox Business",   a: ["fox business", "fox business network"], f: intl_news}
+  - {n: "MSNBC",          a: ["msnbc", "ms now"], f: intl_news}
+  - {n: "NHK World",      a: ["nhk world", "nhk world japan", "nhk"], f: intl_news}
+  - {n: "CGTN",           a: ["cgtn", "cgtn english"], f: intl_news}
+  - {n: "WION",           a: ["wion"], f: intl_news}
+  - {n: "Arirang",        a: ["arirang", "arirang tv"], f: intl_news}
+  - {n: "Channel NewsAsia", a: ["channel newsasia", "channel news asia", "cna"], f: intl_news}
+  - {n: "TRT World",      a: ["trt world"], f: intl_news}
+  - {n: "RT",             a: ["rt", "rt news", "rt international", "russia today"], f: intl_news}
+  - {n: "Newsmax",        a: ["newsmax", "newsmax tv"], f: intl_news}
+  - {n: "ABC News",       a: ["abc news", "abc news live"], f: intl_news}
+  - {n: "CBS News",       a: ["cbs news", "cbsn", "cbs news 24 7"], f: intl_news}
+  - {n: "NBC News Now",   a: ["nbc news", "nbc news now"], f: intl_news}
+  - {n: "Reuters",        a: ["reuters", "reuters tv"], f: intl_news}
+  - {n: "LiveNOW from Fox", a: ["livenow from fox", "livenow"], f: intl_news}
+  - {n: "i24 News",       a: ["i24 news", "i24news"], f: intl_news}
+
+  # ---- Inggris (folder 10): hanya wilayah uk
+  - {n: "BBC One",        a: ["bbc one", "bbc 1"], f: uk}
+  - {n: "BBC Two",        a: ["bbc two", "bbc 2"], f: uk}
+  - {n: "BBC Three",      a: ["bbc three", "bbc 3"], f: uk}
+  - {n: "BBC Four",       a: ["bbc four", "bbc 4"], f: uk}
+  - {n: "BBC Scotland",   a: ["bbc scotland"], f: uk}
+  - {n: "BBC Parliament", a: ["bbc parliament"], f: uk}
+  - {n: "ITV1",           a: ["itv", "itv1", "itv 1"], f: uk}
+  - {n: "ITV2",           a: ["itv2", "itv 2"], f: uk}
+  - {n: "ITV3",           a: ["itv3", "itv 3"], f: uk}
+  - {n: "ITV4",           a: ["itv4", "itv 4"], f: uk}
+  - {n: "Channel 4",      a: ["channel 4", "channel4"], f: uk}
+  - {n: "Channel 5",      a: ["channel 5", "channel5"], f: uk}
+  - {n: "E4",             a: ["e4"], f: uk}
+  - {n: "Film4",          a: ["film4", "film 4"], f: uk}
+  - {n: "More4",          a: ["more4", "more 4"], f: uk}
+  - {n: "Dave",           a: ["dave"], f: uk}
+  - {n: "S4C",            a: ["s4c"], f: uk}
+  - {n: "GB News",        a: ["gb news"], f: uk}
+  - {n: "Talk TV",        a: ["talk tv", "talktv"], f: uk}
+  - {n: "Sky Atlantic",   a: ["sky atlantic", "sky witness", "sky max", "sky showcase"], f: uk}
+
+  # ---- Eropa (folder 11): wilayah eu atau tanpa kode negara
+  - {n: "Das Erste",      a: ["das erste", "ard", "das erste hd"], f: europe, r: [eu, other]}
+  - {n: "ZDF",            a: ["zdf", "zdf hd"], f: europe}
+  - {n: "RTL",            a: ["rtl", "rtl television", "rtl hd", "rtl germany"], f: europe}
+  - {n: "ProSieben",      a: ["prosieben", "pro7", "pro sieben"], f: europe}
+  - {n: "Sat.1",          a: ["sat 1", "sat1"], f: europe}
+  - {n: "VOX",            a: ["vox"], f: europe}
+  - {n: "TF1",            a: ["tf1"], f: europe}
+  - {n: "France 2",       a: ["france 2"], f: europe}
+  - {n: "France 3",       a: ["france 3"], f: europe}
+  - {n: "M6",             a: ["m6"], f: europe}
+  - {n: "Canal+",         a: ["canal plus", "canal plus france"], f: europe}
+  - {n: "ARTE",           a: ["arte", "arte francais", "arte deutsch"], f: europe}
+  - {n: "Rai 1",          a: ["rai 1", "rai uno"], f: europe}
+  - {n: "Rai 2",          a: ["rai 2", "rai due"], f: europe}
+  - {n: "Rai 3",          a: ["rai 3", "rai tre"], f: europe}
+  - {n: "Canale 5",       a: ["canale 5"], f: europe}
+  - {n: "La 1 TVE",       a: ["la 1", "tve", "tve la 1", "tve internacional", "tve internacional asia oceania", "tve internacional europe"], f: europe}
+  - {n: "Antena 3",       a: ["antena 3"], f: europe}
+  - {n: "Telecinco",      a: ["telecinco"], f: europe}
+  - {n: "La Sexta",       a: ["la sexta", "lasexta"], f: europe}
+  - {n: "NPO 1",          a: ["npo 1"], f: europe}
+  - {n: "NPO 2",          a: ["npo 2"], f: europe}
+  - {n: "VRT 1",          a: ["vrt 1", "een"], f: europe}
+  - {n: "SRF 1",          a: ["srf 1"], f: europe}
+
+  # ---- Musik (folder 13)
+  - {n: "VEVO",           a: ["vevo", "vevo pop", "vevo hip hop", "vevo latino", "vevo rock", "vevo country"], f: music}
+  - {n: "Trace Urban",    a: ["trace urban", "trace"], f: music, r: [asia, us, latam, uk, eu, other]}
+  - {n: "Mezzo",          a: ["mezzo", "mezzo live"], f: music, r: [asia, us, latam, uk, eu, other]}
+  - {n: "CMT",            a: ["cmt", "cmt music"], f: music}
+  - {n: "Deluxe Music",   a: ["deluxe music", "deluxe lounge"], f: music, r: [asia, us, latam, uk, eu, other]}
+  - {n: "Fuse",           a: ["fuse"], f: music}
+  - {n: "MTV Live",       a: ["mtv live", "mtv hits", "mtv classic"], f: music}

@@ -1,0 +1,397 @@
+﻿nama,folder,sumber,tes_lokal_lama,verdict,alasan,live_atau_laju,video,audio,bahasa_tag,ms,url
+RCTI HD,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,maju,h264 1280x720,aac,und,7263,https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+SCTV,01 · Indonesia · National TV,iptv,gagal,MATI,URLError: <urlopen error timed out>,,,,,26023,http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+Indosiar HD,01 · Indonesia · National TV,dhany,lolos,HIDUP,,maju,h264 480x360,aac,ENG,32704,https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8
+ANTV (Indonesia),01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,maju,h264 854x480,aac,eng,9588,https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+GTV (Indonesia) HD,01 · Indonesia · National TV,dhany,lolos,MATI,HTTPError: HTTP Error 429: Too Many Requests,,,,,2192,https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+tvOne,01 · Indonesia · National TV,dhany,lolos,HIDUP,,maju,h264 1280x720,aac,eng,19116,https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
+Moji,01 · Indonesia · National TV,dhany,lolos,HIDUP,,maju,h264 1280x720,aac,ENG,63482,https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+Garuda TV,01 · Indonesia · National TV,dhany,lolos,HIDUP,,maju,h264 1280x720,aac,eng,39375,https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
+Nusantara TV,01 · Indonesia · National TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,5091,https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+Indonesiana.TV,01 · Indonesia · National TV,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,6561,https://tvstreamcast.com/indonesiana.m3u8
+TVRI HD,01 · Indonesia · National TV,dhany,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,20364,https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+TVRI World,01 · Indonesia · National TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,25497,https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+RRI Net,01 · Indonesia · National TV,iptv,gagal,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2168,https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+MDTV,01 · Indonesia · National TV,dhany,lolos,MATI,URLError: <urlopen error timed out>,,,,,97719,https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
+MNCTV,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,maju,h264 1280x720,aac,und,6774,https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+Trans TV,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,vod,h264 854x480,aac,eng,921,https://proxy-v.rctiplus.id/live/web/transtv/index.m3u8
+Trans7,01 · Indonesia · National TV,dhany,lolos,DRM,HIDUP sebelum DRM:,vod,h264 854x480,aac,eng,1029,https://proxy-v.rctiplus.id/live/web/trans7/index.m3u8
+RTV,01 · Indonesia · National TV,dhany,lolos,HIDUP,,maju,h264 854x480,aac,eng,9744,https://proxy-v.rctiplus.id/live/web/rtv/index.m3u8
+Metro TV (Indonesia),02 · Indonesia · News,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,12822,https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+Kompas TV,02 · Indonesia · News,dhany,lolos,HIDUP,,maju,h264 1280x720,aac,und,57872,https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+CNN Indonesia,02 · Indonesia · News,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,13162,https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+CNBC Indonesia,02 · Indonesia · News,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,12704,https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+BeritaSatu,02 · Indonesia · News,iptv,gagal,MATI,"URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",,,,,2373,https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+BTV (Indonesia),02 · Indonesia · News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,5290,https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+BN Channel,02 · Indonesia · News,dhany,lolos,MATI,ffprobe: /var/folders/hq/7dkgv5b17996tylh996ycbj80000gn/T/tmp4vzkzq9p.seg: Invalid data f,maju,,,,4600,https://flv.intechmedia.net/live/ch112.m3u8?
+iNews,02 · Indonesia · News,dhany,lolos,HIDUP,,maju,h264 1920x1080,aac,,10744,https://live.i-news.tv/hls/stream.m3u8
+Al-Bahjah TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,592KB/4s,,,,3025,http://202.150.161.117:8000/play/AlBahjahTV
+Rodja TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,5393,https://rodjatv.com/rodjatv/live.m3u8
+Nabawi TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,592KB/4s,,,,3136,http://202.150.161.117:8000/play/NabawiTV
+Al-Iman TV (Indonesia),03 · Islam · Indonesia & Haramain,iptv,gagal,MATI,HTTPError: HTTP Error 404: Not Found,,,,,3760,https://tv.aliman.id/aliman/live.m3u8
+MQTV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,12940,https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+Madani TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 360x202,aac,,14674,https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+Ahsan TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,12772,https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+Surau TV,03 · Islam · Indonesia & Haramain,iptv,gagal,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2216,http://ikitv.sqn.at:8000/play/a00l/index.m3u8
+Salam TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,7624,https://live.salamtelevisi.com/hls/0/stream.m3u8
+DMI TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,6516,https://tvstreamcast.com/tawaftv.m3u8
+Makkah TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 854x480,aac,,12838,https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+Al Sunnah Al Nabawiyah TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,19197,http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+Al Quran Al Kareem TV,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,19057,http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+Iqraa Quran,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,19514,https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+Qatar TV The Holy Quran,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,17371,https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+Peace TV English,03 · Islam · Indonesia & Haramain,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,17654,https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+TVRI Sport,04 · Football & General Sports,iptv,gagal,MATI,URLError: <urlopen error timed out>,,,,,26012,http://202.150.172.59/TVRISport/index.m3u8
+beIN Sports USA,04 · Football & General Sports,iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2622,https://tvsen6.aynaott.com/beinsports/index.m3u8
+beIN SPORTS XTRA,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,13147,https://bein-xtra-bein.amagi.tv/playlist.m3u8
+FIFA+,04 · Football & General Sports,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15729,https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
+MUTV,04 · Football & General Sports,iptv,lolos,MATI,ffprobe: /var/folders/hq/7dkgv5b17996tylh996ycbj80000gn/T/tmp9lzpu761.seg: Invalid data f,maju,,,,10637,https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+Real Madrid TV English,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,13065,http://88.212.15.50/live/real_madrid_tv/index.m3u8
+Inter TV (Italy),04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,12495,https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+Milan TV,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,und,13971,http://team-tv.co:81/milan/index.m3u8
+Sky Sports News,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,16976,https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+ESPN (United States) HD,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,16246,http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+ESPN 2 (United States) HD,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,16383,http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+Fox Sports 1,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,31236,http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+CBS Sports HQ,04 · Football & General Sports,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15511,https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+NBC Sports NOW,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,12708,https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+Stadium,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,eng,13966,https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8
+Eurosport 1 UK,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,mp2,eng,18126,http://85.117.37.43/eurosport1/index.m3u8
+Eurovision Sport,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,13840,https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
+talkSPORT,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,19604,https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+Sky Sports 1,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,11358,http://45.228.234.9:8000/play/a06b/index.m3u8
+Sky Sports 2,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,11593,http://200.115.120.1:8000/play/ca82266/index.m3u8
+Eleven Sports 2,04 · Football & General Sports,iptv,lolos,MATI,"segmen http 200, 188 byte",maju,,,,18344,http://92.114.85.87:8002/play/a00f/index.m3u8
+Eleven Sports 3,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,ac3,pol,19142,http://92.114.85.87:8002/play/a00g/index.m3u8
+Eleven Sports 4,04 · Football & General Sports,iptv,lolos,MATI,"segmen http 200, 188 byte",maju,,,,27795,http://92.114.85.87:8002/play/a00h/index.m3u8
+Canal+ Sport (France),04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,14235,http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+Sportitalia,04 · Football & General Sports,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,16966,https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+TNT Sports (Argentina) SD,04 · Football & General Sports,iptv,lolos,HIDUP,,544KB/4s,,,,5905,http://181.78.79.131:8000/play/a0mo
+NBA TV,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,19343,http://23.237.104.106:8080/USA_NBA/index.m3u8
+NHL Network,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,15601,https://nhl-firetv.amagi.tv/playlist.m3u8
+MLB,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,16099,https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
+Tennis Channel,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,13312,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+Golf Channel (United States),"05 · NBA, Golf, Rugby & More",iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2609,https://tvsen6.aynaott.com/golfchannel/index.m3u8
+PGA Tour,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,12122,https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+RugbyPass TV,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15889,https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
+Sky Sports F1,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1280x720,aac,eng,15488,https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
+DAZN Combat,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,18187,https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+Red Bull TV US,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,16033,https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+Cricket Gold,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,14354,https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+CCTV-Golf & Tennis,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,17239,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+Sky Sports NFL,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,16723,https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
+ESPN8: The Ocho,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,,maju,hevc 1920x1080,aac,eng,11302,https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+NFL Channel,"05 · NBA, Golf, Rugby & More",iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,14916,https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+Hallmark Movies & More,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,13892,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+IFC,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,ac3,eng,18016,http://23.237.104.106:8080/USA_IFC/index.m3u8
+Cinemax Hits,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,und,16264,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+Cinemax Classics,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,32981,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+Charge!,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,10626,https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+Gravitas Movies,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,14700,https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+Doctor Who Classic,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,15890,https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+BBC Drama,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,12655,https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+Midsomer Murders,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,15964,https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+Cold Case Files,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,11355,https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+MBC Drama USA,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,8224,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+Star Trek US,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,11784,https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
+Cheers (United States),06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,14336,https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
+Frasier (United States),06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,58168,https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
+CSI (United States),06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,162842,https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+CSI: Miami,06 · Movies & Series,iptv,lolos,MATI,URLError: <urlopen error timed out>,,,,,115103,https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
+Blue Bloods,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,120943,https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
+Bonanza,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,129011,https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+Gunsmoke,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,14262,https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+Battlestar Galactica,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,13627,https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+Farscape,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,141308,https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
+Classic Movies Channel,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,19986,https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
+Classic Movie Westerns,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,14700,https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+70s Cinema,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,14165,https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+Beverly Hills 90210,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,96635,https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+Dynasty,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,16693,https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
+Family Ties (United States),06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,52448,https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+Cinemax (United States) West,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,54460,http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+Starz West,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,24886,http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+Starz Comedy,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,ac3,,28656,http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+Showtime Family Zone,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,26065,http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+NBC Comedy Vault,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,16100,https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+Comedy Central South Park,06 · Movies & Series,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,13903,https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+HBO Asia Taiwan,06 · Movies & Series,iptv,lolos,HIDUP,,592KB/4s,,,,2214,http://125.227.210.55:1003/VideoInput/play.ts
+HBO 2 Latin America HD,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,spa,11455,http://45.171.64.30:6060/play/a00i/index.m3u8
+HBO Family Latin America,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,spa,13348,http://45.171.64.30:6060/play/a00k/index.m3u8
+Sony Movies (United States),06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,17651,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+Sony Entertainment Television HD,06 · Movies & Series,iptv,lolos,HIDUP,,maju,hevc 1920x1080,aac,???,14920,http://38.96.178.205/SONYHD/index.m3u8
+Cine Sony,06 · Movies & Series,iptv,lolos,HIDUP,,592KB/4s,,,,3936,http://186.148.196.82:8001/play/a0a4
+Warner TV Asia,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,eng,11117,https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
+Universal TV Latin America,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1280x1080,aac,spa,24482,http://15.204.246.24:8080/UniversalHD/index.m3u8
+AMC Latin America,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,spa,18361,http://15.204.246.24:8080/AMCHD/index.m3u8
+TCM Latin America,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,mp2,spa,16280,http://181.78.14.26:4000/play/a04d/index.m3u8
+FX Latin America,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,spa,32291,http://15.204.246.24:8080/FXHD/index.m3u8
+Lifetime Latin America Brazil,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,por,18928,http://170.83.16.50/LIFETIME/index.m3u8
+AXN Asia Taiwan,06 · Movies & Series,iptv,lolos,HIDUP,,592KB/4s,,,,3415,http://125.227.210.55:4050/VideoInput/play.ts
+Cinecanal,06 · Movies & Series,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,28983,http://15.204.246.24:8080/CinecanalHD/index.m3u8
+CNN International,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,11820,https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+Al Jazeera English,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,14991,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+DW English,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,14910,https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+France 24 English,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,10109,https://freem3u.xyz/api/live/play.m3u8?vid=96
+Euronews English HD,07 · International News,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15953,https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+Sky News,07 · International News,iptv,lolos,HIDUP,,maju,h264 720x576,aac,,19452,https://dash4.antik.sk/live/test_skynews/playlist.m3u8
+Bloomberg TV,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,22163,http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+CNBC UK,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,11584,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+CNA International,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,13297,https://freem3u.xyz/api/live/play.m3u8?vid=112
+NHK World-Japan HD,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,8949,https://cdn.pishow.tv/ott/live/455/master.m3u8
+CGTN,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,11150,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+TRT World HD,07 · International News,iptv,lolos,HIDUP,,maju,h264 2560x1440,aac,und,13519,https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+WION,07 · International News,iptv,lolos,BEKU,playlist tidak maju selama tes,beku,h264 1280x720,aac,,9723,http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8
+ABC News Live,07 · International News,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15422,https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+CBS News 24/7,07 · International News,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15227,https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+NBC News NOW,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,12712,https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+Fox News Channel,07 · International News,iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2625,https://tvsen6.aynaott.com/foxnews/index.m3u8
+Reuters TV,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,16036,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+Scripps News,07 · International News,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,11319,https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
+Newsy,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,23084,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+Arirang TV HD,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,8832,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+i24NEWS English World,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,19281,https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
+Africanews English,07 · International News,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,eng,15378,https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+WELT,07 · International News,iptv,lolos,HIDUP,,maju,h264 720x576,aac,,15555,https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
+BBC News South Asia,07 · International News,iptv,lolos,HIDUP,,maju,h264 544x480,aac,spa,12648,https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+Fox Business Network,07 · International News,iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2641,https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+MS NOW,07 · International News,iptv,lolos,MATI,HTTPError: HTTP Error 404: Not Found,,,,,2613,https://tvsen6.aynaott.com/msnbc/index.m3u8
+RT India,07 · International News,iptv,lolos,BEKU,playlist tidak maju selama tes,beku,h264 1920x1080,aac,,11771,https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
+Newsmax TV,07 · International News,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,15932,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+LiveNOW from FOX,07 · International News,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,14046,https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
+VTV (Indonesia) HD,08 · Kids & Cartoons,iptv,lolos,MATI,ffprobe: /var/folders/hq/7dkgv5b17996tylh996ycbj80000gn/T/tmpremt41sz.seg: Invalid data f,maju,,,,4530,https://flv.intechmedia.net/live/ch107.m3u8
+Kids TV,08 · Kids & Cartoons,dhany,lolos,DRM,HIDUP sebelum DRM:,vod,h264 640x360,aac,eng,1536,https://proxy-v.rctiplus.id/live/web/hapykids/index.m3u8
+Cartoon Network Asia,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,eng,11149,https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+Cartoonito Asia,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,eng,9121,http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+Nickelodeon Asia,08 · Kids & Cartoons,iptv,lolos,BEKU,playlist tidak maju selama tes,beku,h264 1280x720,aac,,5711,http://103.253.74.210:7070/stream/117/index.m3u8
+Nick Jr. Asia,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,5713,http://103.253.74.210:7070/stream/116/index.m3u8
+Disney Channel (United States),08 · Kids & Cartoons,iptv,lolos,MATI,HTTPError: HTTP Error 403: Forbidden,,,,,29912,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+Disney XD (United States),08 · Kids & Cartoons,iptv,lolos,HIDUP,,592KB/4s,,,,4418,http://89.187.179.148:826/1368/gXwiagaXda/1672
+Boomerang (United States),08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,25310,http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+Moonbug Kids,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,14620,https://moonbug-rokuus.amagi.tv/playlist.m3u8
+HappyKids,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,16674,https://dil9xdvretp0f.cloudfront.net/index.m3u8
+Kartoon Channel!,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,12424,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+Mentari TV,08 · Kids & Cartoons,dhany,gagal,MATI,"URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",,,,,18552,https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
+Disney Jr. Latin America,08 · Kids & Cartoons,iptv,lolos,HIDUP,,maju,h264 544x480,aac,spa,17228,http://190.14.10.19:16000/play/a02d/index.m3u8
+Duck tv,08 · Kids & Cartoons,dhany,lolos,HIDUP,,maju,h264 1280x720,aac,,15023,https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+Fox (United States) WNYW,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,18256,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+Fox (United States) KTTV,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,18419,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+Bravo,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,17294,http://41.205.93.154/BRAVO/index.m3u8
+CMT,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,25247,http://23.237.104.106:8080/USA_CMT/index.m3u8
+E! East,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,127642,http://23.237.104.106:8080/USA_E/index.m3u8
+Food Network (United States),09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,81558,http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+Paramount Network,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,ac3,eng,20578,http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+MTV Live,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,ac3,,214339,http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+Comedy Central (United States) CA,09 · America · TV & Cable,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,14393,https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+Animal Planet (United States),09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,98388,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+CNN,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,14904,https://tvsen6.aynaott.com/cnn/index.m3u8
+Comedy Central Pluto TV,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 426x240,,,60274,https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+truTV,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,und,68627,http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+SYFY,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,146612,http://23.237.104.106:8080/USA_SYFY/index.m3u8
+VH1,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,168460,http://23.237.104.106:8080/USA_VH1/index.m3u8
+MTV (United States),09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,20005,http://23.237.104.106:8080/USA_MTV/index.m3u8
+OWN,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,90426,http://23.237.104.106:8080/USA_OWN/index.m3u8
+Court TV,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,18157,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+The Weather Channel,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,16234,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+ION TV,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1280x720,ac3,,26323,http://23.237.104.106:8080/USA_ION/index.m3u8
+Bounce,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,eac3,,83599,http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+Comet,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,10619,https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+Cooking Channel,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,23437,http://23.237.104.106:8080/USA_COOKING/index.m3u8
+Crime + Investigation,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,und,89913,http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+VICE TV,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,14586,http://23.237.104.106:8080/USA_VICETV/index.m3u8
+BET Pluto TV,09 · America · TV & Cable,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,16242,https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+BET Classics Pluto TV,09 · America · TV & Cable,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15065,https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+BET Throwbacks,09 · America · TV & Cable,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15651,https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
+PBS America,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,mpeg2video 544x576,mp2,eng,13454,http://185.19.191.2:8090/PBS/index.m3u8
+TNT Latin America,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,11965,http://45.171.64.30:6060/play/a03i/index.m3u8
+TBS TV,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,16338,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+USA Network Latin America,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,26272,http://138.121.15.230:9002/USA/index.m3u8
+A&E Latin America Brazil,09 · America · TV & Cable,iptv,lolos,HIDUP,,592KB/4s,,,,2356,http://79.127.238.228:14551
+TLC Southeast Asia,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,5490,http://103.253.74.210:7070/stream/108/index.m3u8
+HGTV Asia,09 · America · TV & Cable,iptv,lolos,MATI,cuma 3169 byte dalam 4 detik (application/dash+xml),,,,,2196,https://freem3u.xyz/api/live/play.m3u8?vid=99
+Univision Latin America,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,spa,42195,http://138.121.15.230:9002/UNIVISION/index.m3u8
+Telemundo East HD,09 · America · TV & Cable,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,spa,19210,https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+S4C,10 · UK · Main TV,iptv,lolos,MPD_TIDAK_DIUJI,MPD terbaca,,,,,681,https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd
+TalkTV,10 · UK · Main TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,20249,https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+Das Erste HD,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,12430,https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+ZDF,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,14847,https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+M6 HD,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,fra,17659,http://99.27.51.147:8080/M6/index.m3u8
+Rai 1,11 · Europe · Main TV,iptv,lolos,BEKU,playlist tidak maju selama tes,beku,h264 1280x720,aac,,14328,https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+Rai 2,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,16016,https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+Rai 3,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,16216,https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+La 2,11 · Europe · Main TV,iptv,lolos,MATI,HTTPError: HTTP Error 403: Geoblock,,,,,25384,https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
+ORF 1,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1280x720,,,15995,https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+NRK1,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,nor,16248,http://185.19.191.171:8090/NRK1/index.m3u8
+ProSieben,11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,15047,https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+RTL (Germany),11 · Europe · Main TV,iptv,lolos,HIDUP,,maju,h264 720x576,aac,deu,13191,https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+VOX,11 · Europe · Main TV,iptv,lolos,BEKU,playlist tidak maju selama tes,beku,h264 720x576,aac,,26442,https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+France 3,11 · Europe · Main TV,iptv,lolos,HIDUP,,592KB/4s,,,,2079,http://85.14.32.26:8800/udp/239.100.10.144:5000
+Antena 3,11 · Europe · Main TV,iptv,lolos,MPD_TIDAK_DIUJI,MPD terbaca,,,,,93,https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
+La Sexta,11 · Europe · Main TV,iptv,lolos,MPD_TIDAK_DIUJI,MPD terbaca,,,,,190,https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd
+Music Information Channel,12 · Music,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,12826,https://mic.siar.us/mic/live/mic.m3u8
+MTV Biggest Pop,12 · Music,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15643,https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+MTV Spankin' New,12 · Music,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15234,https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+Mezzo Live,12 · Music,iptv,lolos,MATI,cuma 196 byte dalam 4 detik (application/vnd.apple.mpegurl),,,,,860,http://stream.mcquack.net/276/index.m3u8
+NOW Rock,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,11016,https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+Clubbing TV UK,12 · Music,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,14847,https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
+Kiss Kiss TV,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,18952,https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+Movie Music by Stingray,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,16533,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+Classica,12 · Music,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,19661,https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+Deluxe Dance,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,,,12814,https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+Vevo Latino,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,12319,https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+Trace Urban,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,13051,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+Deluxe Lounge,12 · Music,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,20464,https://jmp2.uk/stvp-CHAJ0500413A
+Fuse,12 · Music,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,19940,http://23.237.104.106:8080/USA_FUSE/index.m3u8
+Discovery World,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,spa,21679,http://168.196.127.137:6001/play/a097/index.m3u8
+Discovery Turbo (United States),13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,18258,http://41.205.93.154/ESPNNEWS/index.m3u8
+BBC Earth US,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,11452,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+Smithsonian Channel Pluto TV,13 · Documentary & Science,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,16414,https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+History Hit,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,11598,https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+CGTN Documentary,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,10147,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+Pluto TV Science,13 · Documentary & Science,iptv,lolos,HIDUP,"AES, isi segmen tidak diprobe",maju,,,,15489,https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+Nasa TV,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 640x360,mp3,,11446,https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+Military History,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,eng,29705,https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
+The Indonesia Channel,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,13055,https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+History Asia,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,11627,https://freem3u.xyz/api/live/play.m3u8?vid=9856
+Discovery Asia Taiwan,13 · Documentary & Science,iptv,lolos,HIDUP,,592KB/4s,,,,4057,http://125.227.210.55:1004/VideoInput/play.ts
+National Geographic Latin America,13 · Documentary & Science,iptv,lolos,HIDUP,,maju,h264 1920x1080,mp2,spa,15929,http://15.204.246.24:8080/NatGeoHD/index.m3u8
+TVRI Aceh,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,20352,https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+TVRI Bali,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,20971,https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+TVRI Bangka Belitung,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,304085,https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+TVRI Bengkulu,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,293174,https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+TVRI Central Java,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,322089,https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+TVRI Central Kalimantan,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,336923,https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+TVRI Central Sulawesi,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,265325,https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+TVRI East Java,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,21491,https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+TVRI East Kalimantan,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,37019,https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+TVRI East Nusa Tenggara,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,301286,https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+TVRI Gorontalo,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,22822,https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+TVRI Jakarta,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,19399,https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+TVRI Jambi,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,23574,https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+TVRI Lampung,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,22957,https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+TVRI Maluku,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,20899,https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+TVRI North Sulawesi,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,20047,https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+TVRI North Sumatra,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,16605,https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+TVRI Papua,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,23707,https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+TVRI Riau,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,19839,https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+TVRI South Kalimantan,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,21096,https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+TVRI South Sulawesi,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,21030,https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+TVRI South Sumatra,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,21930,https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+TVRI Southeast Sulawesi,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,21664,https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+TVRI West Java,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,eng,20945,https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+TVRI West Kalimantan,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,29147,https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+TVRI West Nusa Tenggara,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,27850,https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+TVRI West Papua,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,17133,https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+TVRI West Sulawesi,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,21925,https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+TVRI West Sumatra,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,22263,https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+TVRI Yogyakarta,14 · Indonesia · TVRI Regional,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,und,20605,https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+Suara Surabaya Visual Radio,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,13236,https://ssfm.siar.us/ssfm/live/playlist.m3u8
+Holy Quran Radio,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,19380,https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+Sharjah Radio Quran,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,12094,https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+Saudia Radio,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,26107,https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+Nidae AlIslam Radio,15 · Radio,iptv,lolos,MATI,IncompleteRead: IncompleteRead(345 bytes read),,,,,4115,https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+Asharq Radio,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,16544,https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+Al Riyadh Radio,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1280x720,aac,,18197,https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+Arirang Radio,15 · Radio,iptv,lolos,HIDUP,,maju,h264 1920x1080,aac,,12806,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+I-Radio Jakarta,15 · Radio,radio,belum_dites,HIDUP,,360KB/4s,,,,5498,http://stream.radiojar.com/4ywdgup3bnzuv
+Suara Giri 98.4 FM,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,364,http://streaming.girifm.com:8010/
+Wijaya FM 103.5 FM Surabaya,15 · Radio,radio,belum_dites,HIDUP,,160KB/4s,,,,4645,http://wijayafm.onlivestreaming.net:9880/stream?
+Retjo Buntung 99.4 FM,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,403,http://45.64.97.82:9940/
+CNN Indonesia,15 · Radio,radio,belum_dites,MATI,RemoteDisconnected: Remote end closed connection without response,,,,,2260,https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8
+Suara Muslim Surabaya,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,1109,http://pu.klikhost.com:8052/
+EL SHADDAI FM SOLO,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: File Not Found,,,,,2854,http://shaddai.onlivestreaming.net:9130/live
+V Radio,15 · Radio,radio,belum_dites,HIDUP,,376KB/4s,,,,4504,http://202.147.199.100:8000/;stream.nsv
+RRI Pro 3 KBRN,15 · Radio,radio,belum_dites,HIDUP,,128KB/4s,,,,4953,https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+Iradio FM,15 · Radio,radio,belum_dites,HIDUP,,360KB/4s,,,,5323,http://n03.radiojar.com/4ywdgup3bnzuv
+Sindo Trijaya 104.6 FM Jakarta,15 · Radio,radio,belum_dites,HIDUP,,112KB/4s,,,,4320,http://202.147.199.101:8000/;stream.nsv
+SB FM tembang kenangan,15 · Radio,radio,belum_dites,HIDUP,,192KB/4s,,,,7406,https://stream.zeno.fm/d16n50mkzhhvv
+M-Stream Indo,15 · Radio,radio,belum_dites,HIDUP,,200KB/4s,,,,7190,https://stream.zeno.fm/iln4upodbvuuv
+Dangdut2,15 · Radio,radio,belum_dites,HIDUP,,192KB/4s,,,,14262,https://stream.zeno.fm/vwhplynnpfjtv
+Jak 101 FM,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12284,http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
+Suara Soneta,15 · Radio,radio,belum_dites,HIDUP,,88KB/4s,,,,5024,https://a2.siar.us//listen//suarasoneta//radio.mp3
+Radio Sholawat,15 · Radio,radio,belum_dites,HIDUP,,176KB/4s,,,,7857,https://stream.zeno.fm/us5bsznu3rptv
+Mettaswara Koplo,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,4213,https://mettaswara.com:8700//koplo
+RDI 97.1 FM Jakarta,15 · Radio,radio,belum_dites,HIDUP,,344KB/4s,,,,4834,http://202.147.199.99:8000/stream
+Hot 93.2 FM,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12370,http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8
+Andika FM Kediri,15 · Radio,radio,belum_dites,HIDUP,,312KB/4s,,,,4425,http://andikafm.onlivestreaming.net:1057/stream
+DJ BARU,15 · Radio,radio,belum_dites,HIDUP,,176KB/4s,,,,7452,https://stream.zeno.fm/iwcyhq56nwiuv
+Radio Rodja 756 AM,15 · Radio,radio,belum_dites,HIDUP,,56KB/4s,,,,4774,https://radioislamindonesia.com/rodja.mp3?_=2
+Tarbiyah Sunnah,15 · Radio,radio,belum_dites,HIDUP,,64KB/4s,,,,4724,https://radioislamindonesia.com/tarbiyah.mp3
+Radio Hang FM,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,1503,http://185.47.62.52:8000/
+Radio Dangdut Indonesia,15 · Radio,radio,belum_dites,HIDUP,,344KB/4s,,,,4585,http://202.147.199.99:8000/;
+Radio Campursari Yogyakarta,15 · Radio,radio,belum_dites,HIDUP,,88KB/4s,,,,4655,https://a8.siar.us/listen/campursari/stream
+101.4 FM I-Radio JAKARTA,15 · Radio,radio,belum_dites,HIDUP,,352KB/4s,,,,6311,https://stream.radiojar.com/4ywdgup3bnzuv?1739561339
+Rama FM Bandung 104.7 FM,15 · Radio,radio,belum_dites,HIDUP,,272KB/4s,,,,6652,https://i.klikhost.com/8330/;
+90.1 radio Media FM surabaya,15 · Radio,radio,belum_dites,MATI,timeout: timed out,,,,,27025,http://streaming.radiomediafm.com:8400/;
+Suara Giri FM,15 · Radio,radio,belum_dites,HIDUP,,312KB/4s,,,,4277,http://streaming.girifm.com:8010/;stream.nsv
+Pejuang Kopi,15 · Radio,radio,belum_dites,HIDUP,,176KB/4s,,,,7531,https://stream.zeno.fm/sthgzynfcd0uv
+Gen 98.7 FM Jakarta,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12334,http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
+Imelda FM,15 · Radio,radio,belum_dites,HIDUP,,128KB/4s,,,,5652,https://server.radioimeldafm.co.id:8030/imeldafm
+PARAMUDA Radio Bandung,15 · Radio,radio,belum_dites,HIDUP,,288KB/4s,,,,4796,https://i.klikhost.com/8332/;
+Suara Muslim Surabaya,15 · Radio,radio,belum_dites,HIDUP,,296KB/4s,,,,4130,http://pu.klikhost.com:8052/stream/1/
+Most 105.8 FM Jakarta,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12519,https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
+iSWARA JAKARTA,15 · Radio,radio,belum_dites,HIDUP,,368KB/4s,,,,6208,https://stream.radiojar.com/4ywdgup3bnzuv
+Alternatif radio jakarta,15 · Radio,radio,belum_dites,HIDUP,,176KB/4s,,,,4644,https://void.idserverhost.com/8016/stream
+Radio Music Indonesia,15 · Radio,radio,belum_dites,HIDUP,,184KB/4s,,,,6947,https://stream.zeno.fm/wvq442iwm6ztv
+Mustang 88.0 FM,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12331,http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
+Al-Faruq Purwokerto Banyumas <24kb aac+>,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,489,http://alfaruq.radioislam.my.id:12000/
+RASIKA FM USA SEMARANG,15 · Radio,radio,belum_dites,HIDUP,,168KB/4s,,,,4345,https://svara-stream.radioddns.net/rasikafm_stereo
+Elgangga FM,15 · Radio,radio,belum_dites,HIDUP,,88KB/4s,,,,4545,https://b.alhastream.com:5140/radio
+SmartRadio Indonesia,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,403,http://radio.forumcerdas.net:8000/
+Radio Losta FM Blitar 89.2 MHz,15 · Radio,radio,belum_dites,HIDUP,,72KB/4s,,,,6271,https://stream.zeno.fm/ar3nv92ahfhvv
+hard rock FM surabaya,15 · Radio,radio,belum_dites,HIDUP,,72KB/4s,,,,5711,https://n0c.radiojar.com/yg8ne2v80k8uv
+Bahtera Yudha FM Surabaya,15 · Radio,radio,belum_dites,HIDUP,,312KB/4s,,,,4235,http://streaming.bahterayudhafm.com:8050/;rojer.mp3
+PT. Radio Elshinta,15 · Radio,radio,belum_dites,HIDUP,,88KB/4s,,,,4896,https://stream-ssl.arenastreaming.com:8000/jakarta
+Radio Kasih,15 · Radio,radio,belum_dites,HIDUP,,112KB/4s,,,,5678,https://onlineradiobox.com/json/id/kasih/play
+Harmoni FM Blitar,15 · Radio,radio,belum_dites,HIDUP,,120KB/4s,,,,6094,http://cbnradio.streamguys1.com/praise-128K
+Retjo Buntung,15 · Radio,radio,belum_dites,HIDUP,,312KB/4s,,,,4221,http://45.64.97.82:9940/stream
+Firza MPC Radio,15 · Radio,radio,belum_dites,HIDUP,,304KB/4s,,,,5273,https://mpc1.mediacp.eu/stream/firzaradio
+Mettaswara Indonesia,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,4479,https://mettaswara.com:8700/indo
+Ronggohadi 97.8 FM Lamongan,15 · Radio,radio,belum_dites,HIDUP,,80KB/4s,,,,4848,https://c3.siar.us/proxy/ronggohadifm/stream
+trax fm semarang,15 · Radio,radio,belum_dites,HIDUP,,128KB/4s,,,,5207,http://n0f.radiojar.com/fr9zqhv80k8uv
+Hang 106 FM,15 · Radio,radio,belum_dites,HIDUP,,72KB/4s,,,,4953,http://185.47.62.52:8000/listen.mp3/stats?sid=1&json=1&callback=jQuery1124046759743595637016_1677813104799&_=1677813104800
+Rodja Bandung 104.3 FM,15 · Radio,radio,belum_dites,HIDUP,,64KB/4s,,,,4723,https://radioislamindonesia.com/rodja-bandung.mp3
+Loker Musik Indonesia,15 · Radio,radio,belum_dites,HIDUP,,80KB/4s,,,,4645,https://stream.lokermusik.com/listen/lokermusik/lokermusik
+Mettaswara Dangdut,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,4302,https://mettaswara.com:8700/d4d
+Radio Rodja 756 AM & 100.1 FM,15 · Radio,radio,belum_dites,MATI,"BadStatusLine: ICY 200 OK
+",,,,,2147,http://live2.radiorodja.com:8000/;stream.mp3
+RRI Pro1 Banjarmasin,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,5530,https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3
+Kis 95.1 FM,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12257,http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8
+Mettaswara Indo 2000,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,4342,https://mettaswara.com:8700//indo00
+Radio Dahlia FM,15 · Radio,radio,belum_dites,HIDUP,,120KB/4s,,,,4340,https://svara-stream.radioddns.net/bandung_dahliafm
+Fress FM,15 · Radio,radio,belum_dites,MATI,cuma 0 byte dalam 4 detik (audio/aacp),,,,,8133,http://streaming.fressfm.com:11185/stream
+Tidar Sakti FM Batu,15 · Radio,radio,belum_dites,HIDUP,,312KB/4s,,,,4327,http://pu.klikhost.com:8770/stream
+Radio Islam Malang 1,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,491,http://malang.radioislam.my.id:11132/
+Radio Rodja 756 AM,15 · Radio,radio,belum_dites,HIDUP,,16KB/4s,,,,6269,https://radioislamindonesia.com/rodja-low.mp3?_=1
+Mosh Head Black Metal ID,15 · Radio,radio,belum_dites,HIDUP,,272KB/4s,,,,6689,https://moshhead-blackmetal.stream.laut.fm/moshhead-blackmetal
+GCD Yogyakarta 98.6 FM,15 · Radio,radio,belum_dites,HIDUP,,88KB/4s,,,,4934,https://studio1.indostreamers.com:8014/stream/1/
+Most Radio 105.8 FM,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12254,http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w118038145.m3u8
+Jak FM 101,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12998,https://wz.mari.co.id:1936/noice_jakfm/jakfm/playlist.m3u8
+LIVE - RRI PRO 2 Tanjung Pinang,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,5662,https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3
+Delta FM,15 · Radio,radio,belum_dites,HIDUP,,112KB/4s,,,,8053,https://stream.rcs.revma.com/k02rmq48kxcwv
+RRI Pro 2 Makassar,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,5632,https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3
+Cosmo Radio 101.9 FM Bandung,15 · Radio,radio,belum_dites,HIDUP,,280KB/4s,,,,5316,http://scg.streamingmurah.com:8074/stream
+jak 101 FM,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,14809,http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist.m3u8
+Prameswara 103.9 FM Lamongan,15 · Radio,radio,belum_dites,HIDUP,,80KB/4s,,,,4643,http://prameswarafm.onlivestreaming.net:10390/live
+Radio Indah Siar Cirebon,15 · Radio,radio,belum_dites,HIDUP,,80KB/4s,,,,4525,https://az2.radioislam.my.id:8150/;stream.nsv
+Gema Surya FM Ponorogo,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: File Not Found,,,,,2206,https://r5.siar.us:9420/aac.m4a?_=1
+Akurat FM Solo,15 · Radio,radio,belum_dites,HIDUP,,312KB/4s,,,,4274,http://c1.siar.us:9350/stream
+Radio Islam Malang 1,15 · Radio,radio,belum_dites,MATI,tipe isi text/html (bukan media),,,,,482,http://siaran.radioislam.my.id:11132/
+PTPN Solo,15 · Radio,radio,belum_dites,HIDUP,,304KB/4s,,,,5233,https://ssg.streamingmurah.com:8040/stream
+Radio AR Bali,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: Not Available,,,,,2751,https://live.radioarbali.com:8450/radioar
+Venus FM makassar,15 · Radio,radio,belum_dites,HIDUP,,176KB/4s,,,,6830,https://stream.zeno.fm/3wiuocujuobtv
+KLCBS,15 · Radio,radio,belum_dites,HIDUP,,104KB/4s,,,,5029,https://streaming.klcbs.id/listen/klcbs/klcbsfm
+RRI Pro 1 Bandung,15 · Radio,radio,belum_dites,HIDUP,,120KB/4s,,,,4571,https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
+VOKS RADIO BANDUNG,15 · Radio,radio,belum_dites,HIDUP,,120KB/4s,,,,4526,https://svara-stream.radioddns.net/bandung_voksradio
+KIARA MPC RADIO,15 · Radio,radio,belum_dites,MATI,"BadStatusLine: ICY 200 OK
+",,,,,2788,http://mpc1.mediacp.eu/stream/kiara-radio
+ARB FM JAKARTA,15 · Radio,radio,belum_dites,HIDUP,,176KB/4s,,,,4568,https://void.idserverhost.com/8018/stream
+Kosmonita FM Malanf,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,5575,http://202.58.200.26:1055/live
+RRI Pro 4 Bandung,15 · Radio,radio,belum_dites,HIDUP,,120KB/4s,,,,4542,https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
+Mettaswara DhutKop Remix,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,4147,https://mettaswara.com:8700/mix
+Gen 103.1 FM Surabaya New,15 · Radio,radio,belum_dites,HIDUP,,maju,,aac,,12319,http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/playlist.m3u8
+Bahana FM Ngawi,15 · Radio,radio,belum_dites,HIDUP,,80KB/4s,,,,4547,http://bahanafm.onlivestreaming.net:10450/live
+Radio Elshinta Bandung,15 · Radio,radio,belum_dites,MATI,HTTPError: HTTP Error 404: Not Available,,,,,3393,https://stream-ssl.arenastreaming.com:8005/bandung
+Radio ANDIKA,15 · Radio,radio,belum_dites,HIDUP,,128KB/4s,,,,4349,https://r5.siar.us:1057/andikafm
+Bandung Death Metal Syndicate,15 · Radio,radio,belum_dites,HIDUP,,192KB/4s,,,,7762,https://stream.zeno.fm/t9wdzppre5zuv
+PAS FM JAKARTA,15 · Radio,radio,belum_dites,HIDUP,,96KB/4s,,,,4700,http://i.klikhost.com:8266/stream/;

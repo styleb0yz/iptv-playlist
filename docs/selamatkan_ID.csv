@@ -1,0 +1,24 @@
+﻿target,kandidat,tvg_id,sumber,hasil_ID,alasan,tinggi,url
+Animal Planet (United Kingdom),Animal Planet (Czech Republic),AnimalPlanet.cz@SD,iptv-org,LOLOS,,0,http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
+Animal Planet (United Kingdom),Animal Planet (Russia) (1080p),AnimalPlanet.ru@SD,iptv-org,LOLOS,,1080,http://stream.mcquack.net/114/index.m3u8
+Animal Planet (United Kingdom),Animal Planet (United States) (720p),AnimalPlanet.us@East,iptv-org,LOLOS,,1080,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+Cartoon Network HD+ (1080p),Cartoon Network (United States) [Not 24/7;Geo-blocked],CartoonNetwork.us@East,iptv-org,GAGAL,HTTPError: HTTP Error 403: Forbidden,0,https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+Discovery Channel (India) HD (1080p),Discovery Channel (Czech Republic),DiscoveryChannel.cz@SD,iptv-org,LOLOS,,0,http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+Discovery Channel (India) HD (1080p),Discovery Channel (Italy) (1080p),DiscoveryChannel.it@SD,iptv-org,LOLOS,,1080,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+Discovery Channel (United Kingdom),Discovery Channel (Czech Republic),DiscoveryChannel.cz@SD,iptv-org,LOLOS,,0,http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+Discovery Channel (United Kingdom),Discovery Channel (Italy) (1080p),DiscoveryChannel.it@SD,iptv-org,LOLOS,,1080,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+Fox Sports 2,FOX SPORTS 2,FOX SPORTS 2.mx,dhanytv,LOLOS,,0,https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+HGTV (United States),HGTV (Czech Republic),HGTV.cz@SD,iptv-org,LOLOS,,0,http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8
+HGTV (United States),HGTV (Italy) (1080p),HGTV.it@SD,iptv-org,LOLOS,,1080,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+HGTV (United States),HGTV (New Zealand) (1080p),HGTV.nz@SD,iptv-org,LOLOS,,1080,https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
+HGTV (United States),HGTV,HGTV.id,dhanytv,LOLOS,,1080,https://i.mjh.nz/.r/sky-hgtv.m3u8
+Nick Jr. (India) (576p),Nick Jr. (Poland) (576i),NickJr.pl@SD,iptv-org,LOLOS,,0,http://92.114.85.87:8013/play/a004/index.m3u8
+Nick Jr. (India) (576p),Nick Jr. (Russia) (576p),NickJr.ru@SD,iptv-org,LOLOS,,576,http://stream.mcquack.net/220/index.m3u8
+Nickelodeon (India) (576p),Nickelodeon (France) (720p),Nickelodeon.fr@SD,iptv-org,LOLOS,,720,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+Nickelodeon (India) (576p),Nickelodeon (Germany),Nickelodeon.de@SD,iptv-org,LOLOS,,0,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+Nickelodeon (United Kingdom),Nickelodeon (France) (720p),Nickelodeon.fr@SD,iptv-org,LOLOS,,720,https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+Nickelodeon (United Kingdom),Nickelodeon (Germany),Nickelodeon.de@SD,iptv-org,LOLOS,,0,https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+Sony Channel (Argentina) (1080p),Sony Channel (Brazil) (720p),SonyChannel.br@SD,iptv-org,LOLOS,,720,http://170.83.16.50/SONY_CHANNEL/index.m3u8
+Sony Movies (Brazil) (720p),Sony Movies (United States) (720p),SonyMovies.us@SD,iptv-org,LOLOS,,720,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+HBO (United States),HBO (Czech Republic),HBO.cz@SD,iptv-org,LOLOS,,0,http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
+TNT Sports 1,TNT SPORTS 1,auto.tnt.sports.1,dhanytv,LOLOS,,0,https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd

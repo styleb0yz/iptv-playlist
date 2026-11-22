@@ -25,20 +25,20 @@ gap_require_local: false     # false = kandidat gap langsung masuk; yang gagal c
 
 # Folder esensial (01-15). csv = teks folder di draft_esensial.csv. Urutan di sini = urutan final.
 folders:
-  - {key: national,  csv: "01 · Indonesia · TV Nasional",        label: "Indonesia · National TV"}
-  - {key: news,      csv: "02 · Indonesia · Berita",             label: "Indonesia · News"}
-  - {key: islam,     csv: "04 · Islam · Indonesia & Haramain",   label: "Islam · Indonesia & Haramain"}
-  - {key: sports,    csv: "06 · Bola & Olahraga Umum",           label: "Football & General Sports"}
-  - {key: sports2,   csv: "07 · NBA, Golf, Rugby & Lainnya",     label: "NBA, Golf, Rugby & More"}
+  - {key: national,  csv: "01 · Indonesia · TV Nasional",        label: "Indonesia National TV"}
+  - {key: news,      csv: "02 · Indonesia · Berita",             label: "Indonesia News"}
+  - {key: islam,     csv: "04 · Islam · Indonesia & Haramain",   label: "Islamic TV (Indonesia & Haramain)"}
+  - {key: sports,    csv: "06 · Bola & Olahraga Umum",           label: "Football & Sports"}
+  - {key: sports2,   csv: "07 · NBA, Golf, Rugby & Lainnya",     label: "More Sports (NBA, Golf, Rugby)"}
   - {key: movies,    csv: "05 · Film & Series",                  label: "Movies & Series"}
+  - {key: docs,      csv: "14 · Dokumenter & Sains",             label: "Documentary & Science"}
   - {key: intl_news, csv: "08 · Berita Internasional",          label: "International News"}
   - {key: kids,      csv: "12 · Anak & Kartun",                  label: "Kids & Cartoons"}
-  - {key: america,   csv: "09 · Amerika · TV & Kabel",           label: "America · TV & Cable"}
-  - {key: uk,        csv: "10 · Inggris · TV Utama",             label: "UK · Main TV"}
-  - {key: europe,    csv: "11 · Eropa · TV Utama",               label: "Europe · Main TV"}
+  - {key: america,   csv: "09 · Amerika · TV & Kabel",           label: "USA TV & Cable"}
+  - {key: uk,        csv: "10 · Inggris · TV Utama",             label: "UK TV"}
+  - {key: europe,    csv: "11 · Eropa · TV Utama",               label: "Europe TV"}
   - {key: music,     csv: "13 · Musik",                          label: "Music"}
-  - {key: docs,      csv: "14 · Dokumenter & Sains",             label: "Documentary & Science"}
-  - {key: tvri,      csv: "03 · Indonesia · TVRI Daerah",        label: "Indonesia · TVRI Regional"}
+  - {key: tvri,      csv: "03 · Indonesia · TVRI Daerah",        label: "Indonesia TVRI Regional"}
   - {key: radio,     csv: "15 · Radio",                          label: "Radio"}
 
 # Gap Indonesia (hanya dari dhanytv). folder = key di atas.
@@ -49,11 +49,76 @@ gaps:
   - {nama: "RTV",        canon: "rtv.id",     folder: national}
   - {nama: "iNews",      canon: "inews.id",   folder: news}
   - {nama: "Mentari TV", name_regex: "mentari", folder: kids}
+  - {nama: "Antena 3 [STB]", name_regex: "^Antena\\ 3\\ \\[STB\\]$", folder: europe}
+  - {nama: "Radio Rodja 756 AM & 100.1 FM [BELUM]", name_regex: "^Radio\\ Rodja\\ 756\\ AM\\ \\&\\ 100\\.1\\ FM\\ \\[BELUM\\]$", folder: radio}
+  - {nama: "30A Golf Kingdom (720p) [BELUM]", name_regex: "^30A\\ Golf\\ Kingdom\\ \\(720p\\)\\ \\[BELUM\\]$", folder: sports2}
+  - {nama: "AXN Asia Indonesia [MATI]", name_regex: "^AXN\\ Asia\\ Indonesia\\ \\[MATI\\]$", folder: movies}
+  - {nama: "Bravo TV (1080p) [MATI]", name_regex: "^Bravo\\ TV\\ \\(1080p\\)\\ \\[MATI\\]$", folder: america}
+  - {nama: "Cartoon Network (United States) West (1080p) [Geo-blocked] [BELUM]", name_regex: "^Cartoon\\ Network\\ \\(United\\ States\\)\\ West\\ \\(1080p\\)\\ \\[Geo\\-blocked\\]\\ \\[BELUM\\]$", folder: kids}
+  - {nama: "Cartoon Network HD+ (1080p) [MATI]", name_regex: "^Cartoon\\ Network\\ HD\\+\\ \\(1080p\\)\\ \\[MATI\\]$", folder: kids}
+  - {nama: "Cinecanal Pacific (1080p) [MATI]", name_regex: "^Cinecanal\\ Pacific\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "Comedy Central Latin America (1080p) [MATI]", name_regex: "^Comedy\\ Central\\ Latin\\ America\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "Crime + Investigation Asia (720p) [Geo-blocked] [MATI]", name_regex: "^Crime\\ \\+\\ Investigation\\ Asia\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[MATI\\]$", folder: america}
+  - {nama: "DAZN 1 Germany [MATI]", name_regex: "^DAZN\\ 1\\ Germany\\ \\[MATI\\]$", folder: sports}
+  - {nama: "Discovery Channel (India) HD (1080p) [MATI]", name_regex: "^Discovery\\ Channel\\ \\(India\\)\\ HD\\ \\(1080p\\)\\ \\[MATI\\]$", folder: america}
+  - {nama: "Discovery Science Europe UK [MATI]", name_regex: "^Discovery\\ Science\\ Europe\\ UK\\ \\[MATI\\]$", folder: docs}
+  - {nama: "Eurosport (India) HD (1080p) [MATI]", name_regex: "^Eurosport\\ \\(India\\)\\ HD\\ \\(1080p\\)\\ \\[MATI\\]$", folder: sports}
+  - {nama: "F1 Channel [VPN]", name_regex: "^F1\\ Channel\\ \\[VPN\\]$", folder: sports2}
+  - {nama: "Fight Network [BELUM]", name_regex: "^Fight\\ Network\\ \\[BELUM\\]$", folder: sports2}
+  - {nama: "Fox (United States) West (720p) [BELUM]", name_regex: "^Fox\\ \\(United\\ States\\)\\ West\\ \\(720p\\)\\ \\[BELUM\\]$", folder: america}
+  - {nama: "HBO Family Asia HD (1080p) [MATI]", name_regex: "^HBO\\ Family\\ Asia\\ HD\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "HBO Hits Asia HD (1080p) [MATI]", name_regex: "^HBO\\ Hits\\ Asia\\ HD\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "HBO Signature Asia HD (1080p) [MATI]", name_regex: "^HBO\\ Signature\\ Asia\\ HD\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "HBO Signature Latin America [MATI]", name_regex: "^HBO\\ Signature\\ Latin\\ America\\ \\[MATI\\]$", folder: movies}
+  - {nama: "Hallmark Channel (1080p) [MATI]", name_regex: "^Hallmark\\ Channel\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "ITV2 [MATI]", name_regex: "^ITV2\\ \\[MATI\\]$", folder: uk}
+  - {nama: "ITV3 [MATI]", name_regex: "^ITV3\\ \\[MATI\\]$", folder: uk}
+  - {nama: "ITV4 [MATI]", name_regex: "^ITV4\\ \\[MATI\\]$", folder: uk}
+  - {nama: "Lifetime Asia (1080p) [MATI]", name_regex: "^Lifetime\\ Asia\\ \\(1080p\\)\\ \\[MATI\\]$", folder: america}
+  - {nama: "More4 (576p) [BELUM]", name_regex: "^More4\\ \\(576p\\)\\ \\[BELUM\\]$", folder: uk}
+  - {nama: "NBC West (720p) [BELUM]", name_regex: "^NBC\\ West\\ \\(720p\\)\\ \\[BELUM\\]$", folder: america}
+  - {nama: "NFL Network [MATI]", name_regex: "^NFL\\ Network\\ \\[MATI\\]$", folder: sports2}
+  - {nama: "NPO 1 (360p) [MATI]", name_regex: "^NPO\\ 1\\ \\(360p\\)\\ \\[MATI\\]$", folder: europe}
+  - {nama: "NPO 2 HD (720p) [Geo-blocked] [MATI]", name_regex: "^NPO\\ 2\\ HD\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[MATI\\]$", folder: europe}
+  - {nama: "One Golf [MATI]", name_regex: "^One\\ Golf\\ \\[MATI\\]$", folder: sports2}
+  - {nama: "Overtime [VPN]", name_regex: "^Overtime\\ \\[VPN\\]$", folder: sports2}
+  - {nama: "Racer Network [VPN]", name_regex: "^Racer\\ Network\\ \\[VPN\\]$", folder: sports2}
+  - {nama: "Setanta Sports [BELUM]", name_regex: "^Setanta\\ Sports\\ \\[BELUM\\]$", folder: sports}
+  - {nama: "Sky Sport Golf [BELUM]", name_regex: "^Sky\\ Sport\\ Golf\\ \\[BELUM\\]$", folder: sports2}
+  - {nama: "Sky Sport Mix [BELUM]", name_regex: "^Sky\\ Sport\\ Mix\\ \\[BELUM\\]$", folder: sports}
+  - {nama: "Sky Sport Tennis [BELUM]", name_regex: "^Sky\\ Sport\\ Tennis\\ \\[BELUM\\]$", folder: sports2}
+  - {nama: "Sky Sport Top Event [BELUM]", name_regex: "^Sky\\ Sport\\ Top\\ Event\\ \\[BELUM\\]$", folder: sports}
+  - {nama: "Sport TV1 [MATI]", name_regex: "^Sport\\ TV1\\ \\[MATI\\]$", folder: sports}
+  - {nama: "TBS West (720p) [Geo-blocked] [VPN]", name_regex: "^TBS\\ West\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[VPN\\]$", folder: america}
+  - {nama: "TCM West (720p) [Geo-blocked] [VPN]", name_regex: "^TCM\\ West\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[VPN\\]$", folder: movies}
+  - {nama: "TNT (United States) West (720p) [Geo-blocked] [VPN]", name_regex: "^TNT\\ \\(United\\ States\\)\\ West\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[VPN\\]$", folder: america}
+  - {nama: "TNT Series Latin America (1080p) [MATI]", name_regex: "^TNT\\ Series\\ Latin\\ America\\ \\(1080p\\)\\ \\[MATI\\]$", folder: america}
+  - {nama: "TNT Series Latin America South [MATI]", name_regex: "^TNT\\ Series\\ Latin\\ America\\ South\\ \\[MATI\\]$", folder: america}
+  - {nama: "TVE Internacional America (720p) [BELUM]", name_regex: "^TVE\\ Internacional\\ America\\ \\(720p\\)\\ \\[BELUM\\]$", folder: europe}
+  - {nama: "TVE Internacional America HD (1080p) [Geo-blocked] [VPN]", name_regex: "^TVE\\ Internacional\\ America\\ HD\\ \\(1080p\\)\\ \\[Geo\\-blocked\\]\\ \\[VPN\\]$", folder: europe}
+  - {nama: "Trace UK (1080p) [BELUM]", name_regex: "^Trace\\ UK\\ \\(1080p\\)\\ \\[BELUM\\]$", folder: music}
+  - {nama: "Univision West (1080p) [Geo-blocked] [VPN]", name_regex: "^Univision\\ West\\ \\(1080p\\)\\ \\[Geo\\-blocked\\]\\ \\[VPN\\]$", folder: america}
+  - {nama: "Vevo Country (1080p) [MATI]", name_regex: "^Vevo\\ Country\\ \\(1080p\\)\\ \\[MATI\\]$", folder: music}
+  - {nama: "Vevo Hip Hop (1080p) [BELUM]", name_regex: "^Vevo\\ Hip\\ Hop\\ \\(1080p\\)\\ \\[BELUM\\]$", folder: music}
+  - {nama: "truTV West (720p) [Geo-blocked] [VPN]", name_regex: "^truTV\\ West\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[VPN\\]$", folder: america}
+  - {nama: "AXN Latin America (1080p) [MATI]", name_regex: "^AXN\\ Latin\\ America\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "Cartoon Network Latin America [MATI]", name_regex: "^Cartoon\\ Network\\ Latin\\ America\\ \\[MATI\\]$", folder: kids}
+  - {nama: "Disney Channel Latin America South [MATI]", name_regex: "^Disney\\ Channel\\ Latin\\ America\\ South\\ \\[MATI\\]$", folder: kids}
+  - {nama: "E! Latin America (1080p) [MATI]", name_regex: "^E!\\ Latin\\ America\\ \\(1080p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "E! Latin America Mexico (720p) [MATI]", name_regex: "^E!\\ Latin\\ America\\ Mexico\\ \\(720p\\)\\ \\[MATI\\]$", folder: movies}
+  - {nama: "ESPN 2 Latin America (1080p) [MATI]", name_regex: "^ESPN\\ 2\\ Latin\\ America\\ \\(1080p\\)\\ \\[MATI\\]$", folder: sports}
+  - {nama: "ESPN 2 Latin America Argentina [MATI]", name_regex: "^ESPN\\ 2\\ Latin\\ America\\ Argentina\\ \\[MATI\\]$", folder: sports}
+  - {nama: "ESPN Latin America (1080p) [MATI]", name_regex: "^ESPN\\ Latin\\ America\\ \\(1080p\\)\\ \\[MATI\\]$", folder: sports}
+  - {nama: "ESPN Latin America Argentina [MATI]", name_regex: "^ESPN\\ Latin\\ America\\ Argentina\\ \\[MATI\\]$", folder: sports}
+  - {nama: "MTV (India) HD (396p) [MATI]", name_regex: "^MTV\\ \\(India\\)\\ HD\\ \\(396p\\)\\ \\[MATI\\]$", folder: america}
+  - {nama: "BBC One (720p) [Geo-blocked] [VPN]", name_regex: "^BBC\\ One\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[VPN\\]$", folder: uk}
+  - {nama: "BBC One East (720p) [Geo-blocked] [BELUM]", name_regex: "^BBC\\ One\\ East\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[BELUM\\]$", folder: uk}
+  - {nama: "BBC One West (720p) [Geo-blocked] [BELUM]", name_regex: "^BBC\\ One\\ West\\ \\(720p\\)\\ \\[Geo\\-blocked\\]\\ \\[BELUM\\]$", folder: uk}
 hold: []
 
 # Pin: nama channel (persis seperti kolom nama di draft / 'nama' di gaps) yang TETAP di foldernya walau semua kandidat gagal tes lokal.
 # Risikonya: entri itu bisa tidak bisa diputar. Hapus dari daftar ini kalau sudah tidak diperlukan.
-pin: ["SCTV", "Trans TV", "Trans7", "RRI Net", "BeritaSatu", "TVRI Sport", "Al-Iman TV (Indonesia)", "Surau TV", "Mentari TV"]
+pin: ["SCTV", "Trans TV", "Trans7", "RRI Net", "BeritaSatu", "TVRI Sport", "Al-Iman TV (Indonesia)", "Surau TV", "Mentari TV", "Surau TV [MATI]", "MS NOW", "La 2 [BELUM]", "HGTV Asia", "S4C [STB]", "Antena 3", "La Sexta", "90.1 radio Media FM surabaya", "EL SHADDAI FM SOLO", "Gema Surya FM Ponorogo", "Radio Rodja 756 AM & 100.1 FM", "Ajwa TV [MATI]", "Biznet Kids [MATI]", "My Kidz [STB]", "30A Golf Kingdom (720p) [BELUM]", "5USA [MATI]", "ABC WJLA-TV [MATI]", "AMC (United States) [MATI]", "AXN Asia Indonesia [MATI]", "Adult Swim West [VPN]", "Al Jazeera Documentary [BELUM]", "Animal Planet (United Kingdom) [MATI]", "BBC Four [MATI]", "BBC News UK HD [BELUM]", "BBC Parliament [BELUM]", "BBC Scotland [BELUM]", "BBC Three [BELUM]", "BabyTV Latin America [MATI]", "Barca TV [BELUM]", "Baywatch [MATI]", "Bravo TV (1080p) [MATI]", "CBBC HD [MATI]", "CBBC HD [MATI]", "CBS Sports Golazo Network [VPN]", "CNBC [MATI]", "Cartoon Network (United States) [VPN]", "Cartoon Network (United States) West (1080p) [Geo-blocked] [BELUM]", "Cartoon Network HD+ (1080p) [MATI]", "Channel 5 (United Kingdom) [MATI]", "Cinecanal Pacific (1080p) [MATI]", "Cinevault 80s [MATI]", "Comedy Central Latin America (1080p) [MATI]", "Crime + Investigation Asia (720p) [Geo-blocked] [MATI]", "Curiosity NOW EN [VPN]", "DAZN 1 Germany [MATI]", "DAZN F1 [MATI]", "DR1 [BELUM]", "DUST [VPN]", "DanceTV EDM Mainstage [MATI]", "Discovery Channel (India) HD (1080p) [MATI]", "Discovery Channel (United Kingdom) [MATI]", "Discovery Channel (United States) [BELUM]", "Discovery Science Europe UK [MATI]", "E4 [MATI]", "Eurosport (India) HD (1080p) [MATI]", "F1 Channel [VPN]", "FX (United States) [MATI]", "Fight Network [BELUM]", "Fox (United States) West (720p) [BELUM]", "Fox Sports 2 [MATI]", "GREAT! romance [VPN]", "HBO Family Asia HD (1080p) [MATI]", "HBO Hits Asia HD (1080p) [MATI]", "HBO Signature Asia HD (1080p) [MATI]", "HBO Signature Latin America [MATI]", "HGTV (United States) [MATI]", "Hallmark Channel (1080p) [MATI]", "Hell's Kitchen [VPN]", "History (Brazil) (720p) [MATI]", "ITV2 [MATI]", "ITV3 [MATI]", "ITV4 [MATI]", "Investigation Discovery (United States) [BELUM]", "Islam Channel [MATI]", "JimJam Europe [BELUM]", "Laff [BELUM]", "Lifetime Asia (1080p) [MATI]", "Lifetime Movies [MATI]", "MST3K [VPN]", "MTV2 [MATI]", "More4 (576p) [BELUM]", "Mythbusters [VPN]", "NBC [BELUM]", "NBC West (720p) [BELUM]", "NEW K-POP [BELUM]", "NFL Network [MATI]", "NPO 1 (360p) [MATI]", "NPO 1 HD [MATI]", "NPO 2 HD (720p) [Geo-blocked] [MATI]", "National Geographic (Mexico) (1080p) [MATI]", "National Geographic (United Kingdom)", "National Geographic (United States) (720p) [BELUM]", "National Geographic (United States) HD East [MATI]", "National Geographic Wild (United States) HD East [MATI]", "NatureTime UK [VPN]", "Nick Jr. (India) (576p) [MATI]", "Nickelodeon (India) (576p) [MATI]", "Nickelodeon (United Kingdom)", "One Golf [MATI]", "Overtime [VPN]", "PBS (1080p) [Geo-blocked] [VPN]", "PBS Nature [VPN]", "Polsat [BELUM]", "Polsat Sport 1 [BELUM]", "Premier Sports 2 [VPN]", "Racer Network [VPN]", "Reelz [MATI]", "SVT1 HD [BELUM]", "Setanta Sports [BELUM]", "Sky Sport 1 [MATI]", "Sky Sport 2 [MATI]", "Sky Sport 3 [MATI]", "Sky Sport 4 [MATI]", "Sky Sport Golf [BELUM]", "Sky Sport Mix [BELUM]", "Sky Sport Select [MATI]", "Sky Sport Tennis [BELUM]", "Sky Sport Top Event [BELUM]", "Sony Channel (Argentina) (1080p) [MATI]", "Sony Movies (Brazil) (720p) [MATI]", "Sport TV1 [MATI]", "Starz Cinema [MATI]", "TBS [VPN]", "TBS West (720p) [Geo-blocked] [VPN]", "TCM [VPN]", "TCM West (720p) [Geo-blocked] [VPN]", "TNT (United States) [BELUM]", "TNT (United States) West (720p) [Geo-blocked] [VPN]", "TNT Series Latin America (1080p) [MATI]", "TNT Series Latin America South [MATI]", "TVE Internacional America (720p) [BELUM]", "TVE Internacional America HD (1080p) [Geo-blocked] [VPN]", "Trace Africa [BELUM]", "Trace UK (1080p) [BELUM]", "USA Network [MATI]", "Univision (1080p) [Geo-blocked] [VPN]", "Univision West (1080p) [Geo-blocked] [VPN]", "Vevo Country (1080p) [MATI]", "Vevo Hip Hop (1080p) [BELUM]", "arte (France) [BELUM]", "beIN Sports 1 [BELUM]", "truTV West (720p) [Geo-blocked] [VPN]", "AXN Latin America (1080p) [MATI]", "Cartoon Network Latin America [MATI]", "Disney Channel Latin America South [MATI]", "E! Latin America (1080p) [MATI]", "E! Latin America Mexico (720p) [MATI]", "ESPN 2 Latin America (1080p) [MATI]", "ESPN 2 Latin America Argentina [MATI]", "ESPN Latin America (1080p) [MATI]", "ESPN Latin America Argentina [MATI]", "MTV (India) HD (396p) [MATI]", "BBC One (720p) [Geo-blocked] [VPN]", "BBC One East (720p) [Geo-blocked] [BELUM]", "BBC One West (720p) [Geo-blocked] [BELUM]", "HBO (United States) [MATI]", "HBO Hits [MATI]", "Premier Sports [VPN]", "TNT Sports 1 [MATI]", "TNT Sports (Argentina) SD", "AMC Latin America", "FX Latin America", "HBO 2 Latin America HD", "HBO Family Latin America", "Lifetime Latin America Brazil", "TCM Latin America", "Universal TV Latin America", "Disney Jr. Latin America", "A&E Latin America Brazil", "TNT Latin America", "USA Network Latin America", "Univision Latin America", "Vevo Latino", "National Geographic Latin America", "Antena 3 [STB]", "Radio Rodja 756 AM & 100.1 FM [BELUM]"]
 
 archive:
   - {key: local_id, label: "Indonesia Local TV"}
