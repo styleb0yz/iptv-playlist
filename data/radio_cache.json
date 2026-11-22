@@ -35,7 +35,7 @@
 "name": "CNN Indonesia",
 "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8",
 "logo": "",
-"votes": 7176,
+"votes": 7178,
 "codec": "UNKNOWN",
 "bitrate": 384
 },
@@ -43,7 +43,7 @@
 "name": "Suara Muslim Surabaya",
 "url": "http://pu.klikhost.com:8052/",
 "logo": "",
-"votes": 6533,
+"votes": 6534,
 "codec": "MP3",
 "bitrate": 96
 },
@@ -67,7 +67,7 @@
 "name": "RRI Pro 3 KBRN",
 "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3",
 "logo": "",
-"votes": 4157,
+"votes": 4158,
 "codec": "AAC+",
 "bitrate": 128
 },
@@ -219,7 +219,7 @@
 "name": "101.4 FM I-Radio JAKARTA",
 "url": "https://stream.radiojar.com/4ywdgup3bnzuv?1739561339",
 "logo": "https://iradiofm.com/streaming-dontdelete/image/irad-vinyl.png",
-"votes": 1121,
+"votes": 1122,
 "codec": "MP3",
 "bitrate": 0
 },
@@ -251,7 +251,7 @@
 "name": "Pejuang Kopi",
 "url": "https://stream.zeno.fm/sthgzynfcd0uv",
 "logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FsOfjIWRv4-5ZrxZ8IQTZ4VNWGwiL9yNhOdFDQEUe1nQ%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRX1BTWHBRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRdk1EZzhBa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2OTIwMTUwMDA.webp&w=750&q=100",
-"votes": 879,
+"votes": 880,
 "codec": "MP3",
 "bitrate": 128
 },
@@ -387,7 +387,7 @@
 "name": "PT. Radio Elshinta",
 "url": "https://stream-ssl.arenastreaming.com:8000/jakarta",
 "logo": "",
-"votes": 507,
+"votes": 508,
 "codec": "MP3",
 "bitrate": 64
 },
@@ -395,7 +395,7 @@
 "name": "Radio Kasih",
 "url": "https://onlineradiobox.com/json/id/kasih/play",
 "logo": "",
-"votes": 495,
+"votes": 496,
 "codec": "AAC",
 "bitrate": 128
 },
@@ -491,7 +491,7 @@
 "name": "RRI Pro1 Banjarmasin",
 "url": "https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3",
 "logo": "https://www.rri.co.id/assets/images/favicon-rri.ico",
-"votes": 354,
+"votes": 355,
 "codec": "AAC+",
 "bitrate": 64
 },
@@ -563,7 +563,7 @@
 "name": "GCD Yogyakarta 98.6 FM",
 "url": "https://studio1.indostreamers.com:8014/stream/1/",
 "logo": "https://gcdfm.com/cni-content/uploads/modules/siteconfig/thumbs/small/20160929094815.jpg",
-"votes": 311,
+"votes": 312,
 "codec": "AAC+",
 "bitrate": 48
 },
@@ -595,7 +595,7 @@
 "name": "LIVE - RRI PRO 2 Tanjung Pinang",
 "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro2.mp3",
 "logo": "https://ibb.co.com/Mf4YCSW",
-"votes": 298,
+"votes": 299,
 "codec": "AAC+",
 "bitrate": 64
 },
@@ -611,7 +611,7 @@
 "name": "RRI Pro 2 Makassar",
 "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3",
 "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a9/RRI_Pro_2_Makassar.png/revision/latest?cb=20180120125650",
-"votes": 288,
+"votes": 289,
 "codec": "AAC+",
 "bitrate": 64
 },
@@ -680,6 +680,14 @@
 "bitrate": 128
 },
 {
+"name": "KLCBS",
+"url": "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd",
+"logo": "https://klcbsofficial.com/favicon.ico",
+"votes": 233,
+"codec": "AAC",
+"bitrate": 80
+},
+{
 "name": "Venus FM makassar",
 "url": "https://stream.zeno.fm/3wiuocujuobtv",
 "logo": "https://www.radiovenusfm.com/wp-content/uploads/2023/12/LOGO-VENUS-Potong.png",
@@ -688,18 +696,10 @@
 "bitrate": 128
 },
 {
-"name": "KLCBS",
-"url": "https://streaming.klcbs.id/listen/klcbs/klcbsfm-hd",
-"logo": "https://klcbsofficial.com/favicon.ico",
-"votes": 232,
-"codec": "AAC",
-"bitrate": 80
-},
-{
 "name": "RRI Pro 1 Bandung",
 "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3",
 "logo": "",
-"votes": 231,
+"votes": 232,
 "codec": "AAC+",
 "bitrate": 128
 },
@@ -747,7 +747,7 @@
 "name": "RRI Pro 4 Bandung",
 "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3",
 "logo": "",
-"votes": 223,
+"votes": 224,
 "codec": "AAC+",
 "bitrate": 128
 },
@@ -755,7 +755,7 @@
 "name": "Radio Elshinta Bandung",
 "url": "https://stream-ssl.arenastreaming.com:8005/bandung",
 "logo": "",
-"votes": 218,
+"votes": 219,
 "codec": "MP3",
 "bitrate": 96
 },
