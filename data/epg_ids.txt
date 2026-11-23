@@ -159,7 +159,10 @@ AaseervathamTV.in@SD
 Aastha.in@HD
 Aastha.in@SD
 Aastha.in@UK
+AasthaBhajan.in@SD
+AasthaGujarati.in@SD
 AasthaInternational.in@SD
+AasthaKannada.in@SD
 AathavanTV.uk@SD
 AbadanTV.ir@SD
 AbanteTV.ph@HD
@@ -221,11 +224,8 @@ AmazonSat.br@SD
 AmericaTV.ar@SD
 AnNinhTV.vn@HD
 AnadoluNetTV.tr@SD
-AndTV.in@HD
-Andpictures.in@HD
 Andromeda.us@Italy
 Andromeda.us@UK
-AndxplorHD.in@HD
 Aneka
 AngelTV.in@Portuguese
 AnhuiTV.cn@SD
@@ -759,7 +759,6 @@ auto.pemukiman.setan
 auto.perjalanan.pembuktian.cinta
 auto.petualangan.sherina.2
 auto.premier.sports
-auto.rcti.sports
 auto.ritual.tumbal.terakhir
 auto.roll
 auto.romedy.now
