@@ -4,7 +4,8 @@
   "entries": 11512
  },
  "dhanytv.m3u": {
-  "status": "ok",
-  "entries": 938
+  "status": "fallback (pakai versi kemarin)",
+  "entries": 938,
+  "reason": "jumlah entri mencurigakan (743, sebelumnya 938)"
  }
 }
