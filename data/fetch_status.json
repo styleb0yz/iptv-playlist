@@ -1,11 +1,10 @@
 {
  "index.m3u": {
   "status": "ok",
-  "entries": 11512
+  "entries": 11556
  },
  "dhanytv.m3u": {
-  "status": "fallback (pakai versi kemarin)",
-  "entries": 938,
-  "reason": "jumlah entri mencurigakan (743, sebelumnya 938)"
+  "status": "ok",
+  "entries": 968
  }
 }
