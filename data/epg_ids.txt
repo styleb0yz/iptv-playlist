@@ -20,7 +20,6 @@
 158
 16tv.budapest
 17
-18
 1HDMusicTelevision.ru@HD
 1KZNTV.za@SD
 1almere.tv
@@ -32,7 +31,6 @@
 212
 216
 217
-23
 239
 24
 24.kanal
@@ -46,7 +44,6 @@
 2669
 27
 2705
-2707
 2710
 2711
 2712
@@ -57,9 +54,9 @@
 2719
 28
 28.kanala
+280
 2801
 2803
-2831
 2859
 2860
 287
@@ -74,7 +71,6 @@
 2939
 2940
 2972
-298
 2tv
 30
 3008
@@ -98,6 +94,7 @@
 30ATheBeachShow.us@SD
 30AWeLoveCars.us@SD
 31.kanal
+311
 312
 313
 314
@@ -269,7 +266,6 @@
 77
 775
 7Gold.it@SD
-7SMusic.in@SD
 7TV.es@Andalucia
 7TV.es@Cordoba
 7TV.es@Jaen
@@ -306,9 +302,7 @@ ASpor.tr@SD
 ATV.tr@SD
 ATVAlanya.tr@SD
 AWTV.br@HD
-AXN.id
 AXNAsia.sg@Vietnam
-AadinathTV.in@SD
 AajKiKhabar.in@SD
 AajTak.in@HD
 AajTak.in@SD
@@ -326,6 +320,7 @@ AasthaTamil.in@SD
 AathavanTV.uk@SD
 AbanteTV.ph@HD
 Action.fr@SD
+AdessoTV.br@SD
 AdriaMusicTelevision.de@SD
 Aflam.sa@SD
 AfraFilm.ir@SD
@@ -355,10 +350,10 @@ AllgauTV.de@SD
 AlmahriahTV.tr@SD
 AltasTV.tr@SD
 AltoAdigeTV.it@SD
+AlwesamTV.sa@SD
 AmarinTV.th@SD
 AmazonSat.br@SD
 AmericaTV.ar@SD
-AnNinhTV.vn@HD
 AnadoluNetTV.tr@SD
 Aneka
 AngelTV.in@Portuguese
@@ -425,6 +420,7 @@ CJOnStyle.kr@SD
 CNA.id
 CNBC Asia
 CNBCArabiya.ae@SD
+CNBCIndonesia.id@SD
 CNNNews18.in@SD
 CaMauTV.vn@SD
 CafeTV24.it@SD
@@ -456,6 +452,7 @@ CharoenCable37TV.th@SD
 CineEdge.id
 CinemachiXtra.uk@SD
 CompanyTV.it@SD
+CoolChannel.th@SD
 CozaTV.ng@SD
 CrimeInvestigation.id
 DAAITV.id
@@ -496,6 +493,7 @@ GCN.kr@SD
 GRPVERATV.it@SD
 GSMyShop.kr@SD
 GSShop.kr@SD
+GSTV.jp@SD
 GTV.id@SD
 Galaxy.id@SD
 GarudaTV.id
@@ -525,7 +523,6 @@ Italia2TV.it@SD
 ItalianFishingTV.it@SD
 IuniorTV.it@SD
 JTV.id@Madiun
-JTV.id@SD
 JakTV.id
 JawaPosTV.id@Jakarta
 JeddahRadio.sa@SD
@@ -535,7 +532,6 @@ KBS.World.id
 KIX.id
 KawanuaTV.id@SD
 KidsTV.id
-KilisuciTV.id@SD
 KissKissNapoliTV.it@SD
 KissKissTV.it@SD
 KompasTV.id
@@ -544,6 +540,7 @@ LBC.sa@SD
 LN24SA.za@SD
 LaltroCorriereTV.it@SD
 Lifetime.id
+LingkarTV.id@SD
 LivingAsiaChannel.ph@HD
 LoveNature.id
 LoveworldSAT.ng@SD
@@ -563,6 +560,7 @@ MajidAlMohandis.sa@SD
 MakkahTV.sa@SD
 Maraya.sa@HD
 Mazzika.eg@SD
+MentariTV.id@SD
 MetroTV.id
 MindanowNetworkTV.ph@HD
 Moji.id@SD
@@ -572,6 +570,7 @@ NAT_GEO_SHARKS
 NHKWorldJapan.id
 NHKWorldPremium.id
 NTVUAEHD.ae@SD
+Nickelodeon.anixa
 Nickelodeon.id
 NipponTV.jp@JOAXDTV
 NourTV.ae@SD
@@ -611,6 +610,7 @@ StaraTV.id@SumedangMajalengka
 StudioUniversal.id
 Sukmaindera
 Superrix.id
+SurauTV.id@SD
 Suria
 TRAVEL_AND_ADVENTURE
 TRSport.it@SD
@@ -652,7 +652,6 @@ accdn
 activa.tv
 ada.tv
 ado.tv
-afarin.baxcha
 afrolandtv
 aghani.aghani.tv
 al.souriya.tv
@@ -752,7 +751,6 @@ auto.lifetime.tanpa.sub.ind
 auto.losmen.melati
 auto.malam.para.jahanam
 auto.melukis.luka
-auto.mentari.tv.fhd
 auto.miramax.film
 auto.mn
 auto.mnctv
@@ -808,9 +806,9 @@ auto.tsn.sports.3
 auto.tsn.sports.4
 auto.tsn.sports.5
 auto.tudn.sports
+auto.tv1
 auto.tv2
 auto.tvp.sports.poland
-auto.vtv
 auto.wb.tv
 auto.win.sports
 ava.family
@@ -821,7 +819,6 @@ baby.shark.tv
 babyfirst.spanish
 backstage
 balapan.hd
-balapan.international
 bbc.earth
 bbc.earth.czechia
 beINSPORTSXTRA.us@SD
@@ -845,6 +842,7 @@ china.travel
 choppertown
 click.tv.coronel
 cna.originals
+cnn.indonesia
 court.tv
 dens.food.channel
 disney.channel.latin.america
@@ -863,7 +861,6 @@ i10004
 i10005
 i10010
 i10013
-i10016
 i10019
 i10020
 i10021
@@ -879,7 +876,6 @@ i10043
 i10045
 i10047
 i10049
-i10051
 i10053
 i10054
 i10057
@@ -903,7 +899,6 @@ positiv.tv
 powernation
 radar.tasikmalaya.tv
 ric
-rtv
 scifi.ru@SD
 shift.tv
 sts
