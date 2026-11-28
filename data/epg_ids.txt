@@ -15,10 +15,10 @@
 117
 119
 1258
+13emeRue.fr@SD
 1412
 158
 16tv.budapest
-17
 185
 1HDMusicTelevision.ru@HD
 1KZNTV.za@SD
@@ -104,7 +104,6 @@
 323
 325
 3288
-329
 332
 335
 337
@@ -384,6 +383,8 @@ BBCFourCBeebies.uk@HD
 BBCWorldNews.id
 BBSTV.kr@SD
 BCSStarCrossTV.ng@SD
+BFMAlsace.fr@SD
+BFMBusiness.fr@SD
 BTLTV.nl@SD
 BTNTV.kr@SD
 BaanBaanTV73.th@SD
@@ -574,7 +575,6 @@ OutdoorChannel.id
 PKTV.id@SD
 PONTV.id@SD
 PanoramaFM.sa@SD
-PlusMaisUm.br@HD
 PremierSports.ph@SD
 PremierSports2.ph@SD
 QVC.jp@SD
@@ -716,6 +716,7 @@ auto.golf.channel
 auto.hbo.signature
 auto.home.crasher
 auto.i.radio.jakarta
+auto.i.radio.jogja
 auto.jambi.tv
 auto.jr
 auto.k.drama
@@ -760,24 +761,10 @@ auto.tvri.bali
 auto.tvri.bengkulu
 auto.tvri.gorontalo
 auto.tvri.jambi
-auto.tvri.jawa.barat
-auto.tvri.jawa.tengah
-auto.tvri.jawa.timur
-auto.tvri.kalimantan.barat
-auto.tvri.kalimantan.selatan
-auto.tvri.kalimantan.tengah
-auto.tvri.kalimantan.timur
-auto.tvri.kepulauan.bangka.belitung
 auto.tvri.lampung
-auto.tvri.nusa.tenggara.barat
-auto.tvri.nusa.tenggara.timur
 auto.tvri.papua
 auto.tvri.riau
-auto.tvri.sulawesi.barat
-auto.tvri.sulawesi.selatan
-auto.tvri.sulawesi.tengah
-auto.tvri.sulawesi.tenggara
-auto.tvri.sulawesi.utara
+auto.vtv
 auto.win.sports
 auto.xingkong
 auto.zee.news
@@ -788,7 +775,6 @@ avto24
 baby.shark.tv
 babyfirst.spanish
 backstage
-balapan.hd
 bbc.earth
 bbc.earth.czechia
 beINSPORTSXTRA.us@SD
@@ -820,6 +806,7 @@ disney.channel.latin.america
 disney.channel.latin.america.mexico
 disney.channel.latin.america.panregional.hd
 disney.jr.latin.america
+disney.jr.latin.america.south
 disneychannel
 dove.channel
 fun.roads
